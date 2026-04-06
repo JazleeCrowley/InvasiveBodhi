@@ -1,0 +1,28 @@
+Thu Mar 05 15:17:20 PST 2026
+MaxEnt version 3.4.4
+Checking header of /Users/jazleecrowley/Desktop/Env_Layers/Clipped_bioclim14.asc
+Checking header of /Users/jazleecrowley/Desktop/Env_Layers/Clipped_bioclim15.asc
+Checking header of /Users/jazleecrowley/Desktop/Env_Layers/Clipped_bioclim18.asc
+Checking header of /Users/jazleecrowley/Desktop/Env_Layers/Clipped_bioclim4.asc
+Checking header of /Users/jazleecrowley/Desktop/Env_Layers/Clipped_bioclim5.asc
+Checking header of /Users/jazleecrowley/Desktop/Env_Layers/Clipped_elev.asc
+Checking header of /Users/jazleecrowley/Desktop/Env_Layers/mean_temp_final3_aligned.asc
+Checking header of /Users/jazleecrowley/Desktop/Env_Layers/mean_temp_final3_ready.asc
+Reading samples from HawaiiMaxentreligiosa.csv
+Read samples: max memory 3817865216, total allocated 257425408, free 223868888, used 33556520, increment 33556520
+Converting file /Users/jazleecrowley/Desktop/Env_Layers/mean_temp_final3_aligned.asc size 2972646, max memory = 3817865216
+Reading file mean_temp_final3_aligned.asc
+Error in file /Users/jazleecrowley/Desktop/Env_Layers/mean_temp_final3_aligned.asc: java.io.IOException: Unexpected end of file
+java.io.IOException: Unexpected end of file
+	at density.MyScanner.refresh(MyScanner.java:59)
+	at density.MyScanner.step(MyScanner.java:53)
+	at density.MyScanner.next(MyScanner.java:68)
+	at density.GridIO.readASC(GridIO.java:360)
+	at density.GridIO.readGrid(GridIO.java:71)
+	at density.Extractor.CachedGridFilename(Extractor.java:93)
+	at density.Extractor.extractSamples(Extractor.java:166)
+	at density.Runner.initializeGrids(Runner.java:216)
+	at density.Runner.start(Runner.java:304)
+	at density.GUI$7.construct(GUI.java:342)
+	at density.SwingWorker$2.run(SwingWorker.java:131)
+	at java.lang.Thread.run(Thread.java:750)

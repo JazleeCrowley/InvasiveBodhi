@@ -1,0 +1,1 @@
+java -mx910m -cp "/Users/jazleecrowley/Desktop/maxent.jar:/Users/jazleecrowley/Desktop/maxent.jar" density.Explain -l /Users/jazleecrowley/Desktop/MaxEnt_Output/religiosa_0.lambdas -c /Users/jazleecrowley/Desktop/MaxEnt_Output/religiosa_0.asc /Users/jazleecrowley/Desktop/Env_Layers

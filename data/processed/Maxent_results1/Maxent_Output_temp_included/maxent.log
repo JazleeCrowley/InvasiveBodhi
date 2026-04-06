@@ -1,0 +1,86 @@
+Thu Mar 05 15:24:56 PST 2026
+MaxEnt version 3.4.4
+Checking header of /Users/jazleecrowley/Desktop/Env_Layers/Clipped_bioclim14.asc
+Checking header of /Users/jazleecrowley/Desktop/Env_Layers/Clipped_bioclim15.asc
+Checking header of /Users/jazleecrowley/Desktop/Env_Layers/Clipped_bioclim18.asc
+Checking header of /Users/jazleecrowley/Desktop/Env_Layers/Clipped_bioclim4.asc
+Checking header of /Users/jazleecrowley/Desktop/Env_Layers/Clipped_bioclim5.asc
+Checking header of /Users/jazleecrowley/Desktop/Env_Layers/Clipped_elev.asc
+Checking header of /Users/jazleecrowley/Desktop/Env_Layers/mean_temp_final3_ready.asc
+Reading samples from HawaiiMaxentreligiosa.csv
+Read samples: max memory 954728448, total allocated 257425408, free 221352368, used 36073040, increment 36073040
+Converting file /Users/jazleecrowley/Desktop/Env_Layers/Clipped_bioclim14.asc size 2251136, max memory = 954728448
+Reading file Clipped_bioclim14.asc
+FLOAT, 20824 pixels with data
+readGrid: max memory 954728448, total allocated 257425408, free 234349160, used 23076248, increment -12996792
+Writing file /Users/jazleecrowley/Desktop/Env_Layers/maxent.cache/Clipped_bioclim14.mxe
+Converting file /Users/jazleecrowley/Desktop/Env_Layers/Clipped_bioclim15.asc size 2623045, max memory = 954728448
+Reading file Clipped_bioclim15.asc
+FLOAT, 385116 pixels with data
+readGrid: max memory 954728448, total allocated 257425408, free 197699832, used 59725576, increment 36649328
+Writing file /Users/jazleecrowley/Desktop/Env_Layers/maxent.cache/Clipped_bioclim15.mxe
+Converting file /Users/jazleecrowley/Desktop/Env_Layers/Clipped_bioclim18.asc size 2268445, max memory = 954728448
+Reading file Clipped_bioclim18.asc
+FLOAT, 20824 pixels with data
+readGrid: max memory 954728448, total allocated 324534272, free 242531312, used 82002960, increment 22277384
+Writing file /Users/jazleecrowley/Desktop/Env_Layers/maxent.cache/Clipped_bioclim18.mxe
+Converting file /Users/jazleecrowley/Desktop/Env_Layers/Clipped_bioclim4.asc size 2610734, max memory = 954728448
+Reading file Clipped_bioclim4.asc
+FLOAT, 20824 pixels with data
+readGrid: max memory 954728448, total allocated 324534272, free 276373200, used 48161072, increment -33841888
+Writing file /Users/jazleecrowley/Desktop/Env_Layers/maxent.cache/Clipped_bioclim4.mxe
+Converting file /Users/jazleecrowley/Desktop/Env_Layers/Clipped_bioclim5.asc size 2568620, max memory = 954728448
+Reading file Clipped_bioclim5.asc
+FLOAT, 20824 pixels with data
+readGrid: max memory 954728448, total allocated 324534272, free 184473768, used 140060504, increment 91899432
+Writing file /Users/jazleecrowley/Desktop/Env_Layers/maxent.cache/Clipped_bioclim5.mxe
+Converting file /Users/jazleecrowley/Desktop/Env_Layers/Clipped_elev.asc size 2273320, max memory = 954728448
+Reading file Clipped_elev.asc
+SHORT, 20824 pixels with data
+readGrid: max memory 954728448, total allocated 463994880, free 392829640, used 71165240, increment -68895264
+Writing file /Users/jazleecrowley/Desktop/Env_Layers/maxent.cache/Clipped_elev.mxe
+Converting file /Users/jazleecrowley/Desktop/Env_Layers/mean_temp_final3_ready.asc size 2618233, max memory = 954728448
+Reading file mean_temp_final3_ready.asc
+FLOAT, 20824 pixels with data
+readGrid: max memory 954728448, total allocated 463994880, free 296725256, used 167269624, increment 96104384
+Writing file /Users/jazleecrowley/Desktop/Env_Layers/maxent.cache/mean_temp_final3_ready.mxe
+Extractor: max memory 954728448, total allocated 463994880, free 294683600, used 169311280, increment 2041656
+Extracting random background and sample data
+Warning: Sample at -157.9368896, 21.37024879 in HawaiiMaxentreligiosa.csv is missing some environmental data (e.g. Clipped_bioclim14)
+Warning: Skipping sample at -157.9368896, 21.37024879 which has no environmental data
+Warning: Sample at -157.8374786, 21.28109741 in HawaiiMaxentreligiosa.csv is missing some environmental data (e.g. Clipped_bioclim14)
+Warning: Skipping sample at -157.8374786, 21.28109741 which has no environmental data
+Warning: Sample at -157.8374333, 21.28107 in HawaiiMaxentreligiosa.csv is missing some environmental data (e.g. Clipped_bioclim14)
+Warning: Skipping sample at -157.8374333, 21.28107 which has no environmental data
+Warning: Sample at -157.923549, 21.27280309 in HawaiiMaxentreligiosa.csv is missing some environmental data (e.g. Clipped_bioclim14)
+Warning: Skipping sample at -157.923549, 21.27280309 which has no environmental data
+Time since start: 12.079
+20824 points with values for all grids
+Adding samples to background in feature space
+Command line used:  environmentallayers=/Users/jazleecrowley/Desktop/Env_Layers/ samplesfile=/Users/jazleecrowley/Desktop/Maxent_Input/HawaiiMaxentreligiosa.csv outputdirectory=/Users/jazleecrowley/Desktop/MaxEnt_Output/
+Command line to repeat: java density.MaxEnt nowarnings noprefixes outputdirectory=/Users/jazleecrowley/Desktop/MaxEnt_Output/ samplesfile=/Users/jazleecrowley/Desktop/Maxent_Input/HawaiiMaxentreligiosa.csv environmentallayers=/Users/jazleecrowley/Desktop/Env_Layers/
+Species: religiosa
+Layers: Clipped_bioclim14 Clipped_bioclim15 Clipped_bioclim18 Clipped_bioclim4 Clipped_bioclim5 Clipped_elev mean_temp_final3_ready
+Layertypes: Continuous Continuous Continuous Continuous Continuous Continuous Continuous
+outputdirectory: /Users/jazleecrowley/Desktop/MaxEnt_Output/
+samplesfile: /Users/jazleecrowley/Desktop/Maxent_Input/HawaiiMaxentreligiosa.csv
+environmentallayers: /Users/jazleecrowley/Desktop/Env_Layers/
+
+getSamples: max memory 954728448, total allocated 464519168, free 367164848, used 97354320, increment -71956960
+Making features
+makeFeatures: max memory 954728448, total allocated 464519168, free 353667696, used 110851472, increment 13497152
+religiosa: 
+Regularization values: linear/quadratic/product: 0.147, categorical: 0.250, threshold: 1.340, hinge: 0.500
+66 samples
+Density: max memory 954728448, total allocated 464519168, free 341816384, used 122702784, increment 11851312
+linearPredictor: max memory 954728448, total allocated 464519168, free 341816384, used 122702784, increment 0
+FeaturedSpace: max memory 954728448, total allocated 464519168, free 341816384, used 122702784, increment 0
+Sequential: max memory 954728448, total allocated 464519168, free 341816384, used 122702784, increment 0
+Initial loss: 9.213834261230438
+Time since start: 21.675
+500: time = 9.093000 loss = 7.668001
+Resulting gain: 1.5458328180773098
+Projecting...
+Writing file /Users/jazleecrowley/Desktop/MaxEnt_Output/religiosa.asc
+Writing /Users/jazleecrowley/Desktop/MaxEnt_Output/plots/religiosa.png
+Ending

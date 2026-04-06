@@ -1,0 +1,142 @@
+Fri Mar 13 16:51:08 PDT 2026
+MaxEnt version 3.4.4
+Checking header of /Users/jazleecrowley/Desktop/Env_Layers/Bioclim2.asc
+Checking header of /Users/jazleecrowley/Desktop/Env_Layers/Clipped_bioclim12.asc
+Checking header of /Users/jazleecrowley/Desktop/Env_Layers/Clipped_bioclim14.asc
+Checking header of /Users/jazleecrowley/Desktop/Env_Layers/Clipped_bioclim15.asc
+Checking header of /Users/jazleecrowley/Desktop/Env_Layers/Clipped_bioclim18.asc
+Checking header of /Users/jazleecrowley/Desktop/Env_Layers/Clipped_bioclim3.asc
+Checking header of /Users/jazleecrowley/Desktop/Env_Layers/Clipped_bioclim4.asc
+Checking header of /Users/jazleecrowley/Desktop/Env_Layers/Clipped_elev.asc
+Checking header of /Users/jazleecrowley/Desktop/Env_Layers/mean_temp_final3_ready.asc
+Reading samples from HawaiiMaxentreligiosa.csv
+Read samples: max memory 954728448, total allocated 257425408, free 203589248, used 53836160, increment 53836160
+Extractor: max memory 954728448, total allocated 257425408, free 199562720, used 57862688, increment 4026528
+Extracting random background and sample data
+Warning: Sample at -157.9368896, 21.37024879 in HawaiiMaxentreligiosa.csv is missing some environmental data (e.g. Bioclim2)
+Warning: Skipping sample at -157.9368896, 21.37024879 which has no environmental data
+Warning: Sample at -157.8374786, 21.28109741 in HawaiiMaxentreligiosa.csv is missing some environmental data (e.g. Bioclim2)
+Warning: Skipping sample at -157.8374786, 21.28109741 which has no environmental data
+Warning: Sample at -157.8374333, 21.28107 in HawaiiMaxentreligiosa.csv is missing some environmental data (e.g. Bioclim2)
+Warning: Skipping sample at -157.8374333, 21.28107 which has no environmental data
+Warning: Sample at -157.923549, 21.27280309 in HawaiiMaxentreligiosa.csv is missing some environmental data (e.g. Bioclim2)
+Warning: Skipping sample at -157.923549, 21.27280309 which has no environmental data
+Time since start: 3.237
+20824 points with values for all grids
+Adding samples to background in feature space
+Command line used:  environmentallayers=/Users/jazleecrowley/Desktop/Env_Layers/ samplesfile=/Users/jazleecrowley/Desktop/Maxent_Input/HawaiiMaxentreligiosa.csv outputdirectory=/Users/jazleecrowley/Desktop/MaxEnt_Output/
+Command line to repeat: java density.MaxEnt nowarnings noprefixes outputdirectory=/Users/jazleecrowley/Desktop/MaxEnt_Output/ samplesfile=/Users/jazleecrowley/Desktop/Maxent_Input/HawaiiMaxentreligiosa.csv environmentallayers=/Users/jazleecrowley/Desktop/Env_Layers/ skipifexists betamultiplier=3.0 replicates=5
+Species: religiosa_0 religiosa_1 religiosa_2 religiosa_3 religiosa_4
+Layers: Bioclim2 Clipped_bioclim12 Clipped_bioclim14 Clipped_bioclim15 Clipped_bioclim18 Clipped_bioclim3 Clipped_bioclim4 Clipped_elev mean_temp_final3_ready
+Layertypes: Continuous Continuous Continuous Continuous Continuous Continuous Continuous Continuous Continuous
+outputdirectory: /Users/jazleecrowley/Desktop/MaxEnt_Output/
+samplesfile: /Users/jazleecrowley/Desktop/Maxent_Input/HawaiiMaxentreligiosa.csv
+environmentallayers: /Users/jazleecrowley/Desktop/Env_Layers/
+skipifexists: true
+betamultiplier: 3.0
+replicates: 5
+
+getSamples: max memory 954728448, total allocated 257425408, free 181809104, used 75616304, increment 17753616
+Making features
+makeFeatures: max memory 954728448, total allocated 257425408, free 230885096, used 26540312, increment -49075992
+religiosa_0: 
+Regularization values: linear/quadratic/product: 0.187, categorical: 0.250, threshold: 1.480, hinge: 0.500
+52 samples
+Density: max memory 954728448, total allocated 257425408, free 213451320, used 43974088, increment 17433776
+linearPredictor: max memory 954728448, total allocated 257425408, free 213451320, used 43974088, increment 0
+FeaturedSpace: max memory 954728448, total allocated 257425408, free 213451320, used 43974088, increment 0
+Sequential: max memory 954728448, total allocated 257425408, free 213451320, used 43974088, increment 0
+Initial loss: 9.213036733523925
+Initial test loss: 9.213036733523925
+Time since start: 13.339
+280: time = 9.863000 loss = 7.894542 testLoss 7.678537
+Resulting gain: 1.3184943588483753
+Projecting...
+Writing file /Users/jazleecrowley/Desktop/MaxEnt_Output/religiosa_0.asc
+Writing /Users/jazleecrowley/Desktop/MaxEnt_Output/plots/religiosa_0.png
+getSamples: max memory 954728448, total allocated 177733632, free 130937632, used 46796000, increment 2821912
+Making features
+makeFeatures: max memory 954728448, total allocated 177733632, free 124149632, used 53584000, increment 6788000
+religiosa_1: 
+Regularization values: linear/quadratic/product: 0.184, categorical: 0.250, threshold: 1.470, hinge: 0.500
+Time since start: 14.424
+53 samples
+Density: max memory 954728448, total allocated 177733632, free 107881000, used 69852632, increment 16268632
+linearPredictor: max memory 954728448, total allocated 177733632, free 107881000, used 69852632, increment 0
+FeaturedSpace: max memory 954728448, total allocated 177733632, free 107881000, used 69852632, increment 0
+Sequential: max memory 954728448, total allocated 177733632, free 107881000, used 69852632, increment 0
+Initial loss: 9.213036733523925
+Initial test loss: 9.213036733523925
+Time since start: 23.134
+340: time = 8.702000 loss = 7.964368 testLoss 7.381795
+Resulting gain: 1.2486682807248588
+Projecting...
+Writing file /Users/jazleecrowley/Desktop/MaxEnt_Output/religiosa_1.asc
+Writing /Users/jazleecrowley/Desktop/MaxEnt_Output/plots/religiosa_1.png
+getSamples: max memory 954728448, total allocated 162004992, free 93378656, used 68626336, increment -1226296
+Making features
+makeFeatures: max memory 954728448, total allocated 162004992, free 86717048, used 75287944, increment 6661608
+religiosa_2: 
+Regularization values: linear/quadratic/product: 0.184, categorical: 0.250, threshold: 1.470, hinge: 0.500
+53 samples
+Density: max memory 954728448, total allocated 162004992, free 76007600, used 85997392, increment 10709448
+linearPredictor: max memory 954728448, total allocated 162004992, free 76007600, used 85997392, increment 0
+FeaturedSpace: max memory 954728448, total allocated 162004992, free 76007600, used 85997392, increment 0
+Sequential: max memory 954728448, total allocated 162004992, free 76007600, used 85997392, increment 0
+Initial loss: 9.213036733523925
+Initial test loss: 9.213036733523925
+Time since start: 33.274
+360: time = 9.191000 loss = 7.779099 testLoss 8.140632
+Resulting gain: 1.4339380062776144
+Projecting...
+Writing file /Users/jazleecrowley/Desktop/MaxEnt_Output/religiosa_2.asc
+Writing /Users/jazleecrowley/Desktop/MaxEnt_Output/plots/religiosa_2.png
+getSamples: max memory 954728448, total allocated 160432128, free 81928136, used 78503992, increment -7493400
+Making features
+makeFeatures: max memory 954728448, total allocated 160432128, free 75539992, used 84892136, increment 6388144
+religiosa_3: 
+Regularization values: linear/quadratic/product: 0.184, categorical: 0.250, threshold: 1.470, hinge: 0.500
+53 samples
+Density: max memory 954728448, total allocated 160432128, free 64733528, used 95698600, increment 10806464
+linearPredictor: max memory 954728448, total allocated 160432128, free 64733528, used 95698600, increment 0
+FeaturedSpace: max memory 954728448, total allocated 160432128, free 64733528, used 95698600, increment 0
+Sequential: max memory 954728448, total allocated 160432128, free 64733528, used 95698600, increment 0
+Initial loss: 9.21333588095598
+Initial test loss: 9.21333588095598
+Time since start: 39.936
+220: time = 5.698000 loss = 7.955570 testLoss 7.497726
+Resulting gain: 1.2577655931969272
+Projecting...
+Writing file /Users/jazleecrowley/Desktop/MaxEnt_Output/religiosa_3.asc
+Writing /Users/jazleecrowley/Desktop/MaxEnt_Output/plots/religiosa_3.png
+getSamples: max memory 954728448, total allocated 153092096, free 47849560, used 105242536, increment 9543936
+Making features
+makeFeatures: max memory 954728448, total allocated 153092096, free 40655976, used 112436120, increment 7193584
+religiosa_4: 
+Regularization values: linear/quadratic/product: 0.184, categorical: 0.250, threshold: 1.470, hinge: 0.500
+53 samples
+Density: max memory 954728448, total allocated 153092096, free 29476456, used 123615640, increment 11179520
+linearPredictor: max memory 954728448, total allocated 153092096, free 29476456, used 123615640, increment 0
+FeaturedSpace: max memory 954728448, total allocated 153092096, free 29476456, used 123615640, increment 0
+Sequential: max memory 954728448, total allocated 153092096, free 29476456, used 123615640, increment 0
+Initial loss: 9.213236175088209
+Initial test loss: 9.213236175088209
+Time since start: 47.308
+260: time = 6.710000 loss = 7.795064 testLoss 8.098375
+Resulting gain: 1.4181721180481617
+Projecting...
+Writing file /Users/jazleecrowley/Desktop/MaxEnt_Output/religiosa_4.asc
+Writing /Users/jazleecrowley/Desktop/MaxEnt_Output/plots/religiosa_4.png
+Creating average grid, stddev grid etc.
+Writing file /Users/jazleecrowley/Desktop/MaxEnt_Output/religiosa_avg.asc
+Writing file /Users/jazleecrowley/Desktop/MaxEnt_Output/religiosa_stddev.asc
+Writing file /Users/jazleecrowley/Desktop/MaxEnt_Output/religiosa_min.asc
+Writing file /Users/jazleecrowley/Desktop/MaxEnt_Output/religiosa_max.asc
+Writing file /Users/jazleecrowley/Desktop/MaxEnt_Output/religiosa_median.asc
+Writing /Users/jazleecrowley/Desktop/MaxEnt_Output/plots/religiosa_avg.png
+Writing /Users/jazleecrowley/Desktop/MaxEnt_Output/plots/religiosa_stddev.png
+Time since start: 48.333
+Writing /Users/jazleecrowley/Desktop/MaxEnt_Output/plots/religiosa_min.png
+Writing /Users/jazleecrowley/Desktop/MaxEnt_Output/plots/religiosa_max.png
+Writing /Users/jazleecrowley/Desktop/MaxEnt_Output/plots/religiosa_median.png
+Ending

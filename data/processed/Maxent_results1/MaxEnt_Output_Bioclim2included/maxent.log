@@ -1,0 +1,176 @@
+Fri Mar 13 14:31:30 PDT 2026
+MaxEnt version 3.4.4
+Checking header of /Users/jazleecrowley/Desktop/Env_Layers/Bioclim2.asc
+Checking header of /Users/jazleecrowley/Desktop/Env_Layers/Clipped_bioclim14.asc
+Checking header of /Users/jazleecrowley/Desktop/Env_Layers/Clipped_bioclim15.asc
+Checking header of /Users/jazleecrowley/Desktop/Env_Layers/Clipped_bioclim18.asc
+Checking header of /Users/jazleecrowley/Desktop/Env_Layers/Clipped_bioclim4.asc
+Checking header of /Users/jazleecrowley/Desktop/Env_Layers/Clipped_bioclim5.asc
+Checking header of /Users/jazleecrowley/Desktop/Env_Layers/Clipped_elev.asc
+Checking header of /Users/jazleecrowley/Desktop/Env_Layers/mean_temp_final3_ready.asc
+Reading samples from HawaiiMaxentreligiosa.csv
+Read samples: max memory 954728448, total allocated 257425408, free 218793192, used 38632216, increment 38632216
+Converting file /Users/jazleecrowley/Desktop/Env_Layers/Bioclim2.asc size 2620171, max memory = 954728448
+Reading file Bioclim2.asc
+FLOAT, 20824 pixels with data
+readGrid: max memory 954728448, total allocated 257425408, free 224091480, used 33333928, increment -5298288
+Writing file /Users/jazleecrowley/Desktop/Env_Layers/maxent.cache/Bioclim2.mxe
+Extractor: max memory 954728448, total allocated 257425408, free 221734112, used 35691296, increment 2357368
+Extracting random background and sample data
+Warning: Sample at -157.9368896, 21.37024879 in HawaiiMaxentreligiosa.csv is missing some environmental data (e.g. Bioclim2)
+Warning: Skipping sample at -157.9368896, 21.37024879 which has no environmental data
+Warning: Sample at -157.8374786, 21.28109741 in HawaiiMaxentreligiosa.csv is missing some environmental data (e.g. Bioclim2)
+Warning: Skipping sample at -157.8374786, 21.28109741 which has no environmental data
+Warning: Sample at -157.8374333, 21.28107 in HawaiiMaxentreligiosa.csv is missing some environmental data (e.g. Bioclim2)
+Warning: Skipping sample at -157.8374333, 21.28107 which has no environmental data
+Warning: Sample at -157.923549, 21.27280309 in HawaiiMaxentreligiosa.csv is missing some environmental data (e.g. Bioclim2)
+Warning: Skipping sample at -157.923549, 21.27280309 which has no environmental data
+Time since start: 6.939
+20824 points with values for all grids
+Adding samples to background in feature space
+Command line used:  environmentallayers=/Users/jazleecrowley/Desktop/Env_Layers/ samplesfile=/Users/jazleecrowley/Desktop/Maxent_Input/HawaiiMaxentreligiosa.csv outputdirectory=/Users/jazleecrowley/Desktop/MaxEnt_Output/
+Command line to repeat: java density.MaxEnt nowarnings noprefixes responsecurves outputdirectory=/Users/jazleecrowley/Desktop/MaxEnt_Output/ samplesfile=/Users/jazleecrowley/Desktop/Maxent_Input/HawaiiMaxentreligiosa.csv environmentallayers=/Users/jazleecrowley/Desktop/Env_Layers/
+Species: religiosa
+Layers: Bioclim2 Clipped_bioclim14 Clipped_bioclim15 Clipped_bioclim18 Clipped_bioclim4 Clipped_bioclim5 Clipped_elev mean_temp_final3_ready
+Layertypes: Continuous Continuous Continuous Continuous Continuous Continuous Continuous Continuous
+responsecurves: true
+outputdirectory: /Users/jazleecrowley/Desktop/MaxEnt_Output/
+samplesfile: /Users/jazleecrowley/Desktop/Maxent_Input/HawaiiMaxentreligiosa.csv
+environmentallayers: /Users/jazleecrowley/Desktop/Env_Layers/
+
+getSamples: max memory 954728448, total allocated 324534272, free 294398720, used 30135552, increment -5555744
+Making features
+makeFeatures: max memory 954728448, total allocated 324534272, free 288806416, used 35727856, increment 5592304
+religiosa: 
+Regularization values: linear/quadratic/product: 0.147, categorical: 0.250, threshold: 1.340, hinge: 0.500
+66 samples
+Density: max memory 954728448, total allocated 324534272, free 275130176, used 49404096, increment 13676240
+linearPredictor: max memory 954728448, total allocated 324534272, free 275130176, used 49404096, increment 0
+FeaturedSpace: max memory 954728448, total allocated 324534272, free 275130176, used 49404096, increment 0
+Sequential: max memory 954728448, total allocated 324534272, free 275130176, used 49404096, increment 0
+Initial loss: 9.213834261230438
+Time since start: 16.565
+500: time = 9.421000 loss = 7.503120
+Resulting gain: 1.710713968330758
+Projecting...
+Writing file /Users/jazleecrowley/Desktop/MaxEnt_Output/religiosa.asc
+Writing /Users/jazleecrowley/Desktop/MaxEnt_Output/plots/religiosa.png
+religiosa response curves
+Response curve: only Bioclim2
+Making features
+makeFeatures: max memory 954728448, total allocated 370671616, free 263595616, used 107076000, increment 57671904
+religiosa Bioclim2: 
+Regularization values: linear/quadratic/product: 0.147, categorical: 0.250, threshold: 1.340, hinge: 0.500
+66 samples
+Density: max memory 954728448, total allocated 370671616, free 260163680, used 110507936, increment 3431936
+linearPredictor: max memory 954728448, total allocated 370671616, free 260163680, used 110507936, increment 0
+FeaturedSpace: max memory 954728448, total allocated 370671616, free 260163680, used 110507936, increment 0
+Sequential: max memory 954728448, total allocated 370671616, free 260163680, used 110507936, increment 0
+Initial loss: 9.213834261230438
+Time since start: 18.083
+300: time = 0.771000 loss = 8.811506
+Resulting gain: 0.4023284326266605
+religiosa response curves
+Response curve: only Clipped_bioclim14
+Making features
+makeFeatures: max memory 954728448, total allocated 370671616, free 182620304, used 188051312, increment 77543376
+religiosa Clipped_bioclim14: 
+Regularization values: linear/quadratic/product: 0.147, categorical: 0.250, threshold: 1.340, hinge: 0.500
+66 samples
+Density: max memory 954728448, total allocated 370671616, free 179291000, used 191380616, increment 3329304
+linearPredictor: max memory 954728448, total allocated 370671616, free 179291000, used 191380616, increment 0
+FeaturedSpace: max memory 954728448, total allocated 370671616, free 179291000, used 191380616, increment 0
+Sequential: max memory 954728448, total allocated 370671616, free 179291000, used 191380616, increment 0
+Initial loss: 9.213834261230438
+300: time = 0.657000 loss = 9.098226
+Resulting gain: 0.11560846923132573
+religiosa response curves
+Response curve: only Clipped_bioclim15
+Making features
+makeFeatures: max memory 954728448, total allocated 370671616, free 141583568, used 229088048, increment 37707432
+religiosa Clipped_bioclim15: 
+Regularization values: linear/quadratic/product: 0.147, categorical: 0.250, threshold: 1.340, hinge: 0.500
+66 samples
+Density: max memory 954728448, total allocated 370671616, free 138003640, used 232667976, increment 3579928
+linearPredictor: max memory 954728448, total allocated 370671616, free 138003640, used 232667976, increment 0
+FeaturedSpace: max memory 954728448, total allocated 370671616, free 138003640, used 232667976, increment 0
+Sequential: max memory 954728448, total allocated 370671616, free 138003640, used 232667976, increment 0
+Initial loss: 9.213834261230438
+Time since start: 19.388
+60: time = 0.538000 loss = 9.205152
+Resulting gain: 0.008681880283603505
+religiosa response curves
+Response curve: only Clipped_bioclim18
+Making features
+makeFeatures: max memory 954728448, total allocated 360710144, free 165859736, used 194850408, increment -37817568
+religiosa Clipped_bioclim18: 
+Regularization values: linear/quadratic/product: 0.147, categorical: 0.250, threshold: 1.340, hinge: 0.500
+66 samples
+Density: max memory 954728448, total allocated 360710144, free 162776016, used 197934128, increment 3083720
+linearPredictor: max memory 954728448, total allocated 360710144, free 162776016, used 197934128, increment 0
+FeaturedSpace: max memory 954728448, total allocated 360710144, free 162776016, used 197934128, increment 0
+Sequential: max memory 954728448, total allocated 360710144, free 162776016, used 197934128, increment 0
+Initial loss: 9.213834261230438
+320: time = 0.877000 loss = 9.115374
+Resulting gain: 0.09846023330876363
+religiosa response curves
+Response curve: only Clipped_bioclim4
+Making features
+makeFeatures: max memory 954728448, total allocated 353894400, free 223912368, used 129982032, increment -67952096
+religiosa Clipped_bioclim4: 
+Regularization values: linear/quadratic/product: 0.147, categorical: 0.250, threshold: 1.340, hinge: 0.500
+66 samples
+Density: max memory 954728448, total allocated 353894400, free 220968352, used 132926048, increment 2944016
+linearPredictor: max memory 954728448, total allocated 353894400, free 220968352, used 132926048, increment 0
+FeaturedSpace: max memory 954728448, total allocated 353894400, free 220968352, used 132926048, increment 0
+Sequential: max memory 954728448, total allocated 353894400, free 220968352, used 132926048, increment 0
+Initial loss: 9.213834261230438
+Time since start: 24.233
+500: time = 3.860000 loss = 8.873097
+Resulting gain: 0.3407374734129984
+religiosa response curves
+Response curve: only Clipped_bioclim5
+Making features
+makeFeatures: max memory 954728448, total allocated 324009984, free 179647832, used 144362152, increment 11436104
+religiosa Clipped_bioclim5: 
+Regularization values: linear/quadratic/product: 0.147, categorical: 0.250, threshold: 1.340, hinge: 0.500
+66 samples
+Density: max memory 954728448, total allocated 324009984, free 176879632, used 147130352, increment 2768200
+linearPredictor: max memory 954728448, total allocated 324009984, free 176879632, used 147130352, increment 0
+FeaturedSpace: max memory 954728448, total allocated 324009984, free 176879632, used 147130352, increment 0
+Sequential: max memory 954728448, total allocated 324009984, free 176879632, used 147130352, increment 0
+Initial loss: 9.213834261230438
+240: time = 0.543000 loss = 8.165059
+Resulting gain: 1.0487755768219884
+religiosa response curves
+Response curve: only Clipped_elev
+Making features
+makeFeatures: max memory 954728448, total allocated 324009984, free 145653392, used 178356592, increment 31226240
+religiosa Clipped_elev: 
+Regularization values: linear/quadratic/product: 0.147, categorical: 0.250, threshold: 1.340, hinge: 0.500
+66 samples
+Density: max memory 954728448, total allocated 324009984, free 142925120, used 181084864, increment 2728272
+linearPredictor: max memory 954728448, total allocated 324009984, free 142925120, used 181084864, increment 0
+FeaturedSpace: max memory 954728448, total allocated 324009984, free 142925120, used 181084864, increment 0
+Sequential: max memory 954728448, total allocated 324009984, free 142925120, used 181084864, increment 0
+Initial loss: 9.213834261230438
+Time since start: 25.803
+240: time = 0.927000 loss = 8.112197
+Resulting gain: 1.1016368729819277
+religiosa response curves
+Response curve: only mean_temp_final3_ready
+Making features
+makeFeatures: max memory 954728448, total allocated 316145664, free 235585200, used 80560464, increment -100524400
+religiosa mean_temp_final3_ready: 
+Regularization values: linear/quadratic/product: 0.147, categorical: 0.250, threshold: 1.340, hinge: 0.500
+66 samples
+Density: max memory 954728448, total allocated 316145664, free 232868288, used 83277376, increment 2716912
+linearPredictor: max memory 954728448, total allocated 316145664, free 232868288, used 83277376, increment 0
+FeaturedSpace: max memory 954728448, total allocated 316145664, free 232868288, used 83277376, increment 0
+Sequential: max memory 954728448, total allocated 316145664, free 232868288, used 83277376, increment 0
+Initial loss: 9.213834261230438
+200: time = 0.783000 loss = 7.906135
+Resulting gain: 1.3076991464831815
+religiosa response curves
+Time since start: 26.968
+Ending
