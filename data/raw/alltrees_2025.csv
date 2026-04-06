@@ -1,0 +1,602 @@
+type,latitude,longitude,altitude (ft),name,desc
+W,21.96884489,-159.7113096,7.5,K21,
+W,19.59960233,-155.9634821,272.3,BI 13 Adult,
+W,19.594,-155.9701389,,BI Offspring,
+W,19.54247509,-155.928562,1464.6,BI Daifukuji Offspring,
+W,19.54250268,-155.928648,1461.6,BI Daifukuji Offspring,
+W,19.54253039,-155.9285289,1465.9,BI Daifukuji Adult,
+W,19.49191103,-155.9131064,1468.2,BI Adult,
+W,19.4578056,-155.8981389,,BI 10 Adult,
+W,19.4579444,-155.8980278,,BI Offspring,
+W,19.4513611,-155.8928056,,BI 15 Adult,
+W,19.4511111,-155.8928611,,BI 16 Adult,
+W,19.4512778,-155.8927778,,BI Offspring,
+W,19.4511667,-155.8927778,,BI Offspring,
+W,19.4511111,-155.8927778,,BI Offspring,
+W,19.4510833,-155.8927778,,BI Offspring,
+W,19.4510833,-155.89275,,BI Offspring,
+W,19.4510556,-155.8927222,,BI Offspring,
+W,19.4510278,-155.89275,,BI Offspring,
+W,19.4510556,-155.8928056,,BI Offspring,
+W,19.4513333,-155.8923611,,BI Offspring,
+W,19.4512222,-155.8922778,,BI Offspring,
+W,19.4508889,-155.8920833,,BI Offspring,
+W,19.4508889,-155.8920278,,BI Offspring,
+W,19.4509167,-155.8920278,,BI Offspring,
+W,19.425,-155.9044167,,BI 14 Adult,
+W,19.0595556,-155.59025,,BI 9 Adult,
+W,19.05965086,-155.5902477,719.5,BI 8 Adult,
+W,19.0597844,-155.5902503,720.8,BI 7 Adult,
+W,19.05982847,-155.5902197,720.8,BI Offspring,
+W,19.0599167,-155.5901944,,BI Offspring,
+W,19.0596667,-155.5897778,,BI Offspring,
+W,19.05975,-155.5898056,,BI Offspring,
+W,19.05975,-155.5897778,,BI Offspring,
+W,19.6245278,-155.0396111,,BI 11 Adult,
+W,19.62491246,-155.0390819,314,BI Juvenile,
+W,20.0411389,-155.3732222,,BI 12 Adult,
+W,22.20865,-159.384475,,K4,<div>Planted adult non-fruiting</div>
+W,21.924507,-159.509247,,K80,<div>New planted tree from the Lawai international center</div>
+W,21.9679722,-159.7088056,,K21 Offspring,<div>Second generation adult</div>
+W,21.9761102,-159.367397,210,K2,
+W,21.976124,-159.367076,,K2 Offspring,<div>New in 2025<br></div>
+W,21.976129,-159.367057,,K2 Offspring,<div>New in 2025<br></div>
+W,21.976145,-159.367045,,K2 Offspring,<div>New in 2025<br></div><div><br></div>
+W,21.976256,-159.367014,,K2 Offspring,<div>New in 2025<br></div>
+W,21.976264,-159.366909,,K2 Offspring,<div>New in 2025<br></div>
+W,21.976339,-159.366692,,K2 Offspring,<div>New in 2025<br></div>
+W,21.9761389,-159.3670556,,K2 Offspring,<div>New to 2025</div>
+W,21.97625,-159.3670278,,K2 Offspring,<div>New to 2025</div>
+W,21.9761111,-159.3670833,,K2 Offspring,<div>New in 2025</div>
+W,21.975189,-159.367038,,K2 Offspring,<div>Far older than 2023</div>
+W,21.97625,-159.3669722,,K2 Offspring,
+W,21.9761667,-159.3673611,,K2 Offspring,<div>Since 2023</div>
+W,21.9760833,-159.3671111,,K2 Offspring,
+W,21.9760278,-159.3671667,,K2 Offspring,
+W,21.9760833,-159.3671667,,K2 Offspring,
+W,21.9761667,-159.3673889,,K2 Offspring,
+W,21.9761944,-159.3668056,,K2 Offspring,
+W,21.9760278,-159.36675,,K2 Offspring,
+W,21.9768611,-159.3648056,,K2 Offspring,
+W,21.9768056,-159.3645278,,K2 Offspring,
+W,21.9751389,-159.3682222,,K2 Offspring,
+W,21.9758889,-159.3671667,,K2 Offspring,
+W,21.9760833,-159.3674167,,K2 Offspring,
+W,21.9764444,-159.3675278,,K2 Offspring,
+W,21.9764444,-159.3675556,,K2 Offspring,
+W,21.9764167,-159.3675556,,K2 Offspring,
+W,21.9764167,-159.3675833,,K2 Offspring,
+W,21.9765,-159.3670833,,K2 Offspring,
+W,21.9761667,-159.3653889,,K2 Offspring,
+W,21.9761944,-159.3653611,,K2 Offspring,
+W,21.9760556,-159.3671667,,K2 Offspring,
+W,21.9762222,-159.367,,K2 Offspring,
+W,21.9755556,-159.3666667,,K2 Offspring,
+W,22.21180757,-159.3836592,250,K5,<div>K Adult mother fruiting</div>
+W,22.2100833,-159.38275,,K5 Offspring,<div>New in 2025</div>
+W,22.2100556,-159.38275,,K5 Offspring,<div>New in 2025<br></div>
+W,22.2100556,-159.3827778,,K5 Offspring,<div>New in 2025<br></div>
+W,22.21,-159.3828333,,K5 Offspring,<div>New in 2025<br></div>
+W,22.21,-159.3828056,,K5 Offspring,<div>New in 2025<br></div>
+W,22.2100278,-159.3827778,,K5 Offspring,<div>New in 2025<br></div>
+W,22.2118611,-159.3838333,,K5 Offspring,<div>New in 2025<br></div>
+W,22.2118333,-159.3838889,,K5 Offspring,<div>New in 2025<br></div>
+W,22.2118056,-159.3838889,,K5 Offspring,<div>New in 2025<br></div>
+W,22.2122778,-159.3835833,,K5 Offspring,<div>New in 2025<br></div>
+W,22.2113611,-159.3835,,K5 Offspring,<div>New in 2025<br></div>
+W,22.2116111,-159.3823056,,K5 Offspring,<div>New in 2025</div>
+W,22.2100833,-159.3827222,,K5 Offspring,<div>New in 2025</div>
+W,22.2101111,-159.3826944,,K5 Offspring,<div>New in 2025</div>
+W,22.2101389,-159.3826944,,K5 Offspring,<div>New in 2025<br></div>
+W,22.2101667,-159.3826944,,K5 Offspring,<div>New to 2025</div>
+W,22.2101944,-159.3826667,,K5 Offspring,<div>New in 2025</div>
+W,22.2102222,-159.3826667,,K5 Offspring,<div>New in 2025</div>
+W,22.21025,-159.3826667,,K5 Offspring,<div>New in 2025<br></div>
+W,22.2102778,-159.3826389,,K5 Offspring,<div>New in 2025<br></div>
+W,22.2103611,-159.3826389,,K5 Offspring,<div>New in 2025<br></div>
+W,22.2119444,-159.3836944,,K5 Offspring,<div>New in 2025<br></div>
+W,22.2119167,-159.3836944,,K5 Offspring,<div>New in 2025<br></div>
+W,22.2119167,-159.3836667,,K5 Offspring,<div>New in 2025<br></div>
+W,22.2114444,-159.3833611,,K5 Offspring,<div>New in 2025<br></div>
+W,22.2114444,-159.38325,,K5 Offspring,<div>New in 2025<br></div>
+W,22.2115278,-159.3831389,,K5 Offspring,<div>New in 2025<br></div>
+W,22.2115833,-159.3827222,,K5 Offspring,<div>New in 2025<br></div>
+W,22.2115833,-159.3825,,K5 Offspring,<div>New in 2025<br></div>
+W,22.2118056,-159.3813889,,K5 Offspring,<div>New in 2025<br></div>
+W,22.2110556,-159.3836667,,K5 Offspring,<div>New in 2025<br></div>
+W,22.2099444,-159.3828889,,K5 Offspring,
+W,22.2118611,-159.3837222,,K5 Offspring,
+W,22.2118889,-159.3835556,,K5 Offspring,
+W,22.2118333,-159.3838333,,K5 Offspring,
+W,22.2118056,-159.3838333,,K5 Offspring,
+W,22.2117778,-159.3838333,,K5 Offspring,
+W,22.2118056,-159.3838611,,K5 Offspring,
+W,22.2118333,-159.3839167,,K5 Offspring,
+W,22.2119722,-159.3838333,,K5 Offspring,
+W,22.2119722,-159.3838056,,K5 Offspring,
+W,22.2119722,-159.3839722,,K5 Offspring,
+W,22.2105833,-159.3839444,,K5 Offspring,
+W,22.211,-159.3836667,,K5 Offspring,
+W,22.2110833,-159.3836389,,K5 Offspring,
+W,22.2114444,-159.3833889,,K5 Offspring,
+W,22.2099167,-159.3828889,,K5 Offspring,<div>2023-2025</div>
+W,22.2119722,-159.3838889,,K5 Offspring,<div>2023-2025<br></div>
+W,22.2116944,-159.3828889,,K5 Offspring,"<div>Older than 2023, still there 2025</div>"
+W,22.2116667,-159.3830833,,K5 Offspring,<div>2023-2025</div>
+W,21.907638,-159.593462,,K3,<div>K Adult mother tree</div>
+W,21.9678333,-159.7098889,,K21 Offspring,
+W,21.9678056,-159.7099167,,K21 Offspring,
+W,21.9677778,-159.7099167,,K21 Offspring,
+W,21.9678056,-159.7099444,,K21 Offspring,
+W,21.9677778,-159.7099444,,K21 Offspring,
+W,21.9678056,-159.7100556,,K21 Offspring,
+W,21.9678056,-159.7100833,,K21 Offspring,
+W,21.9677778,-159.7100833,,K21 Offspring,
+W,21.9687222,-159.7119444,,K21 Offspring,
+W,21.9689444,-159.7108889,,K21 Offspring,<div>New in 2025</div>
+W,21.9685,-159.7105556,,K21 Offspring,
+W,21.9685278,-159.7105556,,K21 Offspring,
+W,21.9684722,-159.7105278,,K21 Offspring,
+W,21.9684722,-159.7104722,,K21 Offspring,
+W,21.9682222,-159.7101111,,K21 Offspring,
+W,21.9682222,-159.7100833,,K21 Offspring,
+W,21.9684167,-159.7104444,,K21 Offspring,
+W,21.9682222,-159.7101389,,K21 Offspring,
+W,21.9684444,-159.7104444,,K21 Offspring,
+W,21.9681944,-159.7100833,,K21 Offspring,
+W,21.9681389,-159.71,,K21 Offspring,
+W,21.9681389,-159.7099444,,K21 Offspring,
+W,21.9681667,-159.7100278,,K21 Offspring,
+W,21.9681111,-159.7099722,,K21 Offspring,
+W,21.9692222,-159.7113611,,K21 Offspring 2024,<div>Found in 2024<br></div>
+W,21.9689722,-159.7109444,,K21 Offspring,<div>New in 2025</div>
+W,21.96911448,-159.7111704,7.5,K21 Offspring,<div>New in 2025</div>
+W,21.9689444,-159.7108611,,K21 Offspring,<div>New in 2025<br></div><div><br></div>
+W,21.3168333,-157.8592222,,O Offspring,
+W,21.3168611,-157.8592222,,O Offspring,
+W,21.317,-157.8579722,,O30,<div>Fruiting adult next to main Foster tree</div>
+W,21.2980278,-157.8555556,,O Offspring,
+W,21.4309167,-157.83275,,O34,"<div>Didn't see any fruit, looked about 17, but offspring was near by</div>"
+W,21.6416111,-158.0558333,,O35,
+W,21.2946389,-157.8441944,,O36,
+W,21.3209722,-157.8504167,,O43,<div>Fruiting adult at temple<br></div><div><br></div>
+W,21.3169722,-157.8443056,,O44,<div>Fruiting young adult on cemetery wall</div>
+W,21.3170278,-157.8446389,,O Offspring,
+W,21.3169167,-157.8448611,,O Offspring,
+W,21.3169444,-157.8449722,,O Offspring,
+W,21.30725,-157.839,,O45,<div>Fruiting adult in apartment parking lot</div>
+W,21.3172778,-157.8016667,,O Offspring,
+W,21.3065833,-157.8323056,,O46,<div>Fruiting adult in someone's yard</div>
+W,21.3170278,-157.8555556,,O50,
+W,21.3944722,-157.9724167,,O Offspring,
+W,21.368189,-157.781771,,O Offspring,
+W,21.367864,-157.781342,,O Offspring,
+W,21.367605,-157.781181,,O Offspring,
+W,21.415525,-157.812344,,O Offspring,
+W,21.3018056,-157.8582778,,O32,<div>Fruiting Adult</div>
+W,21.3022222,-157.8586944,,O Offspring,<div>Likely offspring of O32<br></div>
+W,21.3018056,-157.8585,,O Offspring,<div>Likely offspring of O32<br></div>
+W,21.3018056,-157.8585278,,O Offspring,<div>Likely offspring of O32<br></div>
+W,21.3018611,-157.8585556,,O Offspring,<div>Likely offspring of O32<br></div><div><br></div>
+W,21.3018889,-157.8585556,,O Offspring,<div>Likely offspring of O32<br></div><div><br></div>
+W,21.302,-157.8586389,,O Offspring,<div>Likely offspring of O32<br></div><div><br></div>
+W,21.3019722,-157.8586111,,O Offspring,<div>Likely offspring of O32<br></div><div><br></div>
+W,21.3019444,-157.8586111,,O Offspring,<div>Likely offspring of O32<br></div>
+W,21.3019444,-157.8585833,,O Offspring,<div>Likely offspring of O32<br></div>
+W,21.3020556,-157.8586667,,O Offspring,<div>Likely offspring of O32<br></div>
+W,21.3020556,-157.8586944,,O Offspring,<div>Likely offspring of O32<br></div>
+W,21.3020278,-157.8586667,,O Offspring,<div>Likely offspring of O32<br></div>
+W,21.3020833,-157.8587222,,O Offspring,<div>Likely offspring of O32<br></div>
+W,21.3020833,-157.8586944,,O Offspring,<div>Likely offspring of O32<br></div>
+W,21.3003056,-157.8560278,,O Offspring,<div>About 5 years old</div>
+W,21.30125,-157.8148056,,O31,<div>Fruiting Adult from 1969&nbsp;<br></div>
+W,21.3011667,-157.8145278,,O Offspring,<div>UH Manoa Campus</div>
+W,21.3009722,-157.8148889,,O Offspring,<div>UH Manoa Campus<br></div>
+W,21.3010833,-157.8155,,O Offspring,<div>UH Manoa Campus<br></div>
+W,21.3006667,-157.8153611,,O Offspring,<div>UH Manoa Campus<br></div>
+W,21.3008611,-157.8153889,,O Offspring,<div>UH Manoa Campus<br></div>
+W,21.3006944,-157.8149167,,O Offspring,<div>UH Manoa Campus<br></div>
+W,21.3006944,-157.8148889,,O Offspring,<div>UH Manoa Campus<br></div>
+W,21.3006667,-157.8148889,,O Offspring,<div>UH Manoa Campus<br></div>
+W,21.3006667,-157.8149167,,O Offspring,<div>UH Manoa Campus<br></div>
+W,21.3006944,-157.8148056,,O Offspring,<div>UH Manoa Campus<br></div>
+W,21.3009167,-157.8147222,,O Offspring,<div>UH Manoa Campus<br></div>
+W,21.3009444,-157.8142222,,O Offspring,<div>UH Manoa Campus<br></div>
+W,21.3009722,-157.8142222,,O Offspring,<div>UH Manoa Campus<br></div>
+W,21.3009722,-157.8141667,,O Offspring,<div>UH Manoa Campus<br></div>
+W,21.3012778,-157.8143056,,O Offspring,<div>UH Manoa Campus<br></div>
+W,21.3019444,-157.8148611,,O Offspring,<div>UH Manoa Campus<br></div>
+W,21.3015,-157.8160278,,O Offspring,<div>UH Manoa Campus<br></div>
+W,21.3014444,-157.8162222,,O Offspring,<div>UH Manoa Campus<br></div>
+W,21.3014167,-157.817,,O Offspring,<div>UH Manoa Campus<br></div>
+W,21.2995556,-157.8138056,,O Offspring,<div>UH Manoa Campus<br></div>
+W,21.3010556,-157.8139444,,O Offspring,<div>UH Manoa Campus<br></div>
+W,21.2995833,-157.81375,,O Offspring,<div>UH Manoa Campus<br></div>
+W,21.2800278,-157.8281111,,O47,<div>Fruiting adult found between buildings<br></div>
+W,21.2836667,-157.8286111,,O Offspring,<div>Likely offspring of O47<br></div>
+W,21.283,-157.832,,O Offspring,<div>Likely offspring of O47<br></div><div><br></div>
+W,21.2824722,-157.8326667,,O Offspring,<div>Likely offspring of O47<br></div>
+W,21.2823611,-157.8327778,,O Offspring,<div>Likely offspring of O47<br></div>
+W,21.3845833,-158.0171667,,O48,
+W,21.3863333,-158.0155,,O Offspring,<div>Likely offspring of O48</div>
+W,21.3861667,-158.0155,,O Offspring,<div>Likely offspring of O48<br></div>
+W,21.3862222,-158.0155,,O Offspring,<div>Likely offspring of O48<br></div>
+W,21.3853889,-158.0163889,,O Offspring,<div>Likely offspring of O48<br></div>
+W,21.3860556,-158.0154444,,O Offspring,<div>Likely offspring of O48<br></div>
+W,21.4986667,-158.0227778,,O18,
+W,21.4984444,-158.0232222,,O Offspring,<div>Likely O18 Offspring<br></div>
+W,21.4985833,-158.0231389,,O Offspring,<div>Likely O18 Offspring<br></div>
+W,21.4996944,-158.0252222,,O Offspring,<div>Likely O18 Offspring<br></div>
+W,21.4996944,-158.0258056,,O Offspring,<div>Likely O18 Offspring</div>
+W,21.3383056,-157.83775,,O17,<div>Nichiren Temple Adult</div>
+W,21.3382222,-157.83775,,O Offspring,<div>Offspring of O17 or O49 likely</div>
+W,21.3381111,-157.8372778,,O49,<div>Old old tree near Queen Emma's palace</div>
+W,21.3379722,-157.8368889,,O Offspring,<div>Offspring of O17 or O49 likely<br></div>
+W,21.3383611,-157.8376667,,O Offspring,<div>Offspring of O17 or O49 likely<br></div>
+W,21.3389167,-157.8389722,,O Offspring,<div>Offspring of O17 or O49 likely<br></div>
+W,21.3368889,-157.8381944,,O Offspring,<div>Offspring of O17 or O49 likely<br></div>
+W,21.3358056,-157.8381667,,O Offspring,<div>Offspring of O17 or O49 likely<br></div>
+W,21.3357222,-157.8381111,,O Offspring,<div>Offspring of O17 or O49 likely<br></div>
+W,21.3357778,-157.8381667,,O Offspring,<div>Offspring of O17 or O49 likely<br></div>
+W,21.33575,-157.8381389,,O Offspring,<div>Offspring of O17 or O49 likely<br></div>
+W,21.3357222,-157.8383056,,O Offspring,<div>Offspring of O17 or O49 likely<br></div>
+W,21.3358056,-157.8382778,,O Offspring,<div>Offspring of O17 or O49 likely<br></div>
+W,21.3358889,-157.8382778,,O Offspring,<div>Offspring of O17 or O49 likely<br></div>
+W,21.3357222,-157.8381944,,O Offspring,<div>Offspring of O17 or O49 likely<br></div>
+W,21.3357222,-157.8381667,,O Offspring,<div>Offspring of O17 or O49 likely<br></div>
+W,21.3356944,-157.8381667,,O Offspring,<div>Offspring of O17 or O49 likely<br></div>
+W,21.33575,-157.8381944,,O Offspring,<div>Offspring of O17 or O49 likely<br></div>
+W,21.3357222,-157.83825,,O Offspring,<div>Offspring of O17 or O49 likely<br></div>
+W,21.3356944,-157.8382778,,O Offspring,<div>Offspring of O17 or O49 likely<br></div>
+W,21.3356667,-157.8383056,,O Offspring,<div>Offspring of O17 or O49 likely<br></div>
+W,21.3356667,-157.83825,,O Offspring,<div>Offspring of O17 or O49 likely<br></div>
+W,21.3356667,-157.8383333,,O Offspring,<div>Offspring of O17 or O49 likely<br></div>
+W,21.3356389,-157.8383056,,O Offspring,<div>Offspring of O17 or O49 likely<br></div>
+W,21.3356389,-157.8383333,,O Offspring,<div>Offspring of O17 or O49 likely<br></div>
+W,21.3357778,-157.8384444,,O Offspring,<div>Offspring of O17 or O49 likely<br></div>
+W,21.33575,-157.8384444,,O Offspring,<div>Offspring of O17 or O49 likely<br></div>
+W,21.3356944,-157.8383889,,O Offspring,<div>Offspring of O17 or O49 likely<br></div>
+W,21.3356111,-157.8383333,,O Offspring,<div>Offspring of O17 or O49 likely<br></div>
+W,21.3355833,-157.8383056,,O Offspring,<div>Offspring of O17 or O49 likely<br></div>
+W,21.3355556,-157.8382778,,O Offspring,<div>Offspring of O17 or O49 likely<br></div>
+W,21.3355278,-157.83825,,O Offspring,<div>Offspring of O17 or O49 likely<br></div>
+W,21.3355556,-157.83825,,O Offspring,<div>Offspring of O17 or O49 likely<br></div>
+W,21.3355278,-157.8382778,,O Offspring,<div>Offspring of O17 or O49 likely<br></div>
+W,21.3354722,-157.8381944,,O Offspring,<div>Offspring of O17 or O49 likely<br></div>
+W,21.3355833,-157.8384167,,O Offspring,<div>Offspring of O17 or O49 likely<br></div>
+W,21.3357778,-157.8385,,O Offspring,<div>Offspring of O17 or O49 likely<br></div>
+W,21.3358056,-157.8385,,O Offspring,<div>Offspring of O17 or O49 likely<br></div>
+W,21.33575,-157.8383333,,O Offspring,<div>Offspring of O17 or O49 likely<br></div>
+W,21.3357222,-157.8382778,,O Offspring,<div>Offspring of O17 or O49 likely<br></div>
+W,21.3357778,-157.8384722,,O Offspring,<div>Offspring of O17 or O49 likely<br></div>
+W,21.3357222,-157.8384444,,O Offspring,<div>Offspring of O17 or O49 likely<br></div>
+W,21.33575,-157.8384722,,O Offspring,<div>Offspring of O17 or O49 likely<br></div>
+W,21.3357222,-157.8384167,,O Offspring,<div>Offspring of O17 or O49 likely<br></div>
+W,21.33575,-157.8384167,,O Offspring,<div>Offspring of O17 or O49 likely<br></div>
+W,21.3356944,-157.8384167,,O Offspring,<div>Offspring of O17 or O49 likely<br></div>
+W,21.3356667,-157.8384167,,O Offspring,<div>Offspring of O17 or O49 likely<br></div>
+W,21.3354722,-157.8381111,,O Offspring,<div>Offspring of O17 or O49 likely<br></div>
+W,21.3354444,-157.8381111,,O Offspring,<div>Offspring of O17 or O49 likely<br></div>
+W,21.3368611,-157.8382222,,O Offspring,<div>Offspring of O17 or O49 likely<br></div>
+W,21.3375,-157.8374722,,O Offspring,<div>Offspring of O17 or O49 likely<br></div>
+W,21.3121667,-157.8481389,,O12,
+W,21.3120556,-157.84825,,O13,
+W,21.3116111,-157.84825,,O14,
+W,21.3113333,-157.8480556,,O50,
+W,21.3114444,-157.8481667,,O51,
+W,21.3118611,-157.8482778,,O52,
+W,21.3114444,-157.8477222,,O53,
+W,21.3111944,-157.8478333,,O Offspring,<div>Likely offspring of Punchbowl trees</div>
+W,21.3111667,-157.8477222,,O Offspring,<div>Likely offspring of Punchbowl trees<br></div>
+W,21.3111389,-157.8476667,,O Offspring,<div>Likely offspring of Punchbowl trees<br></div>
+W,21.3111667,-157.8476944,,O Offspring,<div>Likely offspring of Punchbowl trees<br></div>
+W,21.3107778,-157.8473333,,O Offspring,<div>Likely offspring of Punchbowl trees<br></div>
+W,21.3108889,-157.8476667,,O Offspring,<div>Likely offspring of Punchbowl trees<br></div>
+W,21.311,-157.8501944,,O Offspring,<div>Likely offspring of Punchbowl trees<br></div>
+W,21.3116944,-157.84375,,O Offspring,<div>Likely offspring of Punchbowl trees<br></div>
+W,21.3167778,-157.8593333,,O Offspring,<div>Fruiting green<br></div>
+W,21.3167778,-157.8594167,,O Offspring,
+W,21.3170556,-157.8593611,,O Offspring,
+W,21.3171111,-157.85925,,O Offspring,
+W,21.317,-157.8594444,,O Offspring,
+W,21.3171944,-157.8591667,,O Offspring,
+W,21.3168889,-157.8595,,O Offspring,
+W,21.3168611,-157.85925,,O Offspring,
+W,21.3168611,-157.8592778,,O Offspring,
+W,21.3170833,-157.8593056,,O Offspring,
+W,21.3171111,-157.8593056,,O Offspring,
+W,21.3171389,-157.8592778,,O Offspring,
+W,21.3171667,-157.85925,,O Offspring,
+W,21.3172222,-157.8591667,,O Offspring,
+W,21.31725,-157.8591944,,O Offspring,
+W,21.3173056,-157.8590556,,O Offspring,
+W,21.3171944,-157.8588611,,O Offspring,
+W,21.3173889,-157.8589722,,O Offspring,
+W,21.3173889,-157.8589444,,O Offspring,
+W,21.3174167,-157.8588889,,O Offspring,
+W,21.3174444,-157.8588889,,O Offspring,
+W,21.3173056,-157.8587222,,O Offspring,
+W,21.3174444,-157.8585,,O Offspring,
+W,21.3174444,-157.8585278,,O Offspring,
+W,21.3176667,-157.8585556,,O Offspring,
+W,21.3176944,-157.8585278,,O Offspring,
+W,21.3177222,-157.8585278,,O Offspring,
+W,21.3176667,-157.8583056,,O Offspring,
+W,21.3171944,-157.8591667,,O Offspring,<div>Has green fruit<br></div>
+W,21.3177222,-157.8581667,,O Offspring,
+W,21.3177222,-157.8581944,,O Offspring,
+W,21.3178333,-157.8583333,,O Offspring,
+W,21.3178056,-157.8580833,,O Offspring,
+W,21.3179444,-157.85825,,O Offspring,
+W,21.3178889,-157.858,,O Offspring,
+W,21.3178611,-157.8580556,,O Offspring,
+W,21.3178611,-157.8580278,,O Offspring,
+W,21.3179167,-157.8579722,,O Offspring,
+W,21.3179722,-157.8581944,,O Offspring,
+W,21.3179722,-157.8581667,,O Offspring,
+W,21.3179444,-157.8581944,,O Offspring,
+W,21.3180278,-157.8581111,,O Offspring,
+W,21.3180556,-157.8581111,,O Offspring,
+W,21.3181111,-157.8581944,,O Offspring,
+W,21.318,-157.8578333,,O Offspring,
+W,21.3183611,-157.8581389,,O Offspring,
+W,21.3183333,-157.8581111,,O Offspring,
+W,21.3184722,-157.8582222,,O Offspring,
+W,21.3210556,-157.8555556,,O Offspring,<div>older<br></div>
+W,21.3210556,-157.8555278,,O Offspring,<div>older<br></div>
+W,21.3186667,-157.8565556,,O Offspring,<div>Older on top of bathroom<br></div>
+W,21.32125,-157.8554444,,O Offspring,
+W,21.3144444,-157.8617222,,O Offspring,
+W,21.3146944,-157.8613889,,O Offspring,
+W,21.31475,-157.8612778,,O Offspring,<div>Less than a year<br></div>
+W,21.3148611,-157.8611111,,O Offspring,
+W,21.3151111,-157.8607222,,O Offspring,
+W,21.3150556,-157.8604722,,O Offspring,
+W,21.3153611,-157.8608333,,O Offspring,
+W,21.3154167,-157.8607222,,O Offspring,
+W,21.3153333,-157.8608611,,O Offspring,
+W,21.31575,-157.8602778,,O Offspring,
+W,21.3163333,-157.86,,O Offspring,<div>Much older<br></div>
+W,21.3171111,-157.8583611,,O Offspring,
+W,21.3170833,-157.8583889,,O Offspring,
+W,21.3171389,-157.8583611,,O Offspring,
+W,21.3169722,-157.8579444,,O15,"<div>Old, fruiting Foster Tree</div>"
+W,21.3167778,-157.8580556,,O Offspring,
+W,21.31675,-157.8583333,,O Offspring,
+W,21.3166111,-157.8584722,,O Offspring,
+W,21.3165,-157.8583333,,O Offspring,
+W,21.3165,-157.8583611,,O Offspring,
+W,21.3164444,-157.8585833,,O Offspring,
+W,21.3164444,-157.8586111,,O Offspring,
+W,21.3164722,-157.8585,,O Offspring,
+W,21.31625,-157.8581111,,O Offspring,
+W,21.3165278,-157.8580556,,O Offspring,
+W,21.3165556,-157.8580556,,O Offspring,
+W,21.3165833,-157.8580833,,O Offspring,
+W,21.3166111,-157.8581111,,O Offspring,
+W,21.3166111,-157.8581389,,O Offspring,
+W,21.3166389,-157.8581389,,O Offspring,
+W,21.3166389,-157.8581667,,O Offspring,
+W,21.3147778,-157.8577778,,O Offspring,
+W,21.3163611,-157.8579722,,O Offspring,
+W,21.31625,-157.8597222,,O Offspring,
+W,21.3173333,-157.8577778,,O Offspring,
+W,21.3169167,-157.8573056,,O Offspring,
+W,21.3170278,-157.8573333,,O Offspring,
+W,21.3172222,-157.8576389,,O Offspring,
+W,21.3171111,-157.8574167,,O Offspring,
+W,21.2948056,-157.8644444,,O Offspring,
+W,21.2943333,-157.8436667,,O Offspring,
+W,21.4310278,-157.8315,,O Offspring,<div>Likely offspring of O34</div>
+W,21.3183333,-157.8481667,,O Offspring,
+W,21.3184444,-157.8483889,,O Offspring,
+W,21.3174722,-157.84925,,O Offspring,
+W,21.3143889,-157.8538889,,O Offspring,
+W,21.3095833,-157.8544167,,O Offspring,
+W,21.3033889,-157.8559444,,O Offspring,
+W,21.3033889,-157.8558611,,O Offspring,
+W,21.3034167,-157.8558611,,O Offspring,
+W,21.3145833,-157.8620833,,O Offspring,
+W,21.3149444,-157.8614444,,O Offspring,
+W,21.3154722,-157.8599444,,O Offspring,
+W,21.3161667,-157.8597778,,O Offspring,
+W,21.3195556,-157.8522222,,O Offspring,
+W,21.3196389,-157.85225,,O Offspring,
+W,21.3198056,-157.852,,O Offspring,
+W,21.31975,-157.852,,O Offspring,
+W,21.3211667,-157.8515,,O Offspring,
+W,21.29925,-157.8348333,,O Offspring,
+W,21.302071,-157.837111,,O Offspring,
+W,21.2974167,-157.8357778,,O Offspring,
+W,21.3234167,-157.8510278,,O Offspring,
+W,21.3168333,-157.84375,,O Offspring,
+W,21.30325,-157.8330556,,O Offspring,
+W,21.3031389,-157.8329167,,O Offspring,
+W,21.3033056,-157.8188056,,O Offspring,
+W,21.30325,-157.8186667,,O Offspring,
+W,21.3042778,-157.8198889,,O Offspring,
+W,21.302952,-157.820652,,O Offspring,
+W,21.3035556,-157.8205833,,O Offspring,
+W,21.302562,-157.820864,,O Offspring,
+W,21.3173889,-157.8017778,,O Offspring,
+W,21.3173611,-157.8018333,,O Offspring,
+W,21.3172778,-157.8018889,,O Offspring,
+W,21.3068333,-157.8126667,,O Offspring,
+W,21.3076944,-157.813,,O Offspring,
+W,21.3066667,-157.8123056,,O Offspring,
+W,21.3083056,-157.8167222,,O Offspring,
+W,21.3068889,-157.8231944,,O Offspring,
+W,21.2993611,-157.8516944,,O Offspring,
+W,21.2888056,-157.81475,,O Offspring,
+W,21.3064167,-157.8245278,,O Offspring,
+W,21.3054167,-157.8288333,,O Offspring,
+W,21.312601,-157.813061,,O Offspring,
+W,21.30655,-157.81723,,O Offspring,
+W,21.3276667,-157.8459167,,O Offspring,
+W,21.3278889,-157.8453333,,O Offspring,
+W,21.3162778,-157.8506667,,O Offspring,
+W,21.3177222,-157.8514444,,O Offspring,
+W,21.3171944,-157.8470556,,O Offspring,
+W,21.318684,-157.848247,,O Offspring,
+W,21.3101944,-157.8517222,,O Offspring,
+W,21.3083056,-157.8511667,,O Offspring,
+W,21.3094444,-157.85325,,O Offspring,
+W,21.31087,-157.852028,,O Offspring,
+W,21.304558,-157.849171,,O Offspring,
+W,21.306378,-157.848308,,O Offspring,
+W,21.3040556,-157.8444167,,O Offspring,
+W,21.3039722,-157.8600833,,O Offspring,
+W,21.3014167,-157.8579167,,O Offspring,
+W,21.3015,-157.8577778,,O Offspring,
+W,21.3013333,-157.8580833,,O Offspring,
+W,21.3182222,-157.8659167,,O Offspring,
+W,21.315,-157.8609167,,O Offspring,
+W,21.3157778,-157.8608333,,O Offspring,
+W,21.3151389,-157.8606389,,O Offspring,
+W,21.3158333,-157.8608611,,O Offspring,
+W,21.3143333,-157.8608333,,O Offspring,
+W,21.3156389,-157.8598611,,O Offspring,
+W,21.3154722,-157.8597222,,O Offspring,
+W,21.3156667,-157.8597778,,O Offspring,
+W,21.3166111,-157.8597222,,O Offspring,
+W,21.3164722,-157.8596389,,O Offspring,
+W,21.3165,-157.8596389,,O Offspring,
+W,21.3169722,-157.86,,O Offspring,
+W,21.3166111,-157.8599444,,O Offspring,
+W,21.3170556,-157.8601389,,O Offspring,
+W,21.3173889,-157.8596389,,O Offspring,
+W,21.3165278,-157.8596389,,O Offspring,
+W,21.3180833,-157.8588611,,O Offspring,
+W,21.318,-157.8589722,,O Offspring,
+W,21.3183611,-157.8588611,,O Offspring,
+W,21.31825,-157.8589167,,O Offspring,
+W,21.3182222,-157.8589722,,O Offspring,
+W,21.3178333,-157.8586389,,O Offspring,
+W,21.307115,-157.816662,,O Offspring,
+W,21.3096944,-157.8110833,,O Offspring,
+W,21.2940278,-157.8181111,,O Offspring,
+W,21.2930278,-157.8183333,,O Offspring,
+W,21.2934722,-157.8180278,,O Offspring,
+W,21.3002778,-157.8187222,,O Offspring,
+W,21.3006667,-157.8187778,,O4,
+W,21.2998056,-157.8196389,,O Offspring,
+W,21.2997778,-157.8196389,,O Offspring,
+W,21.2997778,-157.8196111,,O Offspring,
+W,21.2997778,-157.8196667,,O Offspring,
+W,21.2998056,-157.8196111,,O Offspring,
+W,21.2998056,-157.8195833,,O Offspring,
+W,21.2998333,-157.8195833,,O Offspring,
+W,21.2997778,-157.8195833,,O Offspring,
+W,21.2998333,-157.8197778,,O Offspring,
+W,21.2998056,-157.8195833,,O Offspring,<div>All the points here were less than a year old and in chicken holes<br></div>
+W,21.2997778,-157.8197778,,O Offspring,
+W,21.2998056,-157.8196667,,O Offspring,
+W,21.2998056,-157.8196944,,O Offspring,
+W,21.2997778,-157.8196944,,O Offspring,
+W,21.2998056,-157.8197222,,O Offspring,
+W,21.2998056,-157.8197778,,O Offspring,
+W,21.2998333,-157.8197222,,O Offspring,
+W,21.2998056,-157.81975,,O Offspring,
+W,21.2997778,-157.81975,,O Offspring,
+W,21.2997778,-157.8197222,,O Offspring,
+W,21.2997222,-157.8197778,,O Offspring,
+W,21.2997778,-157.8197222,,O Offspring,<div>No other specimens in the chicken holes near by<br></div>
+W,21.2995278,-157.8188056,,O Offspring,
+W,21.29975,-157.8187778,,O Offspring,
+W,21.2997222,-157.8186111,,O Offspring,
+W,21.2996944,-157.8185833,,O Offspring,
+W,21.29975,-157.8185556,,O Offspring,
+W,21.2985833,-157.8177222,,O Offspring,
+W,21.2985833,-157.8176944,,O Offspring,
+W,21.2985556,-157.8175,,O Offspring,
+W,21.2996111,-157.8137778,,O Offspring,
+W,21.2995556,-157.8138056,,O Offspring,
+W,21.29625,-157.8196111,,O40,
+W,21.29625,-157.8194444,,O39,
+W,21.2962778,-157.8193889,,O38,
+W,21.29625,-157.8191111,,O37,
+W,21.29625,-157.8191667,,O Offspring,
+W,21.29625,-157.8191944,,O Offspring,
+W,21.2962222,-157.8192222,,O Offspring,
+W,21.29625,-157.8191389,,O Offspring,
+W,21.2961389,-157.8190278,,O Offspring,
+W,21.2962222,-157.8186667,,O Offspring,
+W,21.2961667,-157.8186944,,O Offspring,
+W,21.2961944,-157.8184444,,O Offspring,
+W,21.2961944,-157.8183611,,O Offspring,
+W,21.2961944,-157.8182778,,O Offspring,
+W,21.2962222,-157.8185556,,O Offspring,
+W,21.2962222,-157.8185,,O Offspring,
+W,21.2960833,-157.8182778,,O Offspring,
+W,21.2961389,-157.8184167,,O Offspring,
+W,21.2961111,-157.8183889,,O Offspring,
+W,21.2961389,-157.8183611,,O Offspring,
+W,21.2961389,-157.8183889,,O Offspring,
+W,21.2961667,-157.8185833,,O Offspring,
+W,21.2961389,-157.8185556,,O Offspring,
+W,21.2961389,-157.8185278,,O Offspring,
+W,21.2960556,-157.8185,,O Offspring,
+W,21.2960833,-157.8184722,,O Offspring,
+W,21.2959722,-157.8185,,O Offspring,
+W,21.296,-157.8184722,,O Offspring,
+W,21.2960278,-157.8184722,,O Offspring,
+W,21.2961111,-157.8184722,,O Offspring,
+W,21.2960556,-157.8184722,,O Offspring,
+W,21.2961111,-157.8184444,,O Offspring,
+W,21.2958056,-157.8188333,,O Offspring,
+W,21.2958056,-157.8187778,,O Offspring,
+W,21.2958056,-157.8186944,,O Offspring,
+W,21.2957778,-157.8186667,,O Offspring,
+W,21.2957778,-157.8185833,,O Offspring,
+W,21.2957778,-157.8184722,,O Offspring,
+W,21.2957778,-157.8185278,,O Offspring,
+W,21.2958056,-157.81875,,O Offspring,
+W,21.2957778,-157.8186111,,O Offspring,
+W,21.29575,-157.8184167,,O Offspring,
+W,21.296,-157.8183333,,O Offspring,
+W,21.2958611,-157.8183611,,O Offspring,
+W,21.2960833,-157.8183333,,O Offspring,
+W,21.2959444,-157.8183333,,O Offspring,
+W,21.2961389,-157.8183333,,O Offspring,
+W,21.29525,-157.8168333,,O Offspring,
+W,21.2960833,-157.8169722,,O Offspring,
+W,21.2962222,-157.8173889,,O Offspring,
+W,21.2960556,-157.8175278,,O Offspring,
+W,21.2960556,-157.8176111,,O Offspring,
+W,21.2960556,-157.8176389,,O Offspring,
+W,21.2961667,-157.8178611,,O Offspring,
+W,21.3006667,-157.8143333,,O Offspring,
+W,21.3011111,-157.8143056,,O Offspring,
+W,21.2970556,-157.81775,,O Offspring,
+W,21.2968611,-157.8203333,,O Offspring,
+W,21.297007,-157.817642,,O Offspring,
+W,21.2967778,-157.8216944,,O Offspring,
+W,21.2966667,-157.8215556,,O Offspring,
+W,21.29525,-157.821,,O Offspring,
+W,21.2963056,-157.8212778,,O Offspring,
+W,21.2961389,-157.8193333,,O Offspring,
+W,21.2961111,-157.8192222,,O Offspring,
+W,21.2961389,-157.8196111,,O Offspring,
+W,21.2960556,-157.8196389,,O Offspring,
+W,21.2960833,-157.8196389,,O Offspring,
+W,21.2960556,-157.8196667,,O Offspring,
+W,21.2958889,-157.8195833,,O Offspring,
+W,21.2960278,-157.8196667,,O Offspring,
+W,21.2960278,-157.8190556,,O Offspring,
+W,21.2959444,-157.8189722,,O Offspring,
+W,21.296,-157.8190556,,O Offspring,
+W,21.2958333,-157.8189722,,O Offspring,
+W,21.2958611,-157.8190833,,O Offspring,
+W,21.2958889,-157.8189722,,O Offspring,
+W,21.2958611,-157.8196944,,O Offspring,
+W,21.2959444,-157.8197778,,O Offspring,
+W,21.2958889,-157.81975,,O Offspring,
+W,21.2961111,-157.81975,,O Offspring,
+W,21.2960833,-157.8197778,,O Offspring,
+W,21.2960278,-157.8197778,,O Offspring,
+W,21.2959722,-157.8197778,,O Offspring,
+W,21.296,-157.8197778,,O Offspring,
+W,21.2969722,-157.8177222,,O Offspring,
+W,21.3015,-157.8158611,,O Offspring,
+W,21.2943333,-157.8182222,,O Offspring,
+W,21.2933611,-157.819,,O Offspring,
