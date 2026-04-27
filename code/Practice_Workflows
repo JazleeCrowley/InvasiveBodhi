@@ -1,0 +1,67 @@
+# can i get him to help me with my fixed radius plots thing in R?
+#tips from class
+    #Code runs from a "blank slate." E.g.: rm(list = ls())
+
+    #Code has hierarchical structure:
+
+        #one line / one operation
+        #one block / one step
+        #one file / one goal
+    #Comments at top of file and for each block that state their purpose. If lines are well written most won't need comments.
+
+    #Lines are < 80 characters long
+
+    #Variable names are short and informative, or very short and generic if used hyperlocally (e.g. using x as a variable is ok if you only use it within a radius of about 10 lines)
+
+    #Key steps have code that verifies they are working correctly
+
+
+#compare elevation and temperature. Good to link literature that generated simulated data.
+rm(list = ls()) #keeps things blank, deletes object from work space. (remove the list of everything in the workspace)
+
+##set parameters for simulated data
+nobs <- 1000
+xmin <- -20
+xmax <- 20
+slope <- -20
+intcpt <- 5
+
+##make x and y variables, faked the data here 
+x <- runif(nobs, xmin, xmax)
+ypred <- slope * x + intcpt
+
+## temporary block to calibrate the slop and intercept
+options(repr.plot.width = 5, repr.plot.height = 5)
+
+par(
+    pin = c(3, 3),
+    bg = "white",
+    fg = "black",
+    col.axis = "black",
+    col.lab = "black",
+    col.main = "black"
+    
+)
+
+## add noise
+z <- rnorm(nobs, mean = 0, sd = 100)
+yobs <- ypred + z
+
+plot(x, yobs,
+xlab = "Temperature",
+ylab = "Elevation",
+main = "Simulated Plot")
+
+#verify that simulated data looks as expected
+#example: shows that population size is >0
+
+###Step 2: Fit model
+fit <- glm(yobs ~ x)
+summary(fit)
+
+##Step 3: Plot for publication quality
+plot(x, yobs,
+xlab = "Temperature",
+ylab = "Elevation",
+main = "Simulated Plot")
+abline(fit, col="turquoise", lwd = 2)
