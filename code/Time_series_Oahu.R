@@ -1,28 +1,8 @@
-# Clear environment
 rm(list = ls())
-data <- read.csv("data/raw/Oahu_ages_only.csv")
-summary(data)
-
 
 # Load data
-data <- read.csv("data/raw/Oahu_ages_only.csv")
-
-# Inspect data
-summary(data)
-
-# Plot all data
-plot(data$X, data$Y,
-     xlab = "Longitude",
-     ylab = "Latitude",
-     main = "Map of Points")
-
-rm(list = ls())
-
-#setwd("~/Desktop")
-read.csv("../data/raw/Oahu_ages_only.csv")
-summary("../data/raw/Oahu_ages_only.csv")
-
-data <- read.csv("Oahu_ages_only.csv")
+filename <- "data/raw/Oahu_ages_only.csv"
+data <- read.csv(filename)
 
 #Plot all data
 plot(data$X, data$Y,
@@ -37,24 +17,24 @@ filtered <- data[
 ]
 plot(filtered$X, filtered$Y)
 
-#set NA as "1"
+#Identify the ages of trees
+
+##set NA as "1" for year seen
 desc <- as.character(data$description)
 desc[is.na(desc)] <- "1"
 
 filtered$desc <- as.character(filtered$description)
 filtered$desc[is.na(filtered$desc)] <- "1"
 
-#color coordinate plot
-
+#color coordinate plot in accordance with ages
 cols <- c("1" = adjustcolor("red", alpha.f = 0.3),
-          "5" = "darkorange",
-          "10" = "darkgoldenrod1",
-          "15" = "darkolivegreen",
-          "30" = "lightgreen",
-          "50" = "cornflowerblue",
-          "100" = "purple"
-          )
-
+  "5" = "darkorange",
+  "10" = "darkgoldenrod1",
+  "15" = "darkolivegreen",
+  "30" = "lightgreen",
+  "50" = "cornflowerblue",
+  "100" = "purple"
+)
 
 plot(filtered$X, filtered$Y,
      col = cols[desc],
@@ -86,8 +66,11 @@ plot(subset_100_50$X, subset_100_50$Y,
 subset_100_50_30 <- filtered[filtered$description %in% c(100, 50, 30), ]
 
 plot(subset_100_50_30$X, subset_100_50_30$Y,
-     col = ifelse(subset_100_50_30$description == 100, "purple",
-                  ifelse(subset_100_50_30$description == 50, "cornflowerblue", "darkolivegreen")),
+     col = ifelse(subset_100_50_30$description == 100,
+                  "purple",
+                  ifelse(subset_100_50_30$description == 50,
+                         "cornflowerblue",
+                         "darkolivegreen")),
      pch = 16,
      main = "Only 100, 50, and 30")
 
@@ -106,7 +89,8 @@ plot(subset_100_50_30_15$X,
      main = "100, 50, 30, 15")
 
 ##Only100 and 50 and 30 and 15 and 10
-subset_100_50_30_15_10 <- filtered[filtered$description %in% c(100, 50, 30, 15, 10), ]
+subset_100_50_30_15_10 <- filtered[filtered$description %in%
+                                     c(100, 50, 30, 15, 10), ]
 
 cols <- c("100" = "purple",
           "50" = "cornflowerblue",
@@ -121,7 +105,8 @@ plot(subset_100_50_30_15_10$X,
      main = "100, 50, 30, 15, 10")
 
 ##Only100 and 50 and 30 and 15 and 10 and 5
-subset_100_50_30_15_10_5 <- filtered[filtered$description %in% c(100, 50, 30, 15, 10, 5), ]
+subset_100_50_30_15_10_5 <- filtered[filtered$description %in%
+                                       c(100, 50, 30, 15, 10, 5), ]
 
 cols <- c("100" = "purple",
           "50" = "cornflowerblue",
@@ -135,20 +120,18 @@ plot(subset_100_50_30_15_10_5$X,
      col = cols[as.character(subset_100_50_30_15_10_5$description)],
      pch = 16,
      main = "100, 50, 30, 15, 10, 5")
-     
 
-##Everything
+##All ages to present day
 cols <- c("1" = adjustcolor("red", alpha.f = 0.3),
-          "5" = "darkorange",
-          "10" = "darkgoldenrod1",
-          "15" = "darkolivegreen",
-          "30" = "lightgreen",
-          "50" = "cornflowerblue",
-          "100" = "purple"
+  "5" = "darkorange",
+  "10" = "darkgoldenrod1",
+  "15" = "darkolivegreen",
+  "30" = "lightgreen",
+  "50" = "cornflowerblue",
+  "100" = "purple"
 )
-
 
 plot(filtered$X, filtered$Y,
      col = cols[desc],
      pch = 16,
-     main = "Present") 
+     main = "Present")
