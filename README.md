@@ -1,6 +1,7 @@
 # InvasiveBodhi
 Chapter 3 of Dissertation focusing on the introduction of the Bodhi tree on the Hawaiian Islands
-
+##Project Goals
+I'll put them here
 
 ## Kauai Overtime Project
 Compare the spread of Bodhi trees from 2023-2025 on Kauai
