@@ -9,7 +9,8 @@ Compare all islands' Bodhi tree spread and density to eachother in 2025
 ### Kauai
 Currently represents an established non-native situation
 ### Oahu 
-Currently represents an invasive non-native situation
+Currently represents an invasive non-native situation.
+[This](Time_series_Oahu) shows how Bodhi trees have spread through time
 ### Big Island
 Currently represents an early established non-native situation
 ## Maxent
