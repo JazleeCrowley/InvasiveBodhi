@@ -1,3 +1,21 @@
+# Clear environment
+rm(list = ls())
+data <- read.csv("data/raw/Oahu_ages_only.csv")
+summary(data)
+
+
+# Load data
+data <- read.csv("data/raw/Oahu_ages_only.csv")
+
+# Inspect data
+summary(data)
+
+# Plot all data
+plot(data$X, data$Y,
+     xlab = "Longitude",
+     ylab = "Latitude",
+     main = "Map of Points")
+
 rm(list = ls())
 
 #setwd("~/Desktop")
