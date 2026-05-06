@@ -2,12 +2,12 @@
 Chapter 3 of Dissertation focusing on the introduction of the Bodhi tree on the Hawaiian Islands
 
 
-##Kauai Overtime Project
+## Kauai Overtime Project
 
-##Island Comparisons
+## Island Comparisons
 
-###Kauai
-###Oahu 
-###Big Island
+### Kauai
+### Oahu 
+### Big Island
 
-##Maxent
+## Maxent
