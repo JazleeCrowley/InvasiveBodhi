@@ -160,4 +160,29 @@ connectivity_matrix <- results$connectivity_matrix
 
 mean_distance_same_island <-
   results$mean_distance_same_island
-  
+
+print(mean_connectivity)
+print(mean(mean_distance_same_island, na.rm = TRUE))
+print(mean(mean_distance_same_island[df$island == "Oahu"], na.rm = TRUE))
+print(mean(mean_distance_same_island[df$island == "Kauai"], na.rm = TRUE))
+print(distance_matrix[1:5, 1:5])
+print(connectivity_matrix[1:5, 1:5])
+
+# mask everything except same-island pairs
+within_idx <- outer(df$island, df$island, FUN = "==")
+
+mean_within_island_distance <- mean(
+  distance_matrix[within_idx],
+  na.rm = TRUE
+)
+
+mean_within_island_distance
+
+distance_matrix <- results$distance_matrix
+
+within_idx <- outer(df$island, df$island, "==")
+diag(within_idx) <- FALSE
+mean_within_island_distance <- mean(distance_matrix[within_idx], na.rm = TRUE)
+mean_within_island_distance
+
+#currently shows that everything is tightly clustered
