@@ -2,6 +2,7 @@
 # possibly including age
 
 rm(list = ls())
+graphics.off()
 
 # Load data
 filename <- "data/raw/Kauai_Oahu_ages.csv"
@@ -15,12 +16,14 @@ df$island[503:nrow(df)] <- "Kauai"
 do_plot <- FALSE
 if (do_plot) {
   quartz(h = 4, w = 4)
-  plot(df$X, df$Y, col = as.factor(df$island),   pch = 16,
+  plot(df$X, df$Y,
+    col = as.factor(df$island), pch = 16,
     xlab = "Longitude",
     ylab = "Latitude",
-    main = "Tree Locations")
+    main = "Tree Locations"
+  )
 }
-  
+
 
 # Make a function to calculate pairwise distances
 # using great circle distance
@@ -44,10 +47,10 @@ great_circle_distance <- function(lat1, lon1, lat2, lon2, radius = 6371) {
   # Distance
   distance <- radius * c
 
-  return(distance)  # nolint
+  return(distance) # nolint
 }
 
-#Create a forloop to calculate pairwise distances between trees
+# Create a forloop to calculate pairwise distances between trees
 
 # ---------------------------------------------------
 # Load packages
@@ -61,7 +64,6 @@ library(foreach)
 
 # ---------------------------------------------------
 get_distance <- function(df) {
-
   # Number of trees
   n_trees <- nrow(df)
 
@@ -74,7 +76,6 @@ get_distance <- function(df) {
 
   # Pairwise calculations
   for (i in seq_len(n_trees)) {
-
     # Progress update
     if (i %% 50 == 0) {
       cat("Processing tree", i, "of", n_trees, "\n")
@@ -82,7 +83,6 @@ get_distance <- function(df) {
 
     # Only compute upper triangle
     for (j in i:n_trees) {
-
       # Skip self-distance
       if (i == j) {
         next
@@ -111,12 +111,50 @@ d_kauai <- get_distance(df[df$island == "Kauai", ])
 image(d_oahu)
 
 # Look at distributions of distances within each island
+
+
+# Prepare to compare distance distributions
+
+## make vectors of distances for each island
+d_vec_oahu <- c(d_oahu[upper.tri(d_oahu)])
+d_vec_kauai <- c(d_kauai[upper.tri(d_kauai)])
+n_oahu <- length(d_vec_oahu)
+n_kauai <- length(d_vec_kauai)
+
+## plot histograms of distances for each island
 quartz(h = 4, w = 8)
 par(mfrow = c(1, 2))
-breaks <- seq(0, max(c(d_oahu, d_kauai) + 1, na.rm = TRUE), by = 1)
-hist(c(d_oahu), breaks = breaks, main = "Oahu", xlab = "Distance (km)")
-hist(c(d_kauai), breaks = breaks, main = "Kauai", xlab = "Distance (km)")
+breaks <- seq(0, max(c(d_vec_oahu, d_vec_kauai), na.rm = TRUE) + 1, by = 1)
+hist(c(d_vec_oahu), breaks = breaks, main = "Oahu", xlab = "Distance (km)")
+hist(c(d_vec_kauai), breaks = breaks, main = "Kauai", xlab = "Distance (km)")
 
-#kolmogorov-smirnov test to compare distance distributions
-ks_test <- ks.test(c(d_oahu), c(d_kauai))
-print(ks_test)
+# get ks statistic
+get_ks_stat <- function(x, y) {
+  suppressWarnings(ks.test(x, y)$statistic)
+}
+
+ks <- get_ks_stat(d_vec_oahu, d_vec_kauai)
+print(ks)
+
+nperm <- 1000
+ks_perm <- rep(NA, nperm)
+
+for (i in seq_len(nperm)) {
+  pooled <- c(d_vec_oahu, d_vec_kauai)
+  idx_oahu <- sample.int(length(pooled), n_oahu, replace = FALSE)
+  idx_kauai <- setdiff(seq_along(pooled), idx_oahu)
+  ks_perm[i] <- get_ks_stat(pooled[idx_oahu], pooled[idx_kauai])
+}
+
+#generate null graphs of ks statistic
+graphics.off()
+> quartz()
+> hist(ks_perm)
+> hist(ks_perm,xlim = c(0, 0.5))
+> points(ks, 0, cex = 10, col = 'red')
+> hist(ks_perm,xlim = c(0, 0.5))
+> points(ks, 0, cex = 5, pch=19, col = 'red')
+
+#chatgpt how to get a p-value out of this?
+#repeat this analysis with different ages, look at ks across each age (3x3)=9
+#spatial age structure on the two islands are different or the same
