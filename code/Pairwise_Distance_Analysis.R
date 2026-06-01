@@ -60,20 +60,13 @@ library(doParallel)
 library(foreach)
 
 # ---------------------------------------------------
-connectivity_gc <- function(df, scale = 20) {
+get_distance <- function(df) {
 
   # Number of trees
   n_trees <- nrow(df)
 
   # Pairwise distance matrix
   distance_matrix <- matrix(
-    NA_real_,
-    n_trees,
-    n_trees
-  )
-
-  # Connectivity matrix
-  connectivity_matrix <- matrix(
     NA_real_,
     n_trees,
     n_trees
@@ -106,83 +99,24 @@ connectivity_gc <- function(df, scale = 20) {
       # Fill symmetric distance matrix
       distance_matrix[i, j] <- distance_km
       distance_matrix[j, i] <- distance_km
-
-      # Connectivity kernel
-      connectivity_value <- exp(-distance_km / scale)
-
-      # Fill symmetric connectivity matrix
-      connectivity_matrix[i, j] <- connectivity_value
-      connectivity_matrix[j, i] <- connectivity_value
     }
   }
-
-  # Ignore self-connectivity
-  diag(connectivity_matrix) <- NA_real_
-
-  # Mean within-island distance
-  mean_distance_same_island <- numeric(n_trees)
-
-  for (i in seq_len(n_trees)) {
-
-    same_island <- (
-      df$island == df$island[i]
-    )
-
-    mean_distance_same_island[i] <- mean(
-      distance_matrix[i, same_island],
-      na.rm = TRUE
-    )
-  }
-
-  # Mean connectivity
-  mean_connectivity <- mean(
-    connectivity_matrix,
-    na.rm = TRUE
-  )
-
-  # Return results
-  return(list(
-    mean_connectivity = mean_connectivity,
-    distance_matrix = distance_matrix,
-    connectivity_matrix = connectivity_matrix,
-    mean_distance_same_island =
-      mean_distance_same_island
-  ))
+  return(distance_matrix)
 }
 
-results <- connectivity_gc(df, scale = 20)
+# Get distance matrices
+d_oahu <- get_distance(df[df$island == "Oahu", ])
+d_kauai <- get_distance(df[df$island == "Kauai", ])
 
-mean_connectivity <- results$mean_connectivity
+image(d_oahu)
 
-distance_matrix <- results$distance_matrix
+# Look at distributions of distances within each island
+quartz(h = 4, w = 8)
+par(mfrow = c(1, 2))
+breaks <- seq(0, max(c(d_oahu, d_kauai) + 1, na.rm = TRUE), by = 1)
+hist(c(d_oahu), breaks = breaks, main = "Oahu", xlab = "Distance (km)")
+hist(c(d_kauai), breaks = breaks, main = "Kauai", xlab = "Distance (km)")
 
-connectivity_matrix <- results$connectivity_matrix
-
-mean_distance_same_island <-
-  results$mean_distance_same_island
-
-print(mean_connectivity)
-print(mean(mean_distance_same_island, na.rm = TRUE))
-print(mean(mean_distance_same_island[df$island == "Oahu"], na.rm = TRUE))
-print(mean(mean_distance_same_island[df$island == "Kauai"], na.rm = TRUE))
-print(distance_matrix[1:5, 1:5])
-print(connectivity_matrix[1:5, 1:5])
-
-# mask everything except same-island pairs
-within_idx <- outer(df$island, df$island, FUN = "==")
-
-mean_within_island_distance <- mean(
-  distance_matrix[within_idx],
-  na.rm = TRUE
-)
-
-mean_within_island_distance
-
-distance_matrix <- results$distance_matrix
-
-within_idx <- outer(df$island, df$island, "==")
-diag(within_idx) <- FALSE
-mean_within_island_distance <- mean(distance_matrix[within_idx], na.rm = TRUE)
-mean_within_island_distance
-
-#currently shows that everything is tightly clustered
+#kolmogorov-smirnov test to compare distance distributions
+ks_test <- ks.test(c(d_oahu), c(d_kauai))
+print(ks_test)
