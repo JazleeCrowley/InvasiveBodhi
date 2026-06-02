@@ -34,5 +34,5 @@ helps visualize the different distribution types (very dense versus sparse distr
 Currently represents an early established non-native situation. Subsequent analysis required.
 ## Maxent
 Projection of Bodhi tree spread in the Hawaiian Islands using climate data. While this is still in process, below is the current up to date figure showing potential habitat range for the Bodhi tree. In the future, to support this result, I will be doing the same projection in MaxENT on each island separately, to compare to this aggregate figure.
-https://github.com/JazleeCrowley/InvasiveBodhi/edit/main/README.md#:~:text=Screen%20Shot%202026-,%2D,-03%2D30%20at
+<img width="652" height="506" alt="Screenshot 2026-06-02 at 12 16 05" src="https://github.com/user-attachments/assets/4d243495-5cee-46e7-9936-4fcc7ceaee9a" />
 
