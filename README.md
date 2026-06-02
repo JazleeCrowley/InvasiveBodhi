@@ -23,7 +23,7 @@ Compare all islands' Bodhi tree spread and density to eachother in 2025
 Kaua'i currently represents an established non-native situation, while O'ahu clearly shows an invasive level of Bodhi tree spread. 
 
 [This figure](./Figures/Oahu_Kauai_PairwiseDistance.pdf)
-helps visualize the different distribution types (very dense versus sparse distribution) that Bodhi tree occurences show across the two islands. This was made using a pairwise distribution method, subsequently analyzed with a Kolmogorov-Smirnov and permutation analysis, for which you may find the code 
+helps visualize the different distribution types (very dense versus sparse distribution) that Bodhi tree occurences show across the two islands, with the permutation test simulated figure with comparison to real distances [here](./Figures/. This was made using a pairwise distribution method, subsequently analyzed with a Kolmogorov-Smirnov and permutation analysis, for which you may find the code 
 [here.](./code/Pairwise_Distance_Analysis.R)
 
 
