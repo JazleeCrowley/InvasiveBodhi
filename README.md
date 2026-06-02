@@ -2,11 +2,14 @@
 Chapter 3 of Dissertation focusing on the introduction of the Bodhi tree on the Hawaiian Islands
 ## Project Objectives
 •	Identify parentage in Kauaʻi results
+
 •	Briefly describe Bodhi tree spread on the Big Island as neglible
+
 •	Describe Oʻahu Bodhi tree spread as invasive
+
 •	Compare Oʻahu invasive spread to Kauaʻi established tree situation
+
 •	Create MaxEnt model to show potential habitat expansion
-<img width="468" height="157" alt="image" src="https://github.com/user-attachments/assets/ff51a55d-00dd-4a6b-92dd-1abb3cb4f368" />
 
 
 ## Kauai Overtime Project
