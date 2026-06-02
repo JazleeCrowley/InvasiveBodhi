@@ -11,11 +11,12 @@ Chapter 3 of Dissertation focusing on the introduction of the Bodhi tree on the 
 
 •	Create MaxEnt model to show potential habitat expansion
 
-11.50.46
 
 
 ## Kauai Overtime Project
-Compare the spread of Bodhi trees from 2023-2025 on Kauai
+I am comparing the spread of Bodhi trees from 2023-2025 on Kaua'i.
+[Here is the histogram](https://github.com/JazleeCrowley/InvasiveBodhi/edit/main/README.md#:~:text=Kauai_trees_5.png-,Kauai_trees_by_year,-.png)
+showing Bodhi tree spread across three individual trees across the three years on Kaua'i.
 ## Island Comparisons
 Compare all islands' Bodhi tree spread and density to eachother in 2025
 ### Kauai
