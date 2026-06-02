@@ -1,8 +1,10 @@
 # Do pairwise distance analsysis
+#Conduct a comparison of distance distributions between the two islands, 
+##using a permutation test to get a p-value for the difference in distributions.
 # possibly including age
 
 rm(list = ls())
-graphics.off()
+
 
 # Load data
 filename <- "data/raw/Kauai_Oahu_ages.csv"
@@ -63,6 +65,9 @@ library(doParallel)
 library(foreach)
 
 # ---------------------------------------------------
+
+
+
 get_distance <- function(df) {
   # Number of trees
   n_trees <- nrow(df)
@@ -74,7 +79,7 @@ get_distance <- function(df) {
     n_trees
   )
 
-  # Pairwise calculations
+  #Pairwise calculations
   for (i in seq_len(n_trees)) {
     # Progress update
     if (i %% 50 == 0) {
@@ -146,14 +151,19 @@ for (i in seq_len(nperm)) {
   ks_perm[i] <- get_ks_stat(pooled[idx_oahu], pooled[idx_kauai])
 }
 
-#generate null graphs of ks statistic
-graphics.off()
+
 > quartz()
 > hist(ks_perm)
 > hist(ks_perm,xlim = c(0, 0.5))
 > points(ks, 0, cex = 10, col = 'red')
 > hist(ks_perm,xlim = c(0, 0.5))
 > points(ks, 0, cex = 5, pch=19, col = 'red')
+
+#get a p-value 
+p_value <- (sum(ks_perm >= ks) + 1) / (nperm + 1)
+print(p_value)
+
+
 
 #chatgpt how to get a p-value out of this?
 #repeat this analysis with different ages, look at ks across each age (3x3)=9
