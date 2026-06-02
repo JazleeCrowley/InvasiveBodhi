@@ -22,13 +22,13 @@ Compare all islands' Bodhi tree spread and density to eachother in 2025
 ### Kaua'i versus O'ahu
 Kaua'i currently represents an established non-native situation, while O'ahu clearly shows an invasive level of Bodhi tree spread. 
 
-[This figure](https://github.com/JazleeCrowley/InvasiveBodhi/edit/main/README.md#:~:text=Oahu_Kauai_PairwiseDistance)
+[This figure](./Figure/Oahu_Kauai_PairwiseDistance.pdf)
 helps visualize the different distribution types (very dense versus sparse distribution) that Bodhi tree occurences show across the two islands. This was made using a pairwise distribution method, subsequently analyzed with a Kolmogorov-Smirnov and permutation analysis, for which you may find the code 
-[here.](https://github.com/JazleeCrowley/InvasiveBodhi/edit/main/README.md#:~:text=Pairwise_Distance_Analysis)
+[here.](./codePairwise_Distance_Analysis.R)
 
 
-[This is the code that](https://github.com/JazleeCrowley/InvasiveBodhi/blob/main/code/Time_series_Oahu.R#:~:text=Island%20Comparison.docx-,Time_series_Oahu.R,-Trees.jl) shows how Bodhi trees have spread through time on O'ahu.
-[Here is a figure](https://github.com/JazleeCrowley/InvasiveBodhi/blob/main/Figures/Trees_Ages_Oahu.png#:~:text=at%2011.50.46.png-,Trees_Ages_Oahu.png,-Presentations) that shows all tree ages in O'ahu simultaneously. 
+[This is the code that](./code/Time_series_Oahu.R) shows how Bodhi trees have spread through time on O'ahu.
+[Here is a figure](./Figures/Trees_Ages_Oahu.png) that shows all tree ages in O'ahu simultaneously. 
 
 ### Big Island
 Currently represents an early established non-native situation. Subsequent analysis required.
