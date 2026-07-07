@@ -1,5 +1,5 @@
 # Invasive Bodhi
-Chapter 3 of Dissertation focusing on the introduction of the Bodhi tree on the Hawaiian Islands
+Chapter 3 of Dissertation focusing on the introduction of the Bodhi tree on the Hawaiian Islands. [Here is a table](./Figures/Total_Hawaii_trees.png) with all Bodhi tree occurrences on all three islands, with a total of 714 occurrences. Code for that table [here](./code/Total_Hawaii_trees.r).
 ## Project Objectives
 •	Identify parentage in Kauaʻi results
 
