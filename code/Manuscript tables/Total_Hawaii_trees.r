@@ -5,6 +5,7 @@ install.packages("readxl")
 install.packages("gt")
 library(gt)
 library(readxl)
+install.packages("webshot2")
 
 #read in data
 df <- read_excel("data/raw/Env_Layers/Total Island Occurrences.xlsx", sheet = 1)
@@ -28,3 +29,6 @@ table <- df |>
 print(table)
 
 gtsave(table, "Total_Hawaii_trees.html")
+#save as a png file
+webshot2::webshot("Total_Hawaii_trees.html", "Total_Hawaii_trees.png", vwidth = 600, vheight = 800, zoom = 3)
+
