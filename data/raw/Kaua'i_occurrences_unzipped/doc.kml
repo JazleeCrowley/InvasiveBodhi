@@ -1,0 +1,3071 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>Kaua&apos;i_Occurrences.kmz</name>
+	<StyleMap id="__managed_style_08EAA0029740735F2958">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#__managed_style_08EAA0029740735F2958_normal</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#__managed_style_08EAA0029740735F2958_highlight</styleUrl>
+		</Pair>
+	</StyleMap>
+	<gx:CascadingStyle kml:id="__managed_style_08EAA0029740735F2958_highlight">
+		<Style>
+			<IconStyle>
+				<scale>1.2</scale>
+				<Icon>
+					<href>https://earth.google.com/earth/document/icon?color=1976d2&amp;id=2000&amp;scale=4</href>
+				</Icon>
+				<hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
+			</IconStyle>
+			<LineStyle>
+				<color>ff2dc0fb</color>
+				<width>3</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>40ffffff</color>
+			</PolyStyle>
+		</Style>
+	</gx:CascadingStyle>
+	<gx:CascadingStyle kml:id="__managed_style_08EAA0029740735F2958_normal">
+		<Style>
+			<IconStyle>
+				<Icon>
+					<href>https://earth.google.com/earth/document/icon?color=1976d2&amp;id=2000&amp;scale=4</href>
+				</Icon>
+				<hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
+			</IconStyle>
+			<LineStyle>
+				<color>ff2dc0fb</color>
+				<width>2</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>40ffffff</color>
+			</PolyStyle>
+		</Style>
+	</gx:CascadingStyle>
+	<StyleMap id="__managed_style_0C5EF63A5440735F295B">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#__managed_style_0C5EF63A5440735F295B_normal</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#__managed_style_0C5EF63A5440735F295B_highlight</styleUrl>
+		</Pair>
+	</StyleMap>
+	<gx:CascadingStyle kml:id="__managed_style_0C5EF63A5440735F295B_highlight">
+		<Style>
+			<IconStyle>
+				<scale>1.2</scale>
+				<Icon>
+					<href>https://earth.google.com/earth/document/icon?color=1976d2&amp;id=2000&amp;scale=4</href>
+				</Icon>
+				<hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
+			</IconStyle>
+			<LineStyle>
+				<color>ff2dc0fb</color>
+				<width>3</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>40ffffff</color>
+			</PolyStyle>
+		</Style>
+	</gx:CascadingStyle>
+	<gx:CascadingStyle kml:id="__managed_style_0C5EF63A5440735F295B_normal">
+		<Style>
+			<IconStyle>
+				<Icon>
+					<href>https://earth.google.com/earth/document/icon?color=1976d2&amp;id=2000&amp;scale=4</href>
+				</Icon>
+				<hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
+			</IconStyle>
+			<LineStyle>
+				<color>ff2dc0fb</color>
+				<width>2</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>40ffffff</color>
+			</PolyStyle>
+		</Style>
+	</gx:CascadingStyle>
+	<StyleMap id="__managed_style_0ED41C4A8D40735F2960">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#__managed_style_0ED41C4A8D40735F2960_normal</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#__managed_style_0ED41C4A8D40735F2960_highlight</styleUrl>
+		</Pair>
+	</StyleMap>
+	<gx:CascadingStyle kml:id="__managed_style_0ED41C4A8D40735F2960_highlight">
+		<Style>
+			<IconStyle>
+				<scale>1.2</scale>
+				<Icon>
+					<href>https://earth.google.com/earth/document/icon?color=1976d2&amp;id=2000&amp;scale=4</href>
+				</Icon>
+				<hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
+			</IconStyle>
+			<LineStyle>
+				<color>ff2dc0fb</color>
+				<width>3</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>40ffffff</color>
+			</PolyStyle>
+		</Style>
+	</gx:CascadingStyle>
+	<gx:CascadingStyle kml:id="__managed_style_0ED41C4A8D40735F2960_normal">
+		<Style>
+			<IconStyle>
+				<Icon>
+					<href>https://earth.google.com/earth/document/icon?color=1976d2&amp;id=2000&amp;scale=4</href>
+				</Icon>
+				<hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
+			</IconStyle>
+			<LineStyle>
+				<color>ff2dc0fb</color>
+				<width>2</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>40ffffff</color>
+			</PolyStyle>
+		</Style>
+	</gx:CascadingStyle>
+	<StyleMap id="__managed_style_0F1E8456C240735F2957">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#__managed_style_0F1E8456C240735F2957_normal</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#__managed_style_0F1E8456C240735F2957_highlight</styleUrl>
+		</Pair>
+	</StyleMap>
+	<gx:CascadingStyle kml:id="__managed_style_0F1E8456C240735F2957_highlight">
+		<styleUrl>https://earth.google.com/balloon_components/base/1.1.0.0/card_template.kml#main</styleUrl>
+		<Style>
+			<IconStyle>
+				<scale>1.2</scale>
+				<Icon>
+					<href>https://earth.google.com/earth/document/icon?color=1976d2&amp;id=2000&amp;scale=4</href>
+				</Icon>
+				<hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
+			</IconStyle>
+			<LineStyle>
+				<color>ff2dc0fb</color>
+				<width>3</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>40ffffff</color>
+			</PolyStyle>
+		</Style>
+	</gx:CascadingStyle>
+	<gx:CascadingStyle kml:id="__managed_style_0F1E8456C240735F2957_normal">
+		<styleUrl>https://earth.google.com/balloon_components/base/1.1.0.0/card_template.kml#main</styleUrl>
+		<Style>
+			<IconStyle>
+				<Icon>
+					<href>https://earth.google.com/earth/document/icon?color=1976d2&amp;id=2000&amp;scale=4</href>
+				</Icon>
+				<hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
+			</IconStyle>
+			<LineStyle>
+				<color>ff2dc0fb</color>
+				<width>2</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>40ffffff</color>
+			</PolyStyle>
+		</Style>
+	</gx:CascadingStyle>
+	<StyleMap id="__managed_style_1C05576F6D40735F295B">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#__managed_style_1C05576F6D40735F295B_normal</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#__managed_style_1C05576F6D40735F295B_highlight</styleUrl>
+		</Pair>
+	</StyleMap>
+	<gx:CascadingStyle kml:id="__managed_style_1C05576F6D40735F295B_highlight">
+		<styleUrl>https://earth.google.com/balloon_components/base/1.1.0.0/card_template.kml#main</styleUrl>
+		<Style>
+			<IconStyle>
+				<scale>1.2</scale>
+				<Icon>
+					<href>https://earth.google.com/earth/document/icon?color=1976d2&amp;id=2000&amp;scale=4</href>
+				</Icon>
+				<hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
+			</IconStyle>
+			<LineStyle>
+				<color>ff2dc0fb</color>
+				<width>3</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>40ffffff</color>
+			</PolyStyle>
+		</Style>
+	</gx:CascadingStyle>
+	<gx:CascadingStyle kml:id="__managed_style_1C05576F6D40735F295B_normal">
+		<styleUrl>https://earth.google.com/balloon_components/base/1.1.0.0/card_template.kml#main</styleUrl>
+		<Style>
+			<IconStyle>
+				<Icon>
+					<href>https://earth.google.com/earth/document/icon?color=1976d2&amp;id=2000&amp;scale=4</href>
+				</Icon>
+				<hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
+			</IconStyle>
+			<LineStyle>
+				<color>ff2dc0fb</color>
+				<width>2</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>40ffffff</color>
+			</PolyStyle>
+		</Style>
+	</gx:CascadingStyle>
+	<Folder id="09B9D900943A6AA18D7C">
+		<name>Kaua&apos;i</name>
+		<styleUrl>#__managed_style_08EAA0029740735F2958</styleUrl>
+		<Placemark id="0E46F6F3003A6AB88FA0">
+			<name>K4</name>
+			<description><![CDATA[<div>Planted adult non-fruiting</div>]]></description>
+			<LookAt>
+				<longitude>-159.384475</longitude>
+				<latitude>22.20865</latitude>
+				<altitude>0</altitude>
+				<heading>0</heading>
+				<tilt>0</tilt>
+				<gx:fovy>35</gx:fovy>
+				<range>969.4616947461247</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#__managed_style_0F1E8456C240735F2957</styleUrl>
+			<Point>
+				<extrude>1</extrude>
+				<coordinates>-159.384475,22.20865,0</coordinates>
+			</Point>
+		</Placemark>
+		<Folder id="0ED0119E3E3A6ABBF6D0">
+			<name>K2</name>
+			<styleUrl>#__managed_style_08EAA0029740735F2958</styleUrl>
+			<Placemark id="07A98232F33A6AA01189">
+				<name>K2</name>
+				<LookAt>
+					<longitude>-159.3677770143103</longitude>
+					<latitude>21.97622900726731</latitude>
+					<altitude>64.04871751518607</altitude>
+					<heading>0</heading>
+					<tilt>0</tilt>
+					<gx:fovy>35</gx:fovy>
+					<range>400.1737224948739</range>
+					<altitudeMode>absolute</altitudeMode>
+				</LookAt>
+				<styleUrl>#__managed_style_0C5EF63A5440735F295B</styleUrl>
+				<Point>
+					<coordinates>-159.3673970057214,21.9761101981944,64.04873408637741</coordinates>
+				</Point>
+			</Placemark>
+			<Folder id="0CA1A4155B3A6AA20F0E">
+				<name>K2 2025 New</name>
+				<styleUrl>#__managed_style_08EAA0029740735F2958</styleUrl>
+				<Placemark id="05CBD4297C3A6AA37761">
+					<name>K2 Offspring</name>
+					<description><![CDATA[<div>New in 2025<br></div>]]></description>
+					<LookAt>
+						<longitude>-159.367076</longitude>
+						<latitude>21.976124</latitude>
+						<altitude>0</altitude>
+						<heading>0</heading>
+						<tilt>0</tilt>
+						<gx:fovy>35</gx:fovy>
+						<range>971.2392848726954</range>
+						<altitudeMode>relativeToGround</altitudeMode>
+					</LookAt>
+					<styleUrl>#__managed_style_0F1E8456C240735F2957</styleUrl>
+					<Point>
+						<extrude>1</extrude>
+						<coordinates>-159.367076,21.976124,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark id="044598A6E83A6AA41447">
+					<name>K2 Offspring</name>
+					<description><![CDATA[<div>New in 2025<br></div>]]></description>
+					<LookAt>
+						<longitude>-159.367057</longitude>
+						<latitude>21.976129</latitude>
+						<altitude>0</altitude>
+						<heading>0</heading>
+						<tilt>0</tilt>
+						<gx:fovy>35</gx:fovy>
+						<range>971.239246834045</range>
+						<altitudeMode>relativeToGround</altitudeMode>
+					</LookAt>
+					<styleUrl>#__managed_style_0F1E8456C240735F2957</styleUrl>
+					<Point>
+						<extrude>1</extrude>
+						<coordinates>-159.367057,21.976129,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark id="0C1B15105B3A6AA4B0DC">
+					<name>K2 Offspring</name>
+					<description><![CDATA[<div>New in 2025<br></div><div><br></div>]]></description>
+					<LookAt>
+						<longitude>-159.367045</longitude>
+						<latitude>21.976145</latitude>
+						<altitude>0</altitude>
+						<heading>0</heading>
+						<tilt>0</tilt>
+						<gx:fovy>35</gx:fovy>
+						<range>971.2391251103109</range>
+						<altitudeMode>relativeToGround</altitudeMode>
+					</LookAt>
+					<styleUrl>#__managed_style_0F1E8456C240735F2957</styleUrl>
+					<Point>
+						<extrude>1</extrude>
+						<coordinates>-159.367045,21.976145,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark id="05D5EAB6133A6AA52E70">
+					<name>K2 Offspring</name>
+					<description><![CDATA[<div>New in 2025<br></div>]]></description>
+					<LookAt>
+						<longitude>-159.367014</longitude>
+						<latitude>21.976256</latitude>
+						<altitude>0</altitude>
+						<heading>0</heading>
+						<tilt>0</tilt>
+						<gx:fovy>35</gx:fovy>
+						<range>971.2382806496611</range>
+						<altitudeMode>relativeToGround</altitudeMode>
+					</LookAt>
+					<styleUrl>#__managed_style_0F1E8456C240735F2957</styleUrl>
+					<Point>
+						<extrude>1</extrude>
+						<coordinates>-159.367014,21.976256,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark id="0B962397813A6AA5B248">
+					<name>K2 Offspring</name>
+					<description><![CDATA[<div>New in 2025<br></div>]]></description>
+					<LookAt>
+						<longitude>-159.366909</longitude>
+						<latitude>21.976264</latitude>
+						<altitude>0</altitude>
+						<heading>0</heading>
+						<tilt>0</tilt>
+						<gx:fovy>35</gx:fovy>
+						<range>971.2382197874809</range>
+						<altitudeMode>relativeToGround</altitudeMode>
+					</LookAt>
+					<styleUrl>#__managed_style_0F1E8456C240735F2957</styleUrl>
+					<Point>
+						<extrude>1</extrude>
+						<coordinates>-159.366909,21.976264,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark id="055F4A8B953A6AA6348C">
+					<name>K2 Offspring</name>
+					<description><![CDATA[<div>New in 2025<br></div>]]></description>
+					<LookAt>
+						<longitude>-159.366692</longitude>
+						<latitude>21.976339</latitude>
+						<altitude>0</altitude>
+						<heading>0</heading>
+						<tilt>0</tilt>
+						<gx:fovy>35</gx:fovy>
+						<range>971.2376492035504</range>
+						<altitudeMode>relativeToGround</altitudeMode>
+					</LookAt>
+					<styleUrl>#__managed_style_0F1E8456C240735F2957</styleUrl>
+					<Point>
+						<extrude>1</extrude>
+						<coordinates>-159.366692,21.976339,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark id="0CDC82D1553A6F905D1B">
+					<name>K2 Offspring</name>
+					<description><![CDATA[<div>New to 2025</div>]]></description>
+					<LookAt>
+						<longitude>-159.3670556</longitude>
+						<latitude>21.9761389</latitude>
+						<altitude>0</altitude>
+						<heading>0</heading>
+						<tilt>0</tilt>
+						<gx:fovy>35</gx:fovy>
+						<range>971.2391715174941</range>
+						<altitudeMode>relativeToGround</altitudeMode>
+					</LookAt>
+					<styleUrl>#__managed_style_0F1E8456C240735F2957</styleUrl>
+					<Point>
+						<extrude>1</extrude>
+						<coordinates>-159.3670556,21.9761389,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark id="0124475F563A6F9152D0">
+					<name>K2 Offspring</name>
+					<description><![CDATA[<div>New to 2025</div>]]></description>
+					<LookAt>
+						<longitude>-159.3670278</longitude>
+						<latitude>21.97625</latitude>
+						<altitude>0</altitude>
+						<heading>0</heading>
+						<tilt>0</tilt>
+						<gx:fovy>35</gx:fovy>
+						<range>971.2383262962829</range>
+						<altitudeMode>relativeToGround</altitudeMode>
+					</LookAt>
+					<styleUrl>#__managed_style_0F1E8456C240735F2957</styleUrl>
+					<Point>
+						<extrude>1</extrude>
+						<coordinates>-159.3670278,21.97625,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark id="054FEF6A583A6F8FB19C">
+					<name>K2 Offspring</name>
+					<description><![CDATA[<div>New in 2025</div>]]></description>
+					<LookAt>
+						<longitude>-159.3670833</longitude>
+						<latitude>21.9761111</latitude>
+						<altitude>0</altitude>
+						<heading>0</heading>
+						<tilt>0</tilt>
+						<gx:fovy>35</gx:fovy>
+						<range>971.2393830123764</range>
+						<altitudeMode>relativeToGround</altitudeMode>
+					</LookAt>
+					<styleUrl>#__managed_style_0F1E8456C240735F2957</styleUrl>
+					<Point>
+						<extrude>1</extrude>
+						<coordinates>-159.3670833,21.9761111,0</coordinates>
+					</Point>
+				</Placemark>
+			</Folder>
+			<Folder id="0C8256DF8F3A6AA806D8">
+				<name>K2 2023</name>
+				<open>1</open>
+				<styleUrl>#__managed_style_08EAA0029740735F2958</styleUrl>
+				<Placemark id="059D686AF23A6AA75387">
+					<name>K2 Offspring</name>
+					<description><![CDATA[<div>Far older than 2023</div>]]></description>
+					<LookAt>
+						<longitude>-159.367038</longitude>
+						<latitude>21.975189</latitude>
+						<altitude>0</altitude>
+						<heading>0</heading>
+						<tilt>0</tilt>
+						<gx:fovy>35</gx:fovy>
+						<range>971.2463979604472</range>
+						<altitudeMode>relativeToGround</altitudeMode>
+					</LookAt>
+					<styleUrl>#__managed_style_0F1E8456C240735F2957</styleUrl>
+					<Point>
+						<extrude>1</extrude>
+						<coordinates>-159.367038,21.975189,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark id="0B2CF2C7A83A6AABA03C">
+					<name>K2 Offspring</name>
+					<LookAt>
+						<longitude>-159.3669722</longitude>
+						<latitude>21.97625</latitude>
+						<altitude>0</altitude>
+						<heading>0</heading>
+						<tilt>0</tilt>
+						<gx:fovy>35</gx:fovy>
+						<range>971.2383262962829</range>
+						<altitudeMode>relativeToGround</altitudeMode>
+					</LookAt>
+					<styleUrl>#__managed_style_08EAA0029740735F2958</styleUrl>
+					<Point>
+						<extrude>1</extrude>
+						<coordinates>-159.3669722,21.97625,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark id="03B0779A793A6AA2A943">
+					<name>K2 Offspring</name>
+					<description><![CDATA[<div>2023-2024 Not there in 2025<br></div>]]></description>
+					<LookAt>
+						<longitude>-159.367118</longitude>
+						<latitude>21.975894</latitude>
+						<altitude>0</altitude>
+						<heading>0</heading>
+						<tilt>0</tilt>
+						<gx:fovy>35</gx:fovy>
+						<range>971.2410346420071</range>
+						<altitudeMode>relativeToGround</altitudeMode>
+					</LookAt>
+					<styleUrl>#__managed_style_0F1E8456C240735F2957</styleUrl>
+					<Point>
+						<extrude>1</extrude>
+						<coordinates>-159.367118,21.975894,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark id="0A2C6533603A6F8D1881">
+					<name>K2 Offspring</name>
+					<description><![CDATA[<div>Since 2023</div>]]></description>
+					<LookAt>
+						<longitude>-159.3673611</longitude>
+						<latitude>21.9761667</latitude>
+						<altitude>0</altitude>
+						<heading>0</heading>
+						<tilt>0</tilt>
+						<gx:fovy>35</gx:fovy>
+						<range>971.2389600223661</range>
+						<altitudeMode>relativeToGround</altitudeMode>
+					</LookAt>
+					<styleUrl>#__managed_style_0F1E8456C240735F2957</styleUrl>
+					<Point>
+						<extrude>1</extrude>
+						<coordinates>-159.3673611,21.9761667,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark id="033D3D9F1A3A6F8DFE30">
+					<name>K2 Offspring</name>
+					<description><![CDATA[<div>Since 2023, not there 2025</div>]]></description>
+					<LookAt>
+						<longitude>-159.3671944</longitude>
+						<latitude>21.9760278</latitude>
+						<altitude>0</altitude>
+						<heading>0</heading>
+						<tilt>0</tilt>
+						<gx:fovy>35</gx:fovy>
+						<range>971.2400167347774</range>
+						<altitudeMode>relativeToGround</altitudeMode>
+					</LookAt>
+					<styleUrl>#__managed_style_0F1E8456C240735F2957</styleUrl>
+					<Point>
+						<extrude>1</extrude>
+						<coordinates>-159.3671944,21.9760278,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark id="0DD35B09E13A6F953931">
+					<name>K2 Offspring</name>
+					<LookAt>
+						<longitude>-159.3671111</longitude>
+						<latitude>21.9760833</latitude>
+						<altitude>0</altitude>
+						<heading>0</heading>
+						<tilt>0</tilt>
+						<gx:fovy>35</gx:fovy>
+						<range>971.2395945070127</range>
+						<altitudeMode>relativeToGround</altitudeMode>
+					</LookAt>
+					<styleUrl>#__managed_style_08EAA0029740735F2958</styleUrl>
+					<Point>
+						<extrude>1</extrude>
+						<coordinates>-159.3671111,21.9760833,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark id="03AAE8FF7B3A6F95B2DF">
+					<name>K2 Offspring</name>
+					<LookAt>
+						<longitude>-159.3671667</longitude>
+						<latitude>21.9760278</latitude>
+						<altitude>0</altitude>
+						<heading>0</heading>
+						<tilt>0</tilt>
+						<gx:fovy>35</gx:fovy>
+						<range>971.2400167347774</range>
+						<altitudeMode>relativeToGround</altitudeMode>
+					</LookAt>
+					<styleUrl>#__managed_style_08EAA0029740735F2958</styleUrl>
+					<Point>
+						<extrude>1</extrude>
+						<coordinates>-159.3671667,21.9760278,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark id="0DBF5012053A6F9697F8">
+					<name>K2 Offspring</name>
+					<LookAt>
+						<longitude>-159.3671667</longitude>
+						<latitude>21.9760833</latitude>
+						<altitude>0</altitude>
+						<heading>0</heading>
+						<tilt>0</tilt>
+						<gx:fovy>35</gx:fovy>
+						<range>971.2395945070127</range>
+						<altitudeMode>relativeToGround</altitudeMode>
+					</LookAt>
+					<styleUrl>#__managed_style_08EAA0029740735F2958</styleUrl>
+					<Point>
+						<extrude>1</extrude>
+						<coordinates>-159.3671667,21.9760833,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark id="0D93B4F7BD3A6F9701C4">
+					<name>K2 Offspring</name>
+					<LookAt>
+						<longitude>-159.3673889</longitude>
+						<latitude>21.9761667</latitude>
+						<altitude>0</altitude>
+						<heading>0</heading>
+						<tilt>0</tilt>
+						<gx:fovy>35</gx:fovy>
+						<range>971.2389600223661</range>
+						<altitudeMode>relativeToGround</altitudeMode>
+					</LookAt>
+					<styleUrl>#__managed_style_08EAA0029740735F2958</styleUrl>
+					<Point>
+						<extrude>1</extrude>
+						<coordinates>-159.3673889,21.9761667,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark id="0AF6627A343A6F975A0F">
+					<name>K2 Offspring</name>
+					<LookAt>
+						<longitude>-159.3668056</longitude>
+						<latitude>21.9761944</latitude>
+						<altitude>0</altitude>
+						<heading>0</heading>
+						<tilt>0</tilt>
+						<gx:fovy>35</gx:fovy>
+						<range>971.2387492877672</range>
+						<altitudeMode>relativeToGround</altitudeMode>
+					</LookAt>
+					<styleUrl>#__managed_style_08EAA0029740735F2958</styleUrl>
+					<Point>
+						<extrude>1</extrude>
+						<coordinates>-159.3668056,21.9761944,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark id="0C230FE62C3A6F97E401">
+					<name>K2 Offspring</name>
+					<LookAt>
+						<longitude>-159.36675</longitude>
+						<latitude>21.9760278</latitude>
+						<altitude>0</altitude>
+						<heading>0</heading>
+						<tilt>0</tilt>
+						<gx:fovy>35</gx:fovy>
+						<range>971.2400167347774</range>
+						<altitudeMode>relativeToGround</altitudeMode>
+					</LookAt>
+					<styleUrl>#__managed_style_08EAA0029740735F2958</styleUrl>
+					<Point>
+						<extrude>1</extrude>
+						<coordinates>-159.36675,21.9760278,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark id="0E249F2DC33A6F984B86">
+					<name>K2 Offspring</name>
+					<LookAt>
+						<longitude>-159.3648056</longitude>
+						<latitude>21.9768611</latitude>
+						<altitude>0</altitude>
+						<heading>0</heading>
+						<tilt>0</tilt>
+						<gx:fovy>35</gx:fovy>
+						<range>971.233677129011</range>
+						<altitudeMode>relativeToGround</altitudeMode>
+					</LookAt>
+					<styleUrl>#__managed_style_08EAA0029740735F2958</styleUrl>
+					<Point>
+						<extrude>1</extrude>
+						<coordinates>-159.3648056,21.9768611,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark id="052C8CE7EB3A6F98B199">
+					<name>K2 Offspring</name>
+					<LookAt>
+						<longitude>-159.3645278</longitude>
+						<latitude>21.9768056</latitude>
+						<altitude>0</altitude>
+						<heading>0</heading>
+						<tilt>0</tilt>
+						<gx:fovy>35</gx:fovy>
+						<range>971.234099370513</range>
+						<altitudeMode>relativeToGround</altitudeMode>
+					</LookAt>
+					<styleUrl>#__managed_style_08EAA0029740735F2958</styleUrl>
+					<Point>
+						<extrude>1</extrude>
+						<coordinates>-159.3645278,21.9768056,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark id="03307413F03A6F99493B">
+					<name>K2 Offspring</name>
+					<LookAt>
+						<longitude>-159.3682222</longitude>
+						<latitude>21.9751389</latitude>
+						<altitude>0</altitude>
+						<heading>0</heading>
+						<tilt>0</tilt>
+						<gx:fovy>35</gx:fovy>
+						<range>971.2467790923766</range>
+						<altitudeMode>relativeToGround</altitudeMode>
+					</LookAt>
+					<styleUrl>#__managed_style_08EAA0029740735F2958</styleUrl>
+					<Point>
+						<extrude>1</extrude>
+						<coordinates>-159.3682222,21.9751389,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark id="0D5114970F3A6F99A55C">
+					<name>K2 Offspring</name>
+					<LookAt>
+						<longitude>-159.3671667</longitude>
+						<latitude>21.97588889999999</latitude>
+						<altitude>0</altitude>
+						<heading>0</heading>
+						<tilt>0</tilt>
+						<gx:fovy>35</gx:fovy>
+						<range>971.2410734410493</range>
+						<altitudeMode>relativeToGround</altitudeMode>
+					</LookAt>
+					<styleUrl>#__managed_style_08EAA0029740735F2958</styleUrl>
+					<Point>
+						<extrude>1</extrude>
+						<coordinates>-159.3671667,21.9758889,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark id="074C825E423A6F9A004F">
+					<name>K2 Offspring</name>
+					<LookAt>
+						<longitude>-159.3674167</longitude>
+						<latitude>21.9760833</latitude>
+						<altitude>0</altitude>
+						<heading>0</heading>
+						<tilt>0</tilt>
+						<gx:fovy>35</gx:fovy>
+						<range>971.2395945070127</range>
+						<altitudeMode>relativeToGround</altitudeMode>
+					</LookAt>
+					<styleUrl>#__managed_style_08EAA0029740735F2958</styleUrl>
+					<Point>
+						<extrude>1</extrude>
+						<coordinates>-159.3674167,21.9760833,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark id="04A8B7C60E3A6F9A7A1F">
+					<name>K2 Offspring</name>
+					<LookAt>
+						<longitude>-159.3675278</longitude>
+						<latitude>21.9764444</latitude>
+						<altitude>0</altitude>
+						<heading>0</heading>
+						<tilt>0</tilt>
+						<gx:fovy>35</gx:fovy>
+						<range>971.2368473399075</range>
+						<altitudeMode>relativeToGround</altitudeMode>
+					</LookAt>
+					<styleUrl>#__managed_style_08EAA0029740735F2958</styleUrl>
+					<Point>
+						<extrude>1</extrude>
+						<coordinates>-159.3675278,21.9764444,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark id="0402EEA5B73A6F9ACD43">
+					<name>K2 Offspring</name>
+					<LookAt>
+						<longitude>-159.3675556</longitude>
+						<latitude>21.9764444</latitude>
+						<altitude>0</altitude>
+						<heading>0</heading>
+						<tilt>0</tilt>
+						<gx:fovy>35</gx:fovy>
+						<range>971.2368473399075</range>
+						<altitudeMode>relativeToGround</altitudeMode>
+					</LookAt>
+					<styleUrl>#__managed_style_08EAA0029740735F2958</styleUrl>
+					<Point>
+						<extrude>1</extrude>
+						<coordinates>-159.3675556,21.9764444,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark id="0B21ABEDDA3A6F9B2ACB">
+					<name>K2 Offspring</name>
+					<LookAt>
+						<longitude>-159.3675556</longitude>
+						<latitude>21.9764167</latitude>
+						<altitude>0</altitude>
+						<heading>0</heading>
+						<tilt>0</tilt>
+						<gx:fovy>35</gx:fovy>
+						<range>971.2370580767102</range>
+						<altitudeMode>relativeToGround</altitudeMode>
+					</LookAt>
+					<styleUrl>#__managed_style_08EAA0029740735F2958</styleUrl>
+					<Point>
+						<extrude>1</extrude>
+						<coordinates>-159.3675556,21.9764167,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark id="08DDB1C4E33A6F9B7A7F">
+					<name>K2 Offspring</name>
+					<LookAt>
+						<longitude>-159.3675833</longitude>
+						<latitude>21.9764167</latitude>
+						<altitude>0</altitude>
+						<heading>0</heading>
+						<tilt>0</tilt>
+						<gx:fovy>35</gx:fovy>
+						<range>971.2370580767102</range>
+						<altitudeMode>relativeToGround</altitudeMode>
+					</LookAt>
+					<styleUrl>#__managed_style_08EAA0029740735F2958</styleUrl>
+					<Point>
+						<extrude>1</extrude>
+						<coordinates>-159.3675833,21.9764167,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark id="02BDCC0A8A3A6F9BD67F">
+					<name>K2 Offspring</name>
+					<LookAt>
+						<longitude>-159.3670833</longitude>
+						<latitude>21.9765</latitude>
+						<altitude>0</altitude>
+						<heading>0</heading>
+						<tilt>0</tilt>
+						<gx:fovy>35</gx:fovy>
+						<range>971.2364243439998</range>
+						<altitudeMode>relativeToGround</altitudeMode>
+					</LookAt>
+					<styleUrl>#__managed_style_08EAA0029740735F2958</styleUrl>
+					<Point>
+						<extrude>1</extrude>
+						<coordinates>-159.3670833,21.9765,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark id="0B02D6EFB53A6F9EC8E0">
+					<name>K2 Offspring</name>
+					<LookAt>
+						<longitude>-159.3653889</longitude>
+						<latitude>21.9761667</latitude>
+						<altitude>0</altitude>
+						<heading>0</heading>
+						<tilt>0</tilt>
+						<gx:fovy>35</gx:fovy>
+						<range>971.2389600223661</range>
+						<altitudeMode>relativeToGround</altitudeMode>
+					</LookAt>
+					<styleUrl>#__managed_style_08EAA0029740735F2958</styleUrl>
+					<Point>
+						<extrude>1</extrude>
+						<coordinates>-159.3653889,21.9761667,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark id="0708C8A2D33A6F9FD5C0">
+					<name>K2 Offspring</name>
+					<LookAt>
+						<longitude>-159.3653611</longitude>
+						<latitude>21.9761944</latitude>
+						<altitude>0</altitude>
+						<heading>0</heading>
+						<tilt>0</tilt>
+						<gx:fovy>35</gx:fovy>
+						<range>971.2387492877672</range>
+						<altitudeMode>relativeToGround</altitudeMode>
+					</LookAt>
+					<styleUrl>#__managed_style_08EAA0029740735F2958</styleUrl>
+					<Point>
+						<extrude>1</extrude>
+						<coordinates>-159.3653611,21.9761944,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark id="0D1F3135A43A6FA10769">
+					<name>K2 Offspring</name>
+					<description><![CDATA[<div>2023-2024</div>]]></description>
+					<LookAt>
+						<longitude>-159.365</longitude>
+						<latitude>21.9763611</latitude>
+						<altitude>0</altitude>
+						<heading>0</heading>
+						<tilt>0</tilt>
+						<gx:fovy>35</gx:fovy>
+						<range>971.237481071144</range>
+						<altitudeMode>relativeToGround</altitudeMode>
+					</LookAt>
+					<styleUrl>#__managed_style_0F1E8456C240735F2957</styleUrl>
+					<Point>
+						<extrude>1</extrude>
+						<coordinates>-159.365,21.9763611,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark id="0FFAAF48C63A6FA1B6BF">
+					<name>K2 Offspring</name>
+					<description><![CDATA[<div>Gone in 2025</div>]]></description>
+					<LookAt>
+						<longitude>-159.3672222</longitude>
+						<latitude>21.9760556</latitude>
+						<altitude>0</altitude>
+						<heading>0</heading>
+						<tilt>0</tilt>
+						<gx:fovy>35</gx:fovy>
+						<range>971.2398052406319</range>
+						<altitudeMode>relativeToGround</altitudeMode>
+					</LookAt>
+					<styleUrl>#__managed_style_0F1E8456C240735F2957</styleUrl>
+					<Point>
+						<extrude>1</extrude>
+						<coordinates>-159.3672222,21.9760556,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark id="0AA7A343CC3A6FA23763">
+					<name>K2 Offspring</name>
+					<description><![CDATA[<div>Gone in 2025<br></div>]]></description>
+					<LookAt>
+						<longitude>-159.36725</longitude>
+						<latitude>21.9760833</latitude>
+						<altitude>0</altitude>
+						<heading>0</heading>
+						<tilt>0</tilt>
+						<gx:fovy>35</gx:fovy>
+						<range>971.2395945070127</range>
+						<altitudeMode>relativeToGround</altitudeMode>
+					</LookAt>
+					<styleUrl>#__managed_style_0F1E8456C240735F2957</styleUrl>
+					<Point>
+						<extrude>1</extrude>
+						<coordinates>-159.36725,21.9760833,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark id="04C56AFC993A6FA2CEB0">
+					<name>K2 Offspring</name>
+					<description><![CDATA[<div>Gone in 2025<br></div>]]></description>
+					<LookAt>
+						<longitude>-159.3671667</longitude>
+						<latitude>21.9761389</latitude>
+						<altitude>0</altitude>
+						<heading>0</heading>
+						<tilt>0</tilt>
+						<gx:fovy>35</gx:fovy>
+						<range>971.2391715174941</range>
+						<altitudeMode>relativeToGround</altitudeMode>
+					</LookAt>
+					<styleUrl>#__managed_style_0F1E8456C240735F2957</styleUrl>
+					<Point>
+						<extrude>1</extrude>
+						<coordinates>-159.3671667,21.9761389,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark id="0574B4E6033A6FA32483">
+					<name>K2 Offspring</name>
+					<description><![CDATA[<div>Gone in 2025<br></div>]]></description>
+					<LookAt>
+						<longitude>-159.3671389</longitude>
+						<latitude>21.9761389</latitude>
+						<altitude>0</altitude>
+						<heading>0</heading>
+						<tilt>0</tilt>
+						<gx:fovy>35</gx:fovy>
+						<range>971.2391715174941</range>
+						<altitudeMode>relativeToGround</altitudeMode>
+					</LookAt>
+					<styleUrl>#__managed_style_0F1E8456C240735F2957</styleUrl>
+					<Point>
+						<extrude>1</extrude>
+						<coordinates>-159.3671389,21.9761389,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark id="0EB4A891DB3A6FA39B50">
+					<name>K2 Offspring</name>
+					<description><![CDATA[<div>Gone in 2025<br></div>]]></description>
+					<LookAt>
+						<longitude>-159.3670833</longitude>
+						<latitude>21.97625</latitude>
+						<altitude>0</altitude>
+						<heading>0</heading>
+						<tilt>0</tilt>
+						<gx:fovy>35</gx:fovy>
+						<range>971.2383262962829</range>
+						<altitudeMode>relativeToGround</altitudeMode>
+					</LookAt>
+					<styleUrl>#__managed_style_0F1E8456C240735F2957</styleUrl>
+					<Point>
+						<extrude>1</extrude>
+						<coordinates>-159.3670833,21.97625,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark id="0E40CA6E4C3A6FA3F120">
+					<name>K2 Offspring</name>
+					<description><![CDATA[<div>Gone in 2025<br></div>]]></description>
+					<LookAt>
+						<longitude>-159.3670278</longitude>
+						<latitude>21.9763056</latitude>
+						<altitude>0</altitude>
+						<heading>0</heading>
+						<tilt>0</tilt>
+						<gx:fovy>35</gx:fovy>
+						<range>971.2379033038153</range>
+						<altitudeMode>relativeToGround</altitudeMode>
+					</LookAt>
+					<styleUrl>#__managed_style_0F1E8456C240735F2957</styleUrl>
+					<Point>
+						<extrude>1</extrude>
+						<coordinates>-159.3670278,21.9763056,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark id="0BCF379F083A6FA45104">
+					<name>K2 Offspring</name>
+					<description><![CDATA[<div>Gone in 2025<br></div>]]></description>
+					<LookAt>
+						<longitude>-159.367</longitude>
+						<latitude>21.9763056</latitude>
+						<altitude>0</altitude>
+						<heading>0</heading>
+						<tilt>0</tilt>
+						<gx:fovy>35</gx:fovy>
+						<range>971.2379033038153</range>
+						<altitudeMode>relativeToGround</altitudeMode>
+					</LookAt>
+					<styleUrl>#__managed_style_0F1E8456C240735F2957</styleUrl>
+					<Point>
+						<extrude>1</extrude>
+						<coordinates>-159.367,21.9763056,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark id="07CCBAE45F3A6FA4A3C6">
+					<name>K2 Offspring</name>
+					<description><![CDATA[<div>Gone in 2025<br></div>]]></description>
+					<LookAt>
+						<longitude>-159.3669444</longitude>
+						<latitude>21.97625</latitude>
+						<altitude>0</altitude>
+						<heading>0</heading>
+						<tilt>0</tilt>
+						<gx:fovy>35</gx:fovy>
+						<range>971.2383262962829</range>
+						<altitudeMode>relativeToGround</altitudeMode>
+					</LookAt>
+					<styleUrl>#__managed_style_0F1E8456C240735F2957</styleUrl>
+					<Point>
+						<extrude>1</extrude>
+						<coordinates>-159.3669444,21.97625,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark id="00F804A8893A6FA53BA7">
+					<name>K2 Offspring</name>
+					<description><![CDATA[<div>Gone in 2025<br></div>]]></description>
+					<LookAt>
+						<longitude>-159.3668611</longitude>
+						<latitude>21.9762778</latitude>
+						<altitude>0</altitude>
+						<heading>0</heading>
+						<tilt>0</tilt>
+						<gx:fovy>35</gx:fovy>
+						<range>971.2381148001722</range>
+						<altitudeMode>relativeToGround</altitudeMode>
+					</LookAt>
+					<styleUrl>#__managed_style_0F1E8456C240735F2957</styleUrl>
+					<Point>
+						<extrude>1</extrude>
+						<coordinates>-159.3668611,21.9762778,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark id="0D84C6BCFC3A6FA58C58">
+					<name>K2 Offspring</name>
+					<description><![CDATA[<div>Gone in 2025<br></div>]]></description>
+					<LookAt>
+						<longitude>-159.3667778</longitude>
+						<latitude>21.9763056</latitude>
+						<altitude>0</altitude>
+						<heading>0</heading>
+						<tilt>0</tilt>
+						<gx:fovy>35</gx:fovy>
+						<range>971.2379033038153</range>
+						<altitudeMode>relativeToGround</altitudeMode>
+					</LookAt>
+					<styleUrl>#__managed_style_0F1E8456C240735F2957</styleUrl>
+					<Point>
+						<extrude>1</extrude>
+						<coordinates>-159.3667778,21.9763056,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark id="08EE9739773A6FA5F844">
+					<name>K2 Offspring</name>
+					<description><![CDATA[<div>Gone in 2025<br></div>]]></description>
+					<LookAt>
+						<longitude>-159.36675</longitude>
+						<latitude>21.9762778</latitude>
+						<altitude>0</altitude>
+						<heading>0</heading>
+						<tilt>0</tilt>
+						<gx:fovy>35</gx:fovy>
+						<range>971.2381148001722</range>
+						<altitudeMode>relativeToGround</altitudeMode>
+					</LookAt>
+					<styleUrl>#__managed_style_0F1E8456C240735F2957</styleUrl>
+					<Point>
+						<extrude>1</extrude>
+						<coordinates>-159.36675,21.9762778,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark id="07C5574DDB3A6FA64C3E">
+					<name>K2 Offspring</name>
+					<description><![CDATA[<div>Gone in 2025<br></div>]]></description>
+					<LookAt>
+						<longitude>-159.3666389</longitude>
+						<latitude>21.9762222</latitude>
+						<altitude>0</altitude>
+						<heading>0</heading>
+						<tilt>0</tilt>
+						<gx:fovy>35</gx:fovy>
+						<range>971.2385377921481</range>
+						<altitudeMode>relativeToGround</altitudeMode>
+					</LookAt>
+					<styleUrl>#__managed_style_0F1E8456C240735F2957</styleUrl>
+					<Point>
+						<extrude>1</extrude>
+						<coordinates>-159.3666389,21.9762222,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark id="0E439B0DB13A6FA6A4A8">
+					<name>K2 Offspring</name>
+					<description><![CDATA[<div>Gone in 2025<br></div>]]></description>
+					<LookAt>
+						<longitude>-159.3660278</longitude>
+						<latitude>21.9759722</latitude>
+						<altitude>0</altitude>
+						<heading>0</heading>
+						<tilt>0</tilt>
+						<gx:fovy>35</gx:fovy>
+						<range>971.2404397223299</range>
+						<altitudeMode>relativeToGround</altitudeMode>
+					</LookAt>
+					<styleUrl>#__managed_style_0F1E8456C240735F2957</styleUrl>
+					<Point>
+						<extrude>1</extrude>
+						<coordinates>-159.3660278,21.9759722,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark id="02028FD0453A6FA70F70">
+					<name>K2 Offspring</name>
+					<description><![CDATA[<div>Gone in 2025<br></div>]]></description>
+					<LookAt>
+						<longitude>-159.3664444</longitude>
+						<latitude>21.976</latitude>
+						<altitude>0</altitude>
+						<heading>0</heading>
+						<tilt>0</tilt>
+						<gx:fovy>35</gx:fovy>
+						<range>971.2402282286766</range>
+						<altitudeMode>relativeToGround</altitudeMode>
+					</LookAt>
+					<styleUrl>#__managed_style_0F1E8456C240735F2957</styleUrl>
+					<Point>
+						<extrude>1</extrude>
+						<coordinates>-159.3664444,21.976,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark id="0B31F325653A6FA758EF">
+					<name>K2 Offspring</name>
+					<description><![CDATA[<div>Gone in 2025<br></div>]]></description>
+					<LookAt>
+						<longitude>-159.3664722</longitude>
+						<latitude>21.9760556</latitude>
+						<altitude>0</altitude>
+						<heading>0</heading>
+						<tilt>0</tilt>
+						<gx:fovy>35</gx:fovy>
+						<range>971.2398052406319</range>
+						<altitudeMode>relativeToGround</altitudeMode>
+					</LookAt>
+					<styleUrl>#__managed_style_0F1E8456C240735F2957</styleUrl>
+					<Point>
+						<extrude>1</extrude>
+						<coordinates>-159.3664722,21.9760556,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark id="00534C98A23A6FA7B84F">
+					<name>K2 Offspring</name>
+					<description><![CDATA[<div>Gone in 2025<br></div>]]></description>
+					<LookAt>
+						<longitude>-159.3665833</longitude>
+						<latitude>21.9754722</latitude>
+						<altitude>0</altitude>
+						<heading>0</heading>
+						<tilt>0</tilt>
+						<gx:fovy>35</gx:fovy>
+						<range>971.2442435230255</range>
+						<altitudeMode>relativeToGround</altitudeMode>
+					</LookAt>
+					<styleUrl>#__managed_style_0F1E8456C240735F2957</styleUrl>
+					<Point>
+						<extrude>1</extrude>
+						<coordinates>-159.3665833,21.9754722,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark id="09366299673A6FA81878">
+					<name>K2 Offspring</name>
+					<description><![CDATA[<div>Gone in 2025<br></div>]]></description>
+					<LookAt>
+						<longitude>-159.3671111</longitude>
+						<latitude>21.9758889</latitude>
+						<altitude>0</altitude>
+						<heading>0</heading>
+						<tilt>0</tilt>
+						<gx:fovy>35</gx:fovy>
+						<range>971.2410734410493</range>
+						<altitudeMode>relativeToGround</altitudeMode>
+					</LookAt>
+					<styleUrl>#__managed_style_0F1E8456C240735F2957</styleUrl>
+					<Point>
+						<extrude>1</extrude>
+						<coordinates>-159.3671111,21.9758889,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark id="0B6C4943D53A6FA8685C">
+					<name>K2 Offspring</name>
+					<description><![CDATA[<div>Gone/Dead 2025</div>]]></description>
+					<LookAt>
+						<longitude>-159.3689167</longitude>
+						<latitude>21.9768056</latitude>
+						<altitude>0</altitude>
+						<heading>0</heading>
+						<tilt>0</tilt>
+						<gx:fovy>35</gx:fovy>
+						<range>971.234099370513</range>
+						<altitudeMode>relativeToGround</altitudeMode>
+					</LookAt>
+					<styleUrl>#__managed_style_0F1E8456C240735F2957</styleUrl>
+					<Point>
+						<extrude>1</extrude>
+						<coordinates>-159.3689167,21.9768056,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark id="0E32588A8D3A6FABC814">
+					<name>K2 Offspring</name>
+					<LookAt>
+						<longitude>-159.3671667</longitude>
+						<latitude>21.9760556</latitude>
+						<altitude>0</altitude>
+						<heading>0</heading>
+						<tilt>0</tilt>
+						<gx:fovy>35</gx:fovy>
+						<range>971.2398052406319</range>
+						<altitudeMode>relativeToGround</altitudeMode>
+					</LookAt>
+					<styleUrl>#__managed_style_08EAA0029740735F2958</styleUrl>
+					<Point>
+						<extrude>1</extrude>
+						<coordinates>-159.3671667,21.9760556,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark id="0F47798BE33A6FAC5B59">
+					<name>K2 Offspring</name>
+					<LookAt>
+						<longitude>-159.367</longitude>
+						<latitude>21.9762222</latitude>
+						<altitude>0</altitude>
+						<heading>0</heading>
+						<tilt>0</tilt>
+						<gx:fovy>35</gx:fovy>
+						<range>971.2385377921481</range>
+						<altitudeMode>relativeToGround</altitudeMode>
+					</LookAt>
+					<styleUrl>#__managed_style_08EAA0029740735F2958</styleUrl>
+					<Point>
+						<extrude>1</extrude>
+						<coordinates>-159.367,21.9762222,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark id="02D57DB3F23A6FAD1BDC">
+					<name>K2 Offspring</name>
+					<LookAt>
+						<longitude>-159.3666667</longitude>
+						<latitude>21.9755556</latitude>
+						<altitude>0</altitude>
+						<heading>0</heading>
+						<tilt>0</tilt>
+						<gx:fovy>35</gx:fovy>
+						<range>971.243609054598</range>
+						<altitudeMode>relativeToGround</altitudeMode>
+					</LookAt>
+					<styleUrl>#__managed_style_08EAA0029740735F2958</styleUrl>
+					<Point>
+						<extrude>1</extrude>
+						<coordinates>-159.3666667,21.9755556,0</coordinates>
+					</Point>
+				</Placemark>
+			</Folder>
+		</Folder>
+		<Folder id="0400AC34C13A6ABD6F80">
+			<name>K5</name>
+			<description><![CDATA[<div>Rundgren K Adult mother fruiting</div>]]></description>
+			<styleUrl>#__managed_style_0F1E8456C240735F2957</styleUrl>
+			<Placemark id="013921946D3A6ACB72E8">
+				<name>K5</name>
+				<description><![CDATA[<div>K Adult mother fruiting</div>]]></description>
+				<LookAt>
+					<longitude>-159.3835935645971</longitude>
+					<latitude>22.21192038579039</latitude>
+					<altitude>76.13079936793359</altitude>
+					<heading>0</heading>
+					<tilt>0</tilt>
+					<gx:fovy>35</gx:fovy>
+					<range>121.2666368614737</range>
+					<altitudeMode>absolute</altitudeMode>
+				</LookAt>
+				<styleUrl>#__managed_style_1C05576F6D40735F295B</styleUrl>
+				<Point>
+					<coordinates>-159.383659247757,22.21180757371483,76.20434139416055</coordinates>
+				</Point>
+			</Placemark>
+			<Folder id="02720CA6D63A6ACACFC3">
+				<name>K5 New 2025</name>
+				<styleUrl>#__managed_style_08EAA0029740735F2958</styleUrl>
+				<Placemark id="028AC84E2B3A6AC1B97E">
+					<name>K5 Offspring</name>
+					<description><![CDATA[<div>New in 2025</div>]]></description>
+					<LookAt>
+						<longitude>-159.38275</longitude>
+						<latitude>22.2100833</latitude>
+						<altitude>0</altitude>
+						<heading>0</heading>
+						<tilt>0</tilt>
+						<gx:fovy>35</gx:fovy>
+						<range>969.4506843468107</range>
+						<altitudeMode>relativeToGround</altitudeMode>
+					</LookAt>
+					<styleUrl>#__managed_style_0F1E8456C240735F2957</styleUrl>
+					<Point>
+						<extrude>1</extrude>
+						<coordinates>-159.38275,22.2100833,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark id="0B2C214FE03A6AC229FF">
+					<name>K5 Offspring</name>
+					<description><![CDATA[<div>New in 2025<br></div>]]></description>
+					<LookAt>
+						<longitude>-159.38275</longitude>
+						<latitude>22.2100556</latitude>
+						<altitude>0</altitude>
+						<heading>0</heading>
+						<tilt>0</tilt>
+						<gx:fovy>35</gx:fovy>
+						<range>969.4508971403054</range>
+						<altitudeMode>relativeToGround</altitudeMode>
+					</LookAt>
+					<styleUrl>#__managed_style_0F1E8456C240735F2957</styleUrl>
+					<Point>
+						<extrude>1</extrude>
+						<coordinates>-159.38275,22.2100556,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark id="0BDB65FCB93A6AC28DFE">
+					<name>K5 Offspring</name>
+					<description><![CDATA[<div>New in 2025<br></div>]]></description>
+					<LookAt>
+						<longitude>-159.3827778</longitude>
+						<latitude>22.2100556</latitude>
+						<altitude>0</altitude>
+						<heading>0</heading>
+						<tilt>0</tilt>
+						<gx:fovy>35</gx:fovy>
+						<range>969.4508971403054</range>
+						<altitudeMode>relativeToGround</altitudeMode>
+					</LookAt>
+					<styleUrl>#__managed_style_0F1E8456C240735F2957</styleUrl>
+					<Point>
+						<extrude>1</extrude>
+						<coordinates>-159.3827778,22.2100556,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark id="03B5FAE3B93A6AC2FE4C">
+					<name>K5 Offspring</name>
+					<description><![CDATA[<div>New in 2025<br></div>]]></description>
+					<LookAt>
+						<longitude>-159.3828333</longitude>
+						<latitude>22.21</latitude>
+						<altitude>0</altitude>
+						<heading>0</heading>
+						<tilt>0</tilt>
+						<gx:fovy>35</gx:fovy>
+						<range>969.4513242629754</range>
+						<altitudeMode>relativeToGround</altitudeMode>
+					</LookAt>
+					<styleUrl>#__managed_style_0F1E8456C240735F2957</styleUrl>
+					<Point>
+						<extrude>1</extrude>
+						<coordinates>-159.3828333,22.21,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark id="09226B81D53A6AC353D8">
+					<name>K5 Offspring</name>
+					<description><![CDATA[<div>New in 2025<br></div>]]></description>
+					<LookAt>
+						<longitude>-159.3828056</longitude>
+						<latitude>22.21</latitude>
+						<altitude>0</altitude>
+						<heading>0</heading>
+						<tilt>0</tilt>
+						<gx:fovy>35</gx:fovy>
+						<range>969.4513242629754</range>
+						<altitudeMode>relativeToGround</altitudeMode>
+					</LookAt>
+					<styleUrl>#__managed_style_0F1E8456C240735F2957</styleUrl>
+					<Point>
+						<extrude>1</extrude>
+						<coordinates>-159.3828056,22.21,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark id="09FC5B4B113A6AC3BC57">
+					<name>K5 Offspring</name>
+					<description><![CDATA[<div>New in 2025<br></div>]]></description>
+					<LookAt>
+						<longitude>-159.3827778</longitude>
+						<latitude>22.2100278</latitude>
+						<altitude>0</altitude>
+						<heading>0</heading>
+						<tilt>0</tilt>
+						<gx:fovy>35</gx:fovy>
+						<range>969.451110701763</range>
+						<altitudeMode>relativeToGround</altitudeMode>
+					</LookAt>
+					<styleUrl>#__managed_style_0F1E8456C240735F2957</styleUrl>
+					<Point>
+						<extrude>1</extrude>
+						<coordinates>-159.3827778,22.2100278,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark id="009586CD8B3A6AC61209">
+					<name>K5 Offspring</name>
+					<description><![CDATA[<div>New in 2025<br></div>]]></description>
+					<LookAt>
+						<longitude>-159.3838333</longitude>
+						<latitude>22.2118611</latitude>
+						<altitude>0</altitude>
+						<heading>0</heading>
+						<tilt>0</tilt>
+						<gx:fovy>35</gx:fovy>
+						<range>969.4370266434377</range>
+						<altitudeMode>relativeToGround</altitudeMode>
+					</LookAt>
+					<styleUrl>#__managed_style_0F1E8456C240735F2957</styleUrl>
+					<Point>
+						<extrude>1</extrude>
+						<coordinates>-159.3838333,22.2118611,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark id="0F840BF81A3A6AC74254">
+					<name>K5 Offspring</name>
+					<description><![CDATA[<div>New in 2025<br></div>]]></description>
+					<LookAt>
+						<longitude>-159.3838889</longitude>
+						<latitude>22.2118333</latitude>
+						<altitude>0</altitude>
+						<heading>0</heading>
+						<tilt>0</tilt>
+						<gx:fovy>35</gx:fovy>
+						<range>969.4372402208242</range>
+						<altitudeMode>relativeToGround</altitudeMode>
+					</LookAt>
+					<styleUrl>#__managed_style_0F1E8456C240735F2957</styleUrl>
+					<Point>
+						<extrude>1</extrude>
+						<coordinates>-159.3838889,22.2118333,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark id="03148C12DC3A6AC7C584">
+					<name>K5 Offspring</name>
+					<description><![CDATA[<div>New in 2025<br></div>]]></description>
+					<LookAt>
+						<longitude>-159.3838889</longitude>
+						<latitude>22.2118056</latitude>
+						<altitude>0</altitude>
+						<heading>0</heading>
+						<tilt>0</tilt>
+						<gx:fovy>35</gx:fovy>
+						<range>969.4374530297027</range>
+						<altitudeMode>relativeToGround</altitudeMode>
+					</LookAt>
+					<styleUrl>#__managed_style_0F1E8456C240735F2957</styleUrl>
+					<Point>
+						<extrude>1</extrude>
+						<coordinates>-159.3838889,22.2118056,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark id="014B9CC9433A6AC887A8">
+					<name>K5 Offspring</name>
+					<description><![CDATA[<div>New in 2025<br></div>]]></description>
+					<LookAt>
+						<longitude>-159.3835833</longitude>
+						<latitude>22.2122778</latitude>
+						<altitude>0</altitude>
+						<heading>0</heading>
+						<tilt>0</tilt>
+						<gx:fovy>35</gx:fovy>
+						<range>969.433825258043</range>
+						<altitudeMode>relativeToGround</altitudeMode>
+					</LookAt>
+					<styleUrl>#__managed_style_0F1E8456C240735F2957</styleUrl>
+					<Point>
+						<extrude>1</extrude>
+						<coordinates>-159.3835833,22.2122778,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark id="09A359F4023A6AC91F94">
+					<name>K5 Offspring</name>
+					<description><![CDATA[<div>New in 2025<br></div>]]></description>
+					<LookAt>
+						<longitude>-159.3835</longitude>
+						<latitude>22.2113611</latitude>
+						<altitude>0</altitude>
+						<heading>0</heading>
+						<tilt>0</tilt>
+						<gx:fovy>35</gx:fovy>
+						<range>969.4408679258747</range>
+						<altitudeMode>relativeToGround</altitudeMode>
+					</LookAt>
+					<styleUrl>#__managed_style_0F1E8456C240735F2957</styleUrl>
+					<Point>
+						<extrude>1</extrude>
+						<coordinates>-159.3835,22.2113611,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark id="0BD782AD023A6AD317D3">
+					<name>K5 Offspring</name>
+					<description><![CDATA[<div>New in 2025</div>]]></description>
+					<LookAt>
+						<longitude>-159.3823056</longitude>
+						<latitude>22.2116111</latitude>
+						<altitude>0</altitude>
+						<heading>0</heading>
+						<tilt>0</tilt>
+						<gx:fovy>35</gx:fovy>
+						<range>969.4389472945735</range>
+						<altitudeMode>relativeToGround</altitudeMode>
+					</LookAt>
+					<styleUrl>#__managed_style_0F1E8456C240735F2957</styleUrl>
+					<Point>
+						<extrude>1</extrude>
+						<coordinates>-159.3823056,22.2116111,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark id="055A5A12873A6F739D56">
+					<name>K5 Offspring</name>
+					<description><![CDATA[<div>New in 2025</div>]]></description>
+					<LookAt>
+						<longitude>-159.3827222</longitude>
+						<latitude>22.2100833</latitude>
+						<altitude>0</altitude>
+						<heading>0</heading>
+						<tilt>0</tilt>
+						<gx:fovy>35</gx:fovy>
+						<range>969.4506843468107</range>
+						<altitudeMode>relativeToGround</altitudeMode>
+					</LookAt>
+					<styleUrl>#__managed_style_0F1E8456C240735F2957</styleUrl>
+					<Point>
+						<extrude>1</extrude>
+						<coordinates>-159.3827222,22.2100833,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark id="0F813BDB6F3A6F7A4DF8">
+					<name>K5 Offspring</name>
+					<description><![CDATA[<div>New in 2025</div>]]></description>
+					<LookAt>
+						<longitude>-159.3826944</longitude>
+						<latitude>22.2101111</latitude>
+						<altitude>0</altitude>
+						<heading>0</heading>
+						<tilt>0</tilt>
+						<gx:fovy>35</gx:fovy>
+						<range>969.4504707848632</range>
+						<altitudeMode>relativeToGround</altitudeMode>
+					</LookAt>
+					<styleUrl>#__managed_style_0F1E8456C240735F2957</styleUrl>
+					<Point>
+						<extrude>1</extrude>
+						<coordinates>-159.3826944,22.2101111,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark id="08436BF56F3A6F7B31C7">
+					<name>K5 Offspring</name>
+					<description><![CDATA[<div>New in 2025<br></div>]]></description>
+					<LookAt>
+						<longitude>-159.3826944</longitude>
+						<latitude>22.2101389</latitude>
+						<altitude>0</altitude>
+						<heading>0</heading>
+						<tilt>0</tilt>
+						<gx:fovy>35</gx:fovy>
+						<range>969.4502572226708</range>
+						<altitudeMode>relativeToGround</altitudeMode>
+					</LookAt>
+					<styleUrl>#__managed_style_0F1E8456C240735F2957</styleUrl>
+					<Point>
+						<extrude>1</extrude>
+						<coordinates>-159.3826944,22.2101389,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark id="061A4320293A6F7BBF0C">
+					<name>K5 Offspring</name>
+					<description><![CDATA[<div>New to 2025</div>]]></description>
+					<LookAt>
+						<longitude>-159.3826944</longitude>
+						<latitude>22.2101667</latitude>
+						<altitude>0</altitude>
+						<heading>0</heading>
+						<tilt>0</tilt>
+						<gx:fovy>35</gx:fovy>
+						<range>969.450043660233</range>
+						<altitudeMode>relativeToGround</altitudeMode>
+					</LookAt>
+					<styleUrl>#__managed_style_0F1E8456C240735F2957</styleUrl>
+					<Point>
+						<extrude>1</extrude>
+						<coordinates>-159.3826944,22.2101667,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark id="0F9465B1413A6F7C2691">
+					<name>K5 Offspring</name>
+					<description><![CDATA[<div>New in 2025</div>]]></description>
+					<LookAt>
+						<longitude>-159.3826667</longitude>
+						<latitude>22.2101944</latitude>
+						<altitude>0</altitude>
+						<heading>0</heading>
+						<tilt>0</tilt>
+						<gx:fovy>35</gx:fovy>
+						<range>969.4498308657613</range>
+						<altitudeMode>relativeToGround</altitudeMode>
+					</LookAt>
+					<styleUrl>#__managed_style_0F1E8456C240735F2957</styleUrl>
+					<Point>
+						<extrude>1</extrude>
+						<coordinates>-159.3826667,22.2101944,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark id="0475F8ABA73A6F7C9DA4">
+					<name>K5 Offspring</name>
+					<description><![CDATA[<div>New in 2025</div>]]></description>
+					<LookAt>
+						<longitude>-159.3826667</longitude>
+						<latitude>22.2102222</latitude>
+						<altitude>0</altitude>
+						<heading>0</heading>
+						<tilt>0</tilt>
+						<gx:fovy>35</gx:fovy>
+						<range>969.449617302834</range>
+						<altitudeMode>relativeToGround</altitudeMode>
+					</LookAt>
+					<styleUrl>#__managed_style_0F1E8456C240735F2957</styleUrl>
+					<Point>
+						<extrude>1</extrude>
+						<coordinates>-159.3826667,22.2102222,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark id="0583492CA53A6F7CFD48">
+					<name>K5 Offspring</name>
+					<description><![CDATA[<div>New in 2025<br></div>]]></description>
+					<LookAt>
+						<longitude>-159.3826667</longitude>
+						<latitude>22.21025</latitude>
+						<altitude>0</altitude>
+						<heading>0</heading>
+						<tilt>0</tilt>
+						<gx:fovy>35</gx:fovy>
+						<range>969.4494037396614</range>
+						<altitudeMode>relativeToGround</altitudeMode>
+					</LookAt>
+					<styleUrl>#__managed_style_0F1E8456C240735F2957</styleUrl>
+					<Point>
+						<extrude>1</extrude>
+						<coordinates>-159.3826667,22.21025,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark id="04DC1A20593A6F7E98AF">
+					<name>K5 Offspring</name>
+					<description><![CDATA[<div>New in 2025<br></div>]]></description>
+					<LookAt>
+						<longitude>-159.3826389</longitude>
+						<latitude>22.2102778</latitude>
+						<altitude>0</altitude>
+						<heading>0</heading>
+						<tilt>0</tilt>
+						<gx:fovy>35</gx:fovy>
+						<range>969.4491901762435</range>
+						<altitudeMode>relativeToGround</altitudeMode>
+					</LookAt>
+					<styleUrl>#__managed_style_0F1E8456C240735F2957</styleUrl>
+					<Point>
+						<extrude>1</extrude>
+						<coordinates>-159.3826389,22.2102778,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark id="0AF6462A383A6F7EFE2C">
+					<name>K5 Offspring</name>
+					<description><![CDATA[<div>New in 2025<br></div>]]></description>
+					<LookAt>
+						<longitude>-159.3826389</longitude>
+						<latitude>22.2103611</latitude>
+						<altitude>0</altitude>
+						<heading>0</heading>
+						<tilt>0</tilt>
+						<gx:fovy>35</gx:fovy>
+						<range>969.448550252735</range>
+						<altitudeMode>relativeToGround</altitudeMode>
+					</LookAt>
+					<styleUrl>#__managed_style_0F1E8456C240735F2957</styleUrl>
+					<Point>
+						<extrude>1</extrude>
+						<coordinates>-159.3826389,22.2103611,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark id="021969C4373A6F7F5964">
+					<name>K5 Offspring</name>
+					<description><![CDATA[<div>New in 2025<br></div>]]></description>
+					<LookAt>
+						<longitude>-159.3836944</longitude>
+						<latitude>22.2119444</latitude>
+						<altitude>0</altitude>
+						<heading>0</heading>
+						<tilt>0</tilt>
+						<gx:fovy>35</gx:fovy>
+						<range>969.4363866780739</range>
+						<altitudeMode>relativeToGround</altitudeMode>
+					</LookAt>
+					<styleUrl>#__managed_style_0F1E8456C240735F2957</styleUrl>
+					<Point>
+						<extrude>1</extrude>
+						<coordinates>-159.3836944,22.2119444,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark id="0C0AABAA7E3A6F7FC34F">
+					<name>K5 Offspring</name>
+					<description><![CDATA[<div>New in 2025<br></div>]]></description>
+					<LookAt>
+						<longitude>-159.3836944</longitude>
+						<latitude>22.2119167</latitude>
+						<altitude>0</altitude>
+						<heading>0</heading>
+						<tilt>0</tilt>
+						<gx:fovy>35</gx:fovy>
+						<range>969.4365994879291</range>
+						<altitudeMode>relativeToGround</altitudeMode>
+					</LookAt>
+					<styleUrl>#__managed_style_0F1E8456C240735F2957</styleUrl>
+					<Point>
+						<extrude>1</extrude>
+						<coordinates>-159.3836944,22.2119167,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark id="0167C136323A6F801F0F">
+					<name>K5 Offspring</name>
+					<description><![CDATA[<div>New in 2025<br></div>]]></description>
+					<LookAt>
+						<longitude>-159.3836667</longitude>
+						<latitude>22.2119167</latitude>
+						<altitude>0</altitude>
+						<heading>0</heading>
+						<tilt>0</tilt>
+						<gx:fovy>35</gx:fovy>
+						<range>969.4365994879291</range>
+						<altitudeMode>relativeToGround</altitudeMode>
+					</LookAt>
+					<styleUrl>#__managed_style_0F1E8456C240735F2957</styleUrl>
+					<Point>
+						<extrude>1</extrude>
+						<coordinates>-159.3836667,22.2119167,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark id="09DC2961583A6F817A0C">
+					<name>K5 Offspring</name>
+					<description><![CDATA[<div>New in 2025<br></div>]]></description>
+					<LookAt>
+						<longitude>-159.3833611</longitude>
+						<latitude>22.2114444</latitude>
+						<altitude>0</altitude>
+						<heading>0</heading>
+						<tilt>0</tilt>
+						<gx:fovy>35</gx:fovy>
+						<range>969.4402279737284</range>
+						<altitudeMode>relativeToGround</altitudeMode>
+					</LookAt>
+					<styleUrl>#__managed_style_0F1E8456C240735F2957</styleUrl>
+					<Point>
+						<extrude>1</extrude>
+						<coordinates>-159.3833611,22.2114444,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark id="09DF7DA8E93A6F81D0E8">
+					<name>K5 Offspring</name>
+					<description><![CDATA[<div>New in 2025<br></div>]]></description>
+					<LookAt>
+						<longitude>-159.38325</longitude>
+						<latitude>22.21144439999999</latitude>
+						<altitude>0</altitude>
+						<heading>0</heading>
+						<tilt>0</tilt>
+						<gx:fovy>35</gx:fovy>
+						<range>969.4402279737284</range>
+						<altitudeMode>relativeToGround</altitudeMode>
+					</LookAt>
+					<styleUrl>#__managed_style_0F1E8456C240735F2957</styleUrl>
+					<Point>
+						<extrude>1</extrude>
+						<coordinates>-159.38325,22.2114444,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark id="08A1CA210F3A6F8233DC">
+					<name>K5 Offspring</name>
+					<description><![CDATA[<div>New in 2025<br></div>]]></description>
+					<LookAt>
+						<longitude>-159.3831389</longitude>
+						<latitude>22.2115278</latitude>
+						<altitude>0</altitude>
+						<heading>0</heading>
+						<tilt>0</tilt>
+						<gx:fovy>35</gx:fovy>
+						<range>969.4395872511263</range>
+						<altitudeMode>relativeToGround</altitudeMode>
+					</LookAt>
+					<styleUrl>#__managed_style_0F1E8456C240735F2957</styleUrl>
+					<Point>
+						<extrude>1</extrude>
+						<coordinates>-159.3831389,22.2115278,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark id="01FAB96B583A6F829B50">
+					<name>K5 Offspring</name>
+					<description><![CDATA[<div>New in 2025<br></div>]]></description>
+					<LookAt>
+						<longitude>-159.3827222</longitude>
+						<latitude>22.2115833</latitude>
+						<altitude>0</altitude>
+						<heading>0</heading>
+						<tilt>0</tilt>
+						<gx:fovy>35</gx:fovy>
+						<range>969.4391608697542</range>
+						<altitudeMode>relativeToGround</altitudeMode>
+					</LookAt>
+					<styleUrl>#__managed_style_0F1E8456C240735F2957</styleUrl>
+					<Point>
+						<extrude>1</extrude>
+						<coordinates>-159.3827222,22.2115833,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark id="01DDD449D53A6F83023C">
+					<name>K5 Offspring</name>
+					<description><![CDATA[<div>New in 2025<br></div>]]></description>
+					<LookAt>
+						<longitude>-159.3825</longitude>
+						<latitude>22.2115833</latitude>
+						<altitude>0</altitude>
+						<heading>0</heading>
+						<tilt>0</tilt>
+						<gx:fovy>35</gx:fovy>
+						<range>969.4391608697542</range>
+						<altitudeMode>relativeToGround</altitudeMode>
+					</LookAt>
+					<styleUrl>#__managed_style_0F1E8456C240735F2957</styleUrl>
+					<Point>
+						<extrude>1</extrude>
+						<coordinates>-159.3825,22.2115833,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark id="0F5231FEAA3A6F835764">
+					<name>K5 Offspring</name>
+					<description><![CDATA[<div>New in 2025<br></div>]]></description>
+					<LookAt>
+						<longitude>-159.3813889</longitude>
+						<latitude>22.2118056</latitude>
+						<altitude>0</altitude>
+						<heading>0</heading>
+						<tilt>0</tilt>
+						<gx:fovy>35</gx:fovy>
+						<range>969.4374530297027</range>
+						<altitudeMode>relativeToGround</altitudeMode>
+					</LookAt>
+					<styleUrl>#__managed_style_0F1E8456C240735F2957</styleUrl>
+					<Point>
+						<extrude>1</extrude>
+						<coordinates>-159.3813889,22.2118056,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark id="05C2CA212C3A6F83BC90">
+					<name>K5 Offspring</name>
+					<description><![CDATA[<div>New in 2025<br></div>]]></description>
+					<LookAt>
+						<longitude>-159.3836667</longitude>
+						<latitude>22.2110556</latitude>
+						<altitude>0</altitude>
+						<heading>0</heading>
+						<tilt>0</tilt>
+						<gx:fovy>35</gx:fovy>
+						<range>969.4432149103968</range>
+						<altitudeMode>relativeToGround</altitudeMode>
+					</LookAt>
+					<styleUrl>#__managed_style_0F1E8456C240735F2957</styleUrl>
+					<Point>
+						<extrude>1</extrude>
+						<coordinates>-159.3836667,22.2110556,0</coordinates>
+					</Point>
+				</Placemark>
+			</Folder>
+			<Folder id="01EA6BFFBE3A6F77B687">
+				<name>K5 Since 2023</name>
+				<styleUrl>#__managed_style_08EAA0029740735F2958</styleUrl>
+				<Placemark id="0A919FE2703A6ACC88F0">
+					<name>K5 Offspring</name>
+					<LookAt>
+						<longitude>-159.3828889</longitude>
+						<latitude>22.2099444</latitude>
+						<altitude>0</altitude>
+						<heading>0</heading>
+						<tilt>0</tilt>
+						<gx:fovy>35</gx:fovy>
+						<range>969.4517513846641</range>
+						<altitudeMode>relativeToGround</altitudeMode>
+					</LookAt>
+					<styleUrl>#__managed_style_08EAA0029740735F2958</styleUrl>
+					<Point>
+						<extrude>1</extrude>
+						<coordinates>-159.3828889,22.2099444,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark id="0BF8053F963A6ACCE6D0">
+					<name>K5 Offspring</name>
+					<LookAt>
+						<longitude>-159.3837222</longitude>
+						<latitude>22.2118611</latitude>
+						<altitude>0</altitude>
+						<heading>0</heading>
+						<tilt>0</tilt>
+						<gx:fovy>35</gx:fovy>
+						<range>969.4370266434377</range>
+						<altitudeMode>relativeToGround</altitudeMode>
+					</LookAt>
+					<styleUrl>#__managed_style_08EAA0029740735F2958</styleUrl>
+					<Point>
+						<extrude>1</extrude>
+						<coordinates>-159.3837222,22.2118611,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark id="0621780C823A6ACD3FF0">
+					<name>K5 Offspring</name>
+					<LookAt>
+						<longitude>-159.3835556</longitude>
+						<latitude>22.21188889999999</latitude>
+						<altitude>0</altitude>
+						<heading>0</heading>
+						<tilt>0</tilt>
+						<gx:fovy>35</gx:fovy>
+						<range>969.4368130658063</range>
+						<altitudeMode>relativeToGround</altitudeMode>
+					</LookAt>
+					<styleUrl>#__managed_style_08EAA0029740735F2958</styleUrl>
+					<Point>
+						<extrude>1</extrude>
+						<coordinates>-159.3835556,22.2118889,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark id="0BE6A1F63C3A6ACDA32C">
+					<name>K5 Offspring</name>
+					<LookAt>
+						<longitude>-159.3838333</longitude>
+						<latitude>22.2118333</latitude>
+						<altitude>0</altitude>
+						<heading>0</heading>
+						<tilt>0</tilt>
+						<gx:fovy>35</gx:fovy>
+						<range>969.4372402208242</range>
+						<altitudeMode>relativeToGround</altitudeMode>
+					</LookAt>
+					<styleUrl>#__managed_style_08EAA0029740735F2958</styleUrl>
+					<Point>
+						<extrude>1</extrude>
+						<coordinates>-159.3838333,22.2118333,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark id="048148CC293A6ACE00F9">
+					<name>K5 Offspring</name>
+					<LookAt>
+						<longitude>-159.3838333</longitude>
+						<latitude>22.2118056</latitude>
+						<altitude>0</altitude>
+						<heading>0</heading>
+						<tilt>0</tilt>
+						<gx:fovy>35</gx:fovy>
+						<range>969.4374530297027</range>
+						<altitudeMode>relativeToGround</altitudeMode>
+					</LookAt>
+					<styleUrl>#__managed_style_08EAA0029740735F2958</styleUrl>
+					<Point>
+						<extrude>1</extrude>
+						<coordinates>-159.3838333,22.2118056,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark id="08C59865A03A6ACE497F">
+					<name>K5 Offspring</name>
+					<LookAt>
+						<longitude>-159.3838333</longitude>
+						<latitude>22.2117778</latitude>
+						<altitude>0</altitude>
+						<heading>0</heading>
+						<tilt>0</tilt>
+						<gx:fovy>35</gx:fovy>
+						<range>969.4376666065994</range>
+						<altitudeMode>relativeToGround</altitudeMode>
+					</LookAt>
+					<styleUrl>#__managed_style_08EAA0029740735F2958</styleUrl>
+					<Point>
+						<extrude>1</extrude>
+						<coordinates>-159.3838333,22.2117778,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark id="05255E2A593A6ACE9A29">
+					<name>K5 Offspring</name>
+					<LookAt>
+						<longitude>-159.3838333</longitude>
+						<latitude>22.2117778</latitude>
+						<altitude>0</altitude>
+						<heading>0</heading>
+						<tilt>0</tilt>
+						<gx:fovy>35</gx:fovy>
+						<range>969.4376666065994</range>
+						<altitudeMode>relativeToGround</altitudeMode>
+					</LookAt>
+					<styleUrl>#__managed_style_08EAA0029740735F2958</styleUrl>
+					<Point>
+						<extrude>1</extrude>
+						<coordinates>-159.3838333,22.2117778,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark id="0464535B643A6ACEF734">
+					<name>K5 Offspring</name>
+					<LookAt>
+						<longitude>-159.3838611</longitude>
+						<latitude>22.2118056</latitude>
+						<altitude>0</altitude>
+						<heading>0</heading>
+						<tilt>0</tilt>
+						<gx:fovy>35</gx:fovy>
+						<range>969.4374530297027</range>
+						<altitudeMode>relativeToGround</altitudeMode>
+					</LookAt>
+					<styleUrl>#__managed_style_08EAA0029740735F2958</styleUrl>
+					<Point>
+						<extrude>1</extrude>
+						<coordinates>-159.3838611,22.2118056,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark id="0803FEDE063A6ACF5C2F">
+					<name>K5 Offspring</name>
+					<LookAt>
+						<longitude>-159.3839167</longitude>
+						<latitude>22.2118333</latitude>
+						<altitude>0</altitude>
+						<heading>0</heading>
+						<tilt>0</tilt>
+						<gx:fovy>35</gx:fovy>
+						<range>969.4372402208242</range>
+						<altitudeMode>relativeToGround</altitudeMode>
+					</LookAt>
+					<styleUrl>#__managed_style_08EAA0029740735F2958</styleUrl>
+					<Point>
+						<extrude>1</extrude>
+						<coordinates>-159.3839167,22.2118333,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark id="056D702DD53A6ACFBFB7">
+					<name>K5 Offspring</name>
+					<LookAt>
+						<longitude>-159.3838611</longitude>
+						<latitude>22.2118056</latitude>
+						<altitude>0</altitude>
+						<heading>0</heading>
+						<tilt>0</tilt>
+						<gx:fovy>35</gx:fovy>
+						<range>969.4374530297027</range>
+						<altitudeMode>relativeToGround</altitudeMode>
+					</LookAt>
+					<styleUrl>#__managed_style_08EAA0029740735F2958</styleUrl>
+					<Point>
+						<extrude>1</extrude>
+						<coordinates>-159.3838611,22.2118056,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark id="07B4FD889F3A6AD0161C">
+					<name>K5 Offspring</name>
+					<LookAt>
+						<longitude>-159.3838611</longitude>
+						<latitude>22.2118056</latitude>
+						<altitude>0</altitude>
+						<heading>0</heading>
+						<tilt>0</tilt>
+						<gx:fovy>35</gx:fovy>
+						<range>969.4374530297027</range>
+						<altitudeMode>relativeToGround</altitudeMode>
+					</LookAt>
+					<styleUrl>#__managed_style_08EAA0029740735F2958</styleUrl>
+					<Point>
+						<extrude>1</extrude>
+						<coordinates>-159.3838611,22.2118056,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark id="0C19CC29483A6AD09551">
+					<name>K5 Offspring</name>
+					<LookAt>
+						<longitude>-159.3838333</longitude>
+						<latitude>22.2119722</latitude>
+						<altitude>0</altitude>
+						<heading>0</heading>
+						<tilt>0</tilt>
+						<gx:fovy>35</gx:fovy>
+						<range>969.4361730997075</range>
+						<altitudeMode>relativeToGround</altitudeMode>
+					</LookAt>
+					<styleUrl>#__managed_style_08EAA0029740735F2958</styleUrl>
+					<Point>
+						<extrude>1</extrude>
+						<coordinates>-159.3838333,22.2119722,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark id="0D23F85FEC3A6AD0DF46">
+					<name>K5 Offspring</name>
+					<LookAt>
+						<longitude>-159.3838056</longitude>
+						<latitude>22.2119722</latitude>
+						<altitude>0</altitude>
+						<heading>0</heading>
+						<tilt>0</tilt>
+						<gx:fovy>35</gx:fovy>
+						<range>969.4361730997075</range>
+						<altitudeMode>relativeToGround</altitudeMode>
+					</LookAt>
+					<styleUrl>#__managed_style_08EAA0029740735F2958</styleUrl>
+					<Point>
+						<extrude>1</extrude>
+						<coordinates>-159.3838056,22.2119722,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark id="00C4BB5A313A6AD12FE4">
+					<name>K5 Offspring</name>
+					<LookAt>
+						<longitude>-159.3839722</longitude>
+						<latitude>22.21197219999999</latitude>
+						<altitude>0</altitude>
+						<heading>0</heading>
+						<tilt>0</tilt>
+						<gx:fovy>35</gx:fovy>
+						<range>969.4361730997075</range>
+						<altitudeMode>relativeToGround</altitudeMode>
+					</LookAt>
+					<styleUrl>#__managed_style_08EAA0029740735F2958</styleUrl>
+					<Point>
+						<extrude>1</extrude>
+						<coordinates>-159.3839722,22.2119722,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark id="0612F7B2923A6AD18E89">
+					<name>K5 Offspring</name>
+					<LookAt>
+						<longitude>-159.3839444</longitude>
+						<latitude>22.2105833</latitude>
+						<altitude>0</altitude>
+						<heading>0</heading>
+						<tilt>0</tilt>
+						<gx:fovy>35</gx:fovy>
+						<range>969.44684326713</range>
+						<altitudeMode>relativeToGround</altitudeMode>
+					</LookAt>
+					<styleUrl>#__managed_style_08EAA0029740735F2958</styleUrl>
+					<Point>
+						<extrude>1</extrude>
+						<coordinates>-159.3839444,22.2105833,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark id="088B1AC29E3A6AD1DB7E">
+					<name>K5 Offspring</name>
+					<LookAt>
+						<longitude>-159.3836667</longitude>
+						<latitude>22.211</latitude>
+						<altitude>0</altitude>
+						<heading>0</heading>
+						<tilt>0</tilt>
+						<gx:fovy>35</gx:fovy>
+						<range>969.4436420507114</range>
+						<altitudeMode>relativeToGround</altitudeMode>
+					</LookAt>
+					<styleUrl>#__managed_style_08EAA0029740735F2958</styleUrl>
+					<Point>
+						<extrude>1</extrude>
+						<coordinates>-159.3836667,22.211,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark id="0B476D773F3A6AD2293C">
+					<name>K5 Offspring</name>
+					<LookAt>
+						<longitude>-159.3836389</longitude>
+						<latitude>22.21108329999999</latitude>
+						<altitude>0</altitude>
+						<heading>0</heading>
+						<tilt>0</tilt>
+						<gx:fovy>35</gx:fovy>
+						<range>969.4430021081112</range>
+						<altitudeMode>relativeToGround</altitudeMode>
+					</LookAt>
+					<styleUrl>#__managed_style_08EAA0029740735F2958</styleUrl>
+					<Point>
+						<extrude>1</extrude>
+						<coordinates>-159.3836389,22.2110833,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark id="0A371860053A6AD2829B">
+					<name>K5 Offspring</name>
+					<LookAt>
+						<longitude>-159.3833889</longitude>
+						<latitude>22.2114444</latitude>
+						<altitude>0</altitude>
+						<heading>0</heading>
+						<tilt>0</tilt>
+						<gx:fovy>35</gx:fovy>
+						<range>969.4402279737284</range>
+						<altitudeMode>relativeToGround</altitudeMode>
+					</LookAt>
+					<styleUrl>#__managed_style_08EAA0029740735F2958</styleUrl>
+					<Point>
+						<extrude>1</extrude>
+						<coordinates>-159.3833889,22.2114444,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark id="042984FFDB3A6F730B51">
+					<name>K5 Offspring</name>
+					<description><![CDATA[<div>2023-2025</div>]]></description>
+					<LookAt>
+						<longitude>-159.3828889</longitude>
+						<latitude>22.2099167</latitude>
+						<altitude>0</altitude>
+						<heading>0</heading>
+						<tilt>0</tilt>
+						<gx:fovy>35</gx:fovy>
+						<range>969.451964176938</range>
+						<altitudeMode>relativeToGround</altitudeMode>
+					</LookAt>
+					<styleUrl>#__managed_style_0F1E8456C240735F2957</styleUrl>
+					<Point>
+						<extrude>1</extrude>
+						<coordinates>-159.3828889,22.2099167,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark id="094A60BA5D3A6F74C400">
+					<name>K5 Offspring</name>
+					<description><![CDATA[<div>2023-2025<br></div>]]></description>
+					<LookAt>
+						<longitude>-159.3838889</longitude>
+						<latitude>22.2119722</latitude>
+						<altitude>0</altitude>
+						<heading>0</heading>
+						<tilt>0</tilt>
+						<gx:fovy>35</gx:fovy>
+						<range>969.4361730997075</range>
+						<altitudeMode>relativeToGround</altitudeMode>
+					</LookAt>
+					<styleUrl>#__managed_style_0F1E8456C240735F2957</styleUrl>
+					<Point>
+						<extrude>1</extrude>
+						<coordinates>-159.3838889,22.2119722,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark id="014EE55DB23A6F766736">
+					<name>K5 Offspring</name>
+					<description><![CDATA[<div>Older than 2023, still there 2025</div>]]></description>
+					<LookAt>
+						<longitude>-159.3828889</longitude>
+						<latitude>22.2116944</latitude>
+						<altitude>0</altitude>
+						<heading>0</heading>
+						<tilt>0</tilt>
+						<gx:fovy>35</gx:fovy>
+						<range>969.4383073358184</range>
+						<altitudeMode>relativeToGround</altitudeMode>
+					</LookAt>
+					<styleUrl>#__managed_style_0F1E8456C240735F2957</styleUrl>
+					<Point>
+						<extrude>1</extrude>
+						<coordinates>-159.3828889,22.2116944,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark id="0B36906F1D3A6F76EB70">
+					<name>K5 Offspring</name>
+					<description><![CDATA[<div>2023-2025</div>]]></description>
+					<LookAt>
+						<longitude>-159.3830833</longitude>
+						<latitude>22.2116667</latitude>
+						<altitude>0</altitude>
+						<heading>0</heading>
+						<tilt>0</tilt>
+						<gx:fovy>35</gx:fovy>
+						<range>969.4385201434758</range>
+						<altitudeMode>relativeToGround</altitudeMode>
+					</LookAt>
+					<styleUrl>#__managed_style_0F1E8456C240735F2957</styleUrl>
+					<Point>
+						<extrude>1</extrude>
+						<coordinates>-159.3830833,22.2116667,0</coordinates>
+					</Point>
+				</Placemark>
+			</Folder>
+		</Folder>
+		<Placemark id="03CCFE37413A7505E688">
+			<name>K80</name>
+			<description><![CDATA[<div>New planted tree from the Lawai international center</div>]]></description>
+			<LookAt>
+				<longitude>-159.509247</longitude>
+				<latitude>21.924507</latitude>
+				<altitude>0</altitude>
+				<heading>0</heading>
+				<tilt>0</tilt>
+				<gx:fovy>35</gx:fovy>
+				<range>971.6315490160084</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#__managed_style_0F1E8456C240735F2957</styleUrl>
+			<Point>
+				<extrude>1</extrude>
+				<coordinates>-159.509247,21.924507,0</coordinates>
+			</Point>
+		</Placemark>
+		<Folder id="0D0BBEA3D23A6ABE8C84">
+			<name>K3</name>
+			<styleUrl>#__managed_style_08EAA0029740735F2958</styleUrl>
+			<Placemark id="02CABAF73F3A6AB9EA50">
+				<name>K3</name>
+				<description><![CDATA[<div>K Adult mother tree</div>]]></description>
+				<LookAt>
+					<longitude>-159.593462</longitude>
+					<latitude>21.907638</latitude>
+					<altitude>0</altitude>
+					<heading>0</heading>
+					<tilt>0</tilt>
+					<gx:fovy>35</gx:fovy>
+					<range>971.7595613172164</range>
+					<altitudeMode>relativeToGround</altitudeMode>
+				</LookAt>
+				<styleUrl>#__managed_style_0F1E8456C240735F2957</styleUrl>
+				<Point>
+					<extrude>1</extrude>
+					<coordinates>-159.593462,21.907638,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="0234059A2A3A6ABF0297">
+				<name>K3 Offspring 2023</name>
+				<description><![CDATA[<div>Offspring 1 year old 2023<br></div><div>Not there in future years<br></div>]]></description>
+				<LookAt>
+					<longitude>-159.593548</longitude>
+					<latitude>21.907615</latitude>
+					<altitude>0</altitude>
+					<heading>0</heading>
+					<tilt>0</tilt>
+					<gx:fovy>35</gx:fovy>
+					<range>971.7597357934355</range>
+					<altitudeMode>relativeToGround</altitudeMode>
+				</LookAt>
+				<styleUrl>#__managed_style_0F1E8456C240735F2957</styleUrl>
+				<Point>
+					<extrude>1</extrude>
+					<coordinates>-159.593548,21.907615,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="07A59E89D13A6ABFD0A6">
+				<name>K3 Offspring 2024</name>
+				<description><![CDATA[<div>One year old<br></div><div>Not found in future years</div>]]></description>
+				<LookAt>
+					<longitude>-159.594389</longitude>
+					<latitude>21.907899</latitude>
+					<altitude>0</altitude>
+					<heading>0</heading>
+					<tilt>0</tilt>
+					<gx:fovy>35</gx:fovy>
+					<range>971.7575813796202</range>
+					<altitudeMode>relativeToGround</altitudeMode>
+				</LookAt>
+				<styleUrl>#__managed_style_0F1E8456C240735F2957</styleUrl>
+				<Point>
+					<extrude>1</extrude>
+					<coordinates>-159.594389,21.907899,0</coordinates>
+				</Point>
+			</Placemark>
+		</Folder>
+		<Placemark id="0E5A0621253A7507BF1E">
+			<name>K73</name>
+			<description><![CDATA[<div>Second generation adult</div>]]></description>
+			<LookAt>
+				<longitude>-159.7088056</longitude>
+				<latitude>21.9679722</latitude>
+				<altitude>0</altitude>
+				<heading>0</heading>
+				<tilt>0</tilt>
+				<gx:fovy>35</gx:fovy>
+				<range>971.3012909862252</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#__managed_style_0F1E8456C240735F2957</styleUrl>
+			<Point>
+				<extrude>1</extrude>
+				<coordinates>-159.7088056,21.9679722,0</coordinates>
+			</Point>
+		</Placemark>
+		<Folder id="0B7C165E353A7516FFC3">
+			<name>Kekaha 2023</name>
+			<styleUrl>#__managed_style_08EAA0029740735F2958</styleUrl>
+			<Placemark id="09ED360B593A7508F9A4">
+				<name>K21 Offspring</name>
+				<LookAt>
+					<longitude>-159.7098889</longitude>
+					<latitude>21.9678333</latitude>
+					<altitude>0</altitude>
+					<heading>0</heading>
+					<tilt>0</tilt>
+					<gx:fovy>35</gx:fovy>
+					<range>971.3023473364043</range>
+					<altitudeMode>relativeToGround</altitudeMode>
+				</LookAt>
+				<styleUrl>#__managed_style_08EAA0029740735F2958</styleUrl>
+				<Point>
+					<extrude>1</extrude>
+					<coordinates>-159.7098889,21.9678333,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="070D6D0FED3A75097054">
+				<name>K21 Offspring</name>
+				<LookAt>
+					<longitude>-159.7099167</longitude>
+					<latitude>21.9678056</latitude>
+					<altitude>0</altitude>
+					<heading>0</heading>
+					<tilt>0</tilt>
+					<gx:fovy>35</gx:fovy>
+					<range>971.3025579972971</range>
+					<altitudeMode>relativeToGround</altitudeMode>
+				</LookAt>
+				<styleUrl>#__managed_style_08EAA0029740735F2958</styleUrl>
+				<Point>
+					<extrude>1</extrude>
+					<coordinates>-159.7099167,21.9678056,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="01CE94911F3A750AD559">
+				<name>K21 Offspring</name>
+				<LookAt>
+					<longitude>-159.7099167</longitude>
+					<latitude>21.9677778</latitude>
+					<altitude>0</altitude>
+					<heading>0</heading>
+					<tilt>0</tilt>
+					<gx:fovy>35</gx:fovy>
+					<range>971.3027694184523</range>
+					<altitudeMode>relativeToGround</altitudeMode>
+				</LookAt>
+				<styleUrl>#__managed_style_08EAA0029740735F2958</styleUrl>
+				<Point>
+					<extrude>1</extrude>
+					<coordinates>-159.7099167,21.9677778,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="093E5765E33A750B1C84">
+				<name>K21 Offspring</name>
+				<LookAt>
+					<longitude>-159.7099444</longitude>
+					<latitude>21.9678056</latitude>
+					<altitude>0</altitude>
+					<heading>0</heading>
+					<tilt>0</tilt>
+					<gx:fovy>35</gx:fovy>
+					<range>971.3025579972971</range>
+					<altitudeMode>relativeToGround</altitudeMode>
+				</LookAt>
+				<styleUrl>#__managed_style_08EAA0029740735F2958</styleUrl>
+				<Point>
+					<extrude>1</extrude>
+					<coordinates>-159.7099444,21.9678056,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="047948B6FC3A750B6DD6">
+				<name>K21 Offspring</name>
+				<LookAt>
+					<longitude>-159.7099444</longitude>
+					<latitude>21.9677778</latitude>
+					<altitude>0</altitude>
+					<heading>0</heading>
+					<tilt>0</tilt>
+					<gx:fovy>35</gx:fovy>
+					<range>971.3027694184523</range>
+					<altitudeMode>relativeToGround</altitudeMode>
+				</LookAt>
+				<styleUrl>#__managed_style_08EAA0029740735F2958</styleUrl>
+				<Point>
+					<extrude>1</extrude>
+					<coordinates>-159.7099444,21.9677778,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="08CD8026DD3A750BB21F">
+				<name>K21 Offspring</name>
+				<LookAt>
+					<longitude>-159.7100556</longitude>
+					<latitude>21.9678056</latitude>
+					<altitude>0</altitude>
+					<heading>0</heading>
+					<tilt>0</tilt>
+					<gx:fovy>35</gx:fovy>
+					<range>971.3025579972971</range>
+					<altitudeMode>relativeToGround</altitudeMode>
+				</LookAt>
+				<styleUrl>#__managed_style_08EAA0029740735F2958</styleUrl>
+				<Point>
+					<extrude>1</extrude>
+					<coordinates>-159.7100556,21.9678056,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="07E41ECC623A750BF7DB">
+				<name>K21 Offspring</name>
+				<LookAt>
+					<longitude>-159.7100833</longitude>
+					<latitude>21.9678056</latitude>
+					<altitude>0</altitude>
+					<heading>0</heading>
+					<tilt>0</tilt>
+					<gx:fovy>35</gx:fovy>
+					<range>971.3025579972971</range>
+					<altitudeMode>relativeToGround</altitudeMode>
+				</LookAt>
+				<styleUrl>#__managed_style_08EAA0029740735F2958</styleUrl>
+				<Point>
+					<extrude>1</extrude>
+					<coordinates>-159.7100833,21.9678056,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="0416D3EC703A750C5206">
+				<name>K21 Offspring</name>
+				<LookAt>
+					<longitude>-159.7100833</longitude>
+					<latitude>21.9677778</latitude>
+					<altitude>0</altitude>
+					<heading>0</heading>
+					<tilt>0</tilt>
+					<gx:fovy>35</gx:fovy>
+					<range>971.3027694184523</range>
+					<altitudeMode>relativeToGround</altitudeMode>
+				</LookAt>
+				<styleUrl>#__managed_style_08EAA0029740735F2958</styleUrl>
+				<Point>
+					<extrude>1</extrude>
+					<coordinates>-159.7100833,21.9677778,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="07E5AF8F083A750CA314">
+				<name>K21 Offspring</name>
+				<LookAt>
+					<longitude>-159.7099167</longitude>
+					<latitude>21.9677778</latitude>
+					<altitude>0</altitude>
+					<heading>0</heading>
+					<tilt>0</tilt>
+					<gx:fovy>35</gx:fovy>
+					<range>971.3027694184523</range>
+					<altitudeMode>relativeToGround</altitudeMode>
+				</LookAt>
+				<styleUrl>#__managed_style_08EAA0029740735F2958</styleUrl>
+				<Point>
+					<extrude>1</extrude>
+					<coordinates>-159.7099167,21.9677778,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="08DB4D87E13A750D01CC">
+				<name>K21 Offspring</name>
+				<LookAt>
+					<longitude>-159.7119444</longitude>
+					<latitude>21.96872219999999</latitude>
+					<altitude>0</altitude>
+					<heading>0</heading>
+					<tilt>0</tilt>
+					<gx:fovy>35</gx:fovy>
+					<range>971.2955870454757</range>
+					<altitudeMode>relativeToGround</altitudeMode>
+				</LookAt>
+				<styleUrl>#__managed_style_08EAA0029740735F2958</styleUrl>
+				<Point>
+					<extrude>1</extrude>
+					<coordinates>-159.7119444,21.9687222,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="02B84DF7C43A750DEEE9">
+				<name>K21 Offspring</name>
+				<description><![CDATA[<div>New in 2025</div>]]></description>
+				<LookAt>
+					<longitude>-159.7108889</longitude>
+					<latitude>21.9689444</latitude>
+					<altitude>0</altitude>
+					<heading>0</heading>
+					<tilt>0</tilt>
+					<gx:fovy>35</gx:fovy>
+					<range>971.2938971235876</range>
+					<altitudeMode>relativeToGround</altitudeMode>
+				</LookAt>
+				<styleUrl>#__managed_style_0F1E8456C240735F2957</styleUrl>
+				<Point>
+					<extrude>1</extrude>
+					<coordinates>-159.7108889,21.9689444,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="03034B865A3A750E964C">
+				<name>K21 Offspring</name>
+				<LookAt>
+					<longitude>-159.7105556</longitude>
+					<latitude>21.9685</latitude>
+					<altitude>0</altitude>
+					<heading>0</heading>
+					<tilt>0</tilt>
+					<gx:fovy>35</gx:fovy>
+					<range>971.2972769516507</range>
+					<altitudeMode>relativeToGround</altitudeMode>
+				</LookAt>
+				<styleUrl>#__managed_style_08EAA0029740735F2958</styleUrl>
+				<Point>
+					<extrude>1</extrude>
+					<coordinates>-159.7105556,21.9685,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="033A95CCC43A750EE2FC">
+				<name>K21 Offspring</name>
+				<LookAt>
+					<longitude>-159.7105556</longitude>
+					<latitude>21.9685278</latitude>
+					<altitude>0</altitude>
+					<heading>0</heading>
+					<tilt>0</tilt>
+					<gx:fovy>35</gx:fovy>
+					<range>971.2970655241053</range>
+					<altitudeMode>relativeToGround</altitudeMode>
+				</LookAt>
+				<styleUrl>#__managed_style_08EAA0029740735F2958</styleUrl>
+				<Point>
+					<extrude>1</extrude>
+					<coordinates>-159.7105556,21.9685278,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="0DF1512C433A750F2AFE">
+				<name>K21 Offspring</name>
+				<LookAt>
+					<longitude>-159.7105278</longitude>
+					<latitude>21.96847219999999</latitude>
+					<altitude>0</altitude>
+					<heading>0</heading>
+					<tilt>0</tilt>
+					<gx:fovy>35</gx:fovy>
+					<range>971.2974883789501</range>
+					<altitudeMode>relativeToGround</altitudeMode>
+				</LookAt>
+				<styleUrl>#__managed_style_08EAA0029740735F2958</styleUrl>
+				<Point>
+					<extrude>1</extrude>
+					<coordinates>-159.7105278,21.9684722,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="0B03164DAC3A750F8848">
+				<name>K21 Offspring</name>
+				<LookAt>
+					<longitude>-159.7104722</longitude>
+					<latitude>21.9684722</latitude>
+					<altitude>0</altitude>
+					<heading>0</heading>
+					<tilt>0</tilt>
+					<gx:fovy>35</gx:fovy>
+					<range>971.2974883789501</range>
+					<altitudeMode>relativeToGround</altitudeMode>
+				</LookAt>
+				<styleUrl>#__managed_style_08EAA0029740735F2958</styleUrl>
+				<Point>
+					<extrude>1</extrude>
+					<coordinates>-159.7104722,21.9684722,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="028B8C54953A750FE629">
+				<name>K21 Offspring</name>
+				<LookAt>
+					<longitude>-159.7101111</longitude>
+					<latitude>21.9682222</latitude>
+					<altitude>0</altitude>
+					<heading>0</heading>
+					<tilt>0</tilt>
+					<gx:fovy>35</gx:fovy>
+					<range>971.2993896925333</range>
+					<altitudeMode>relativeToGround</altitudeMode>
+				</LookAt>
+				<styleUrl>#__managed_style_08EAA0029740735F2958</styleUrl>
+				<Point>
+					<extrude>1</extrude>
+					<coordinates>-159.7101111,21.9682222,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="0435EFA1A23A75103909">
+				<name>K21 Offspring</name>
+				<LookAt>
+					<longitude>-159.7100833</longitude>
+					<latitude>21.9682222</latitude>
+					<altitude>0</altitude>
+					<heading>0</heading>
+					<tilt>0</tilt>
+					<gx:fovy>35</gx:fovy>
+					<range>971.2993896925333</range>
+					<altitudeMode>relativeToGround</altitudeMode>
+				</LookAt>
+				<styleUrl>#__managed_style_08EAA0029740735F2958</styleUrl>
+				<Point>
+					<extrude>1</extrude>
+					<coordinates>-159.7100833,21.9682222,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="06BCE44AEC3A7510C661">
+				<name>K21 Offspring</name>
+				<LookAt>
+					<longitude>-159.7104444</longitude>
+					<latitude>21.9684167</latitude>
+					<altitude>0</altitude>
+					<heading>0</heading>
+					<tilt>0</tilt>
+					<gx:fovy>35</gx:fovy>
+					<range>971.2979104722834</range>
+					<altitudeMode>relativeToGround</altitudeMode>
+				</LookAt>
+				<styleUrl>#__managed_style_08EAA0029740735F2958</styleUrl>
+				<Point>
+					<extrude>1</extrude>
+					<coordinates>-159.7104444,21.9684167,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="00C9EDB0353A7511124B">
+				<name>K21 Offspring</name>
+				<LookAt>
+					<longitude>-159.7101389</longitude>
+					<latitude>21.9682222</latitude>
+					<altitude>0</altitude>
+					<heading>0</heading>
+					<tilt>0</tilt>
+					<gx:fovy>35</gx:fovy>
+					<range>971.2993896925333</range>
+					<altitudeMode>relativeToGround</altitudeMode>
+				</LookAt>
+				<styleUrl>#__managed_style_08EAA0029740735F2958</styleUrl>
+				<Point>
+					<extrude>1</extrude>
+					<coordinates>-159.7101389,21.9682222,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="0ABC384E2F3A751171DE">
+				<name>K21 Offspring</name>
+				<LookAt>
+					<longitude>-159.7104444</longitude>
+					<latitude>21.9684444</latitude>
+					<altitude>0</altitude>
+					<heading>0</heading>
+					<tilt>0</tilt>
+					<gx:fovy>35</gx:fovy>
+					<range>971.2976998060034</range>
+					<altitudeMode>relativeToGround</altitudeMode>
+				</LookAt>
+				<styleUrl>#__managed_style_08EAA0029740735F2958</styleUrl>
+				<Point>
+					<extrude>1</extrude>
+					<coordinates>-159.7104444,21.9684444,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="0CCEE748173A7511CC5E">
+				<name>K21 Offspring</name>
+				<LookAt>
+					<longitude>-159.7100833</longitude>
+					<latitude>21.9681944</latitude>
+					<altitude>0</altitude>
+					<heading>0</heading>
+					<tilt>0</tilt>
+					<gx:fovy>35</gx:fovy>
+					<range>971.2996011173748</range>
+					<altitudeMode>relativeToGround</altitudeMode>
+				</LookAt>
+				<styleUrl>#__managed_style_08EAA0029740735F2958</styleUrl>
+				<Point>
+					<extrude>1</extrude>
+					<coordinates>-159.7100833,21.9681944,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="06FC31C2C83A75121A19">
+				<name>K21 Offspring</name>
+				<LookAt>
+					<longitude>-159.71</longitude>
+					<latitude>21.9681389</latitude>
+					<altitude>0</altitude>
+					<heading>0</heading>
+					<tilt>0</tilt>
+					<gx:fovy>35</gx:fovy>
+					<range>971.3000232058012</range>
+					<altitudeMode>relativeToGround</altitudeMode>
+				</LookAt>
+				<styleUrl>#__managed_style_08EAA0029740735F2958</styleUrl>
+				<Point>
+					<extrude>1</extrude>
+					<coordinates>-159.71,21.9681389,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="09F11F90A43A7512675F">
+				<name>K21 Offspring</name>
+				<LookAt>
+					<longitude>-159.7099444</longitude>
+					<latitude>21.9681389</latitude>
+					<altitude>0</altitude>
+					<heading>0</heading>
+					<tilt>0</tilt>
+					<gx:fovy>35</gx:fovy>
+					<range>971.3000232058012</range>
+					<altitudeMode>relativeToGround</altitudeMode>
+				</LookAt>
+				<styleUrl>#__managed_style_08EAA0029740735F2958</styleUrl>
+				<Point>
+					<extrude>1</extrude>
+					<coordinates>-159.7099444,21.9681389,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="0CAD83ED733A7512E09B">
+				<name>K21 Offspring</name>
+				<LookAt>
+					<longitude>-159.7100278</longitude>
+					<latitude>21.9681667</latitude>
+					<altitude>0</altitude>
+					<heading>0</heading>
+					<tilt>0</tilt>
+					<gx:fovy>35</gx:fovy>
+					<range>971.2998117814506</range>
+					<altitudeMode>relativeToGround</altitudeMode>
+				</LookAt>
+				<styleUrl>#__managed_style_08EAA0029740735F2958</styleUrl>
+				<Point>
+					<extrude>1</extrude>
+					<coordinates>-159.7100278,21.9681667,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="09B43059743A751322F0">
+				<name>K21 Offspring</name>
+				<LookAt>
+					<longitude>-159.7099722</longitude>
+					<latitude>21.9681111</latitude>
+					<altitude>0</altitude>
+					<heading>0</heading>
+					<tilt>0</tilt>
+					<gx:fovy>35</gx:fovy>
+					<range>971.3002346299056</range>
+					<altitudeMode>relativeToGround</altitudeMode>
+				</LookAt>
+				<styleUrl>#__managed_style_08EAA0029740735F2958</styleUrl>
+				<Point>
+					<extrude>1</extrude>
+					<coordinates>-159.7099722,21.9681111,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="064919EC843A75147D8F">
+				<name>K21 Offspring</name>
+				<description><![CDATA[<div>Not here 2025</div>]]></description>
+				<LookAt>
+					<longitude>-159.7111911992152</longitude>
+					<latitude>21.96913171999339</latitude>
+					<altitude>2.270896550283936</altitude>
+					<heading>0</heading>
+					<tilt>0</tilt>
+					<gx:fovy>35</gx:fovy>
+					<range>44.87819171433785</range>
+					<altitudeMode>absolute</altitudeMode>
+				</LookAt>
+				<styleUrl>#__managed_style_1C05576F6D40735F295B</styleUrl>
+				<Point>
+					<coordinates>-159.7112131136326,21.9691445514603,2.270899917147124</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="068A8EE49F3A75150AD4">
+				<name>K21 Offspring</name>
+				<description><![CDATA[<div>Not here 2025</div>]]></description>
+				<LookAt>
+					<longitude>-159.7111447982392</longitude>
+					<latitude>21.96912756519196</latitude>
+					<altitude>2.270896019790787</altitude>
+					<heading>0</heading>
+					<tilt>0</tilt>
+					<gx:fovy>35</gx:fovy>
+					<range>129.5754006239622</range>
+					<altitudeMode>absolute</altitudeMode>
+				</LookAt>
+				<styleUrl>#__managed_style_1C05576F6D40735F295B</styleUrl>
+				<Point>
+					<coordinates>-159.7112016224187,21.96913986670599,2.270898359619238</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="05FB319FD13A75159D1E">
+				<name>K21 Offspring</name>
+				<description><![CDATA[<div>Not here 2025</div>]]></description>
+				<LookAt>
+					<longitude>-159.7112740322156</longitude>
+					<latitude>21.96912878681906</latitude>
+					<altitude>2.27090485002609</altitude>
+					<heading>0</heading>
+					<tilt>0</tilt>
+					<gx:fovy>35</gx:fovy>
+					<range>81.82489303976581</range>
+					<altitudeMode>absolute</altitudeMode>
+				</LookAt>
+				<styleUrl>#__managed_style_1C05576F6D40735F295B</styleUrl>
+				<Point>
+					<coordinates>-159.7112510597427,21.96916472288462,2.27090794103284</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="0D6D5976383A75161DE4">
+				<name>K21 Offspring</name>
+				<description><![CDATA[<div>Not here 2025</div>]]></description>
+				<LookAt>
+					<longitude>-159.7111172414992</longitude>
+					<latitude>21.96915206921144</latitude>
+					<altitude>2.270911430970439</altitude>
+					<heading>0</heading>
+					<tilt>0</tilt>
+					<gx:fovy>35</gx:fovy>
+					<range>88.78356743394761</range>
+					<altitudeMode>absolute</altitudeMode>
+				</LookAt>
+				<styleUrl>#__managed_style_1C05576F6D40735F295B</styleUrl>
+				<Point>
+					<coordinates>-159.7111537262581,21.96910935476866,2.270893343276017</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="09F405FB383A75168697">
+				<name>K21 Offspring</name>
+				<description><![CDATA[<div>Not here 2025</div>]]></description>
+				<LookAt>
+					<longitude>-159.7111242606526</longitude>
+					<latitude>21.96910197007981</latitude>
+					<altitude>2.270903486305034</altitude>
+					<heading>0</heading>
+					<tilt>0</tilt>
+					<gx:fovy>35</gx:fovy>
+					<range>106.6119854598765</range>
+					<altitudeMode>absolute</altitudeMode>
+				</LookAt>
+				<styleUrl>#__managed_style_1C05576F6D40735F295B</styleUrl>
+				<Point>
+					<coordinates>-159.7111297416749,21.96909535721289,2.27088362464152</coordinates>
+				</Point>
+			</Placemark>
+			<Folder id="0BE1A430843A751887CF">
+				<name>Kekaha 2024</name>
+				<styleUrl>#__managed_style_08EAA0029740735F2958</styleUrl>
+			</Folder>
+		</Folder>
+		<Folder id="00118D7A8F3A7520B446">
+			<name>Kekaha 2024</name>
+			<styleUrl>#__managed_style_08EAA0029740735F2958</styleUrl>
+			<Placemark id="0CCFDF5DBA3A7513C08F">
+				<name>K21 Offspring 2024</name>
+				<description><![CDATA[<div>Found in 2024<br></div>]]></description>
+				<LookAt>
+					<longitude>-159.7113611</longitude>
+					<latitude>21.9692222</latitude>
+					<altitude>0</altitude>
+					<heading>0</heading>
+					<tilt>0</tilt>
+					<gx:fovy>35</gx:fovy>
+					<range>971.2917843188541</range>
+					<altitudeMode>relativeToGround</altitudeMode>
+				</LookAt>
+				<styleUrl>#__managed_style_0F1E8456C240735F2957</styleUrl>
+				<Point>
+					<extrude>1</extrude>
+					<coordinates>-159.7113611,21.9692222,0</coordinates>
+				</Point>
+			</Placemark>
+		</Folder>
+		<Folder id="01E38EFD0E3A7521BECC">
+			<name>Kekaha 2025</name>
+			<styleUrl>#__managed_style_08EAA0029740735F2958</styleUrl>
+			<Placemark id="0EA0E902BC3A75218227">
+				<name>K21 Offspring</name>
+				<description><![CDATA[<div>New in 2025</div>]]></description>
+				<LookAt>
+					<longitude>-159.7109444</longitude>
+					<latitude>21.9689722</latitude>
+					<altitude>0</altitude>
+					<heading>0</heading>
+					<tilt>0</tilt>
+					<gx:fovy>35</gx:fovy>
+					<range>971.2936856921104</range>
+					<altitudeMode>relativeToGround</altitudeMode>
+				</LookAt>
+				<styleUrl>#__managed_style_0F1E8456C240735F2957</styleUrl>
+				<Point>
+					<extrude>1</extrude>
+					<coordinates>-159.7109444,21.9689722,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="0F451A14393AAE5CB98C">
+				<name>K20 Offspring</name>
+				<description><![CDATA[<div>New in 2025</div>]]></description>
+				<LookAt>
+					<longitude>-159.711169812341</longitude>
+					<latitude>21.96911022072893</latitude>
+					<altitude>2.270895596810916</altitude>
+					<heading>0</heading>
+					<tilt>0</tilt>
+					<gx:fovy>35</gx:fovy>
+					<range>24.99999605342965</range>
+					<altitudeMode>absolute</altitudeMode>
+				</LookAt>
+				<styleUrl>#__managed_style_1C05576F6D40735F295B</styleUrl>
+				<Point>
+					<coordinates>-159.7111703743795,21.96911447472501,2.270893743621514</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="046194E6C03AAE5ECF80">
+				<name>K21 Offspring</name>
+				<description><![CDATA[<div>New in 2025<br></div><div><br></div>]]></description>
+				<LookAt>
+					<longitude>-159.7108611</longitude>
+					<latitude>21.9689444</latitude>
+					<altitude>0</altitude>
+					<heading>0</heading>
+					<tilt>0</tilt>
+					<gx:fovy>35</gx:fovy>
+					<range>971.2938971235876</range>
+					<altitudeMode>relativeToGround</altitudeMode>
+				</LookAt>
+				<styleUrl>#__managed_style_0F1E8456C240735F2957</styleUrl>
+				<Point>
+					<extrude>1</extrude>
+					<coordinates>-159.7108611,21.9689444,0</coordinates>
+				</Point>
+			</Placemark>
+		</Folder>
+		<Folder id="0A227D17A83A75081188">
+			<name>Kekaha</name>
+			<open>1</open>
+			<styleUrl>#__managed_style_08EAA0029740735F2958</styleUrl>
+		</Folder>
+		<Folder id="04BCCBEF063AAE6417F8">
+			<name>O&apos;ahu</name>
+			<open>1</open>
+			<styleUrl>#__managed_style_08EAA0029740735F2958</styleUrl>
+		</Folder>
+		<Placemark id="05C40B2B023B85ED2543">
+			<name>K21</name>
+			<LookAt>
+				<longitude>-159.7117549567939</longitude>
+				<latitude>21.96882068327101</latitude>
+				<altitude>2.415148992990879</altitude>
+				<heading>0</heading>
+				<tilt>0</tilt>
+				<gx:fovy>35</gx:fovy>
+				<range>198.0845252611471</range>
+				<altitudeMode>absolute</altitudeMode>
+			</LookAt>
+			<styleUrl>#__managed_style_0ED41C4A8D40735F2960</styleUrl>
+			<Point>
+				<coordinates>-159.711309569977,21.96884488852501,2.270906962096149</coordinates>
+			</Point>
+		</Placemark>
+		<atom:link rel="app" href="https://www.google.com/earth/about/versions/#earth-pro" title="Google Earth Pro 7.3.7.1155"></atom:link>
+	</Folder>
+</Document>
+</kml>
