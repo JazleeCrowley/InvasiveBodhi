@@ -16,7 +16,7 @@ Chapter 3 of Dissertation focusing on the introduction of the Bodhi tree on the 
 ## Kauai Overtime Project
 I am comparing the spread of Bodhi trees from 2023-2025 on Kaua'i.
 [Here is the histogram](./Figures/Kauai_trees_by_year.png)
-showing Bodhi tree spread across three individual trees across the three years on Kaua'i.
+showing Bodhi tree spread across three individual trees across the three years on Kaua'i. [This is a simple table](./Figures/Kauai_Averages.png) of basic statistics for Kaua'i offspring differences, with its code [here](./code/Manuscripttables/Kauai_Averages.r).
 ## Island Comparisons
 Compare all islands' Bodhi tree spread and density to eachother in 2025
 ### Kaua'i versus O'ahu
