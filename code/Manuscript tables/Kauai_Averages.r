@@ -8,7 +8,7 @@ install.packages("webshot2")
 #read in data
 #read in data from numbers file
 
-df <- read.csv("data/raw/Kaua'i_Averages(Sheet1).csv")
+df <- read.csv("data/raw/Kaua'i_Averages(Sheet1).csv", colClasses = c(Year = "character"))
 
 
 
@@ -16,7 +16,7 @@ df <- read.csv("data/raw/Kaua'i_Averages(Sheet1).csv")
 table <- df |>
   gt() |>
   tab_header(
-    title = html("Total Recorded Occurrences of <i>F. religiosa</i> on Three Hawaiian Islands"),
+    title = html("Supplementary Table 2: Average Values of <i>F. religiosa</i> Distances on Kaua'i"),
     subtitle = "Generated from Excel in R"
   ) |>
   fmt_number(
@@ -29,6 +29,6 @@ table <- df |>
   )
 print(table)
 
-gtsave(table, "Total_Hawaii_trees.html")
+gtsave(table, "Kauai_Averages.html")
 #save as a png file
-webshot2::webshot("Total_Hawaii_trees.html", "Total_Hawaii_trees.png", vwidth = 600, vheight = 800, zoom = 3)
+webshot2::webshot("Kauai_Averages.html", "Kauai_Averages.png", vwidth = 600, vheight = 800, zoom = 3)
