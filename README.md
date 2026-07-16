@@ -15,15 +15,15 @@ Chapter 3 of Dissertation focusing on the introduction of the Bodhi tree on the 
 
 ## Kauai Overtime Project
 I am comparing the spread of Bodhi trees from 2023-2025 on Kaua'i.
-[Here is the histogram](./Figures/Kauai_trees_by_year.png)
-showing Bodhi tree spread across three individual trees across the three years on Kaua'i. [This is a simple table](./Figures/Kauai_Averages.png) of basic statistics for Kaua'i offspring distances.
+[Here is the histogram](./Figures/Kaua'i_Time/Kauai_trees_by_year.png)
+showing Bodhi tree spread across three individual trees across the three years on Kaua'i. [This is a simple table](./Figures/Supplementary/Kauai_Averages.png) of basic statistics for Kaua'i offspring distances.
 ## Island Comparisons
 Compare all islands' Bodhi tree spread and density to eachother in 2025
 ### Kaua'i versus O'ahu
 Kaua'i currently represents an established non-native situation, while O'ahu clearly shows an invasive level of Bodhi tree spread. 
 
-[This figure](./Figures/Oahu_Kauai_PairwiseDistance.pdf)
-helps visualize the different distribution types (very dense versus sparse distribution) that Bodhi tree occurences show across the two islands, with the permutation test simulated figure with comparison to real distances [here](./Figures/Histogram_ks_perm.png). This was made using a pairwise distribution method, subsequently analyzed with a Kolmogorov-Smirnov and permutation analysis, for which you may find the code 
+[This figure](./Figures/Island_Comparison/Oahu_Kauai_PairwiseDistance.pdf)
+helps visualize the different distribution types (very dense versus sparse distribution) that Bodhi tree occurences show across the two islands, with the permutation test simulated figure with comparison to real distances [here](./Figures/Island_Comparison/Histogram_ks_perm.png). This was made using a pairwise distribution method, subsequently analyzed with a Kolmogorov-Smirnov and permutation analysis, for which you may find the code 
 [here.](./code/Pairwise_Distance_Analysis.R)
 
 
